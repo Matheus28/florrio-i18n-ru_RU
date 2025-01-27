@@ -30,6 +30,14 @@ UI/TimeLeft/Now=any second now
 UI/Title/Loading=Loading...
 UI/Title/Connecting=Connecting...
 UI/Title/LoggingIn=Logging in...
+UI/Title/Ready=Ready
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0=Garden
+UI/Title/Biome/1=Desert
+UI/Title/Biome/2=Ocean
+UI/Title/Biome/3=Jungle
+UI/Title/Biome/4=Hel
 
 UI/Login/PlayAsGuest=Play as guest
 UI/Login/SignInApple=Sign in with Apple
