@@ -51,12 +51,15 @@ UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devi
 UI/Login/Linked=Linked
 UI/Login/SupportPIN=Support PIN: {0}
 UI/Login/SupportPINHidden=Support PIN: (click to show)
-UI/Login/SupportPINInstruction1=Save this in case you lose access to your account
-UI/Login/SupportPINInstruction2=Do not share your support PIN with anyone
+UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
+UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
 
 UI/Premium/MustLink1=To make any purchases, you must first
 UI/Premium/MustLink2=link your account to Discord or Apple.
+
+UI/AFKCheck/Title=AFK Check
+UI/AFKCheck/Instructions=Drag the circle until the end
 
 UI/Achievement/Reward=Reward
 UI/Achievement/RewardTP={0} TP
@@ -83,21 +86,21 @@ UI/Craft/Title=Craft
 UI/Craft/Button=Craft
 UI/Craft/Chance={0:perc}% success chance
 UI/Craft/UnknownChance=?% success chance
-UI/Craft/CombineInstruction=Combine {0} of the same petal to craft an upgrade
-UI/Craft/FailureInstruction=Failure will destroy {0}-{1} petals
+UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
+UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
 
 UI/Absorb/Title=Absorb
 UI/Absorb/Button=Absorb
-UI/Absorb/Instruction=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
 
 UI/CoinCraft/Title=Trade
 UI/CoinCraft/Button=Trade
-UI/CoinCraft/Instruction=You can trade a petal for a coin of the same rarity
+UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
 UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
 
 UI/OracleCraft/Title=Oracle
 UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instruction=The Oracle will guarantee a craft... for the right price.
+UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
 UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
 UI/Plinko/Title=Plinko
@@ -105,7 +108,7 @@ UI/Plinko/Auto=Auto
 
 UI/UniqueCraft/Title=Forge
 UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instruction=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
+UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
 UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
 UI/Death/Poison=Poison
