@@ -82,3 +82,4 @@ Chat/CommandError/WhisperTargetNotConnected=Target not connected or not acceptin
 Chat/CommandError/WhisperSelf=You can keep those thoughts in your head.
 Chat/CommandError/GuestsCannotSendWhispers=Guests cannot send whispers.
 Chat/CommandError/GuestsCannotReceiveWhispers=Guests cannot receive whispers.
+Chat/CommandError/WhispersDisabled=You cannot send whispers if you have whispers disabled in the settings.
