@@ -97,7 +97,7 @@ UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
 
 UI/Absorb/Title=Absorb
 UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
 
 UI/CoinCraft/Title=Trade
 UI/CoinCraft/Button=Trade
