@@ -114,27 +114,3 @@ UI/UniqueCraft/Instructions=Unique petals will last until another player forges 
 UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
 UI/Death/Poison=Poison
-
-UI/Attribute/Health=Health
-UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
-
-UI/Attribute/FlowerHealth=Flower Health
-UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
-
-UI/Attribute/BodyDamage=Body Damage
-UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
-
-UI/Attribute/Poison=Poison
-UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
-
-UI/Attribute/Luck=Luck
-UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
-
-UI/Attribute/Healing=Healing
-UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
-
-UI/Attribute/RotationSpeed=Rotation Speed
-UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
-
-UI/Attribute/AttackRange=Attack Range
-UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>

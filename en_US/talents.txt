@@ -38,7 +38,7 @@ Talents/inventory10/Name=Inventory
 Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
 
 Talents/health/Name=Health
-Talents/health/Description=Increases base {#UI/Attribute/FlowerHealthColored} by {0:perc}%.
+Talents/health/Description=Increases base {#Flower/Attribute/HealthNoColon} by {0:perc}%.
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -65,7 +65,7 @@ Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
 Talents/luck/Name=Luck
-Talents/luck/Description=Increases {#UI/Attribute/LuckColored} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+Talents/luck/Description=Increases {#Flower/Attribute/LuckNoColon} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -80,7 +80,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=Medic
-Talents/medic/Description=Increases {#UI/Attribute/HealingColored} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+Talents/medic/Description=Increases {#Flower/Attribute/HealingNoColon} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -107,7 +107,7 @@ Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
 Talents/summoner/Name=Summoner
-Talents/summoner/Description=Increases {#UI/Attribute/HealthColored} of summoned mobs by {0:perc}%.
+Talents/summoner/Description=Increases {#Mob/Attribute/HealthNoColon} of summoned mobs by {0:perc}%.
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -158,7 +158,7 @@ Talents/reload8/Name=Reload
 Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
 
 Talents/body_damage/Name=Sharp Edges
-Talents/body_damage/Description=Increases {#UI/Attribute/BodyDamageColored} by {0:perc}%.
+Talents/body_damage/Description=Increases {#Flower/Attribute/DamageNoColon} by {0:perc}%.
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
 Talents/body_damage1/Description={#Talents/body_damage/Description}
@@ -185,7 +185,7 @@ Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
 Talents/petal_rotation/Name=Petal Rotation
-Talents/petal_rotation/Description=Increases petal {#UI/Attribute/RotationSpeedColored} from {1:tooltip} to {0:tooltip} rad/s.
+Talents/petal_rotation/Description=Increases petal {#Flower/Attribute/RotationSpeedNoColon} from {1:tooltip} to {0:tooltip} rad/s.
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
@@ -203,7 +203,7 @@ Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
 
 Talents/reach/Name=Reach
-Talents/reach/Description=Increases petal {#UI/Attribute/AttackRangeColored} by {0:tooltip}.
+Talents/reach/Description=Increases petal {#Flower/Attribute/AttackRangeNoColon} by {0:tooltip}.
 
 Talents/reach1/Name={#Talents/reach/Name}
 Talents/reach1/Description={#Talents/reach/Description}
@@ -224,10 +224,10 @@ Talents/magnetism/Name=Magnetism
 Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
 
 Talents/body_toxicity/Name=Body Toxicity
-Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#UI/Attribute/BodyDamageColored} as {#UI/Attribute/PoisonColored} over {1:tooltip}s.
+Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/DamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
 
 Talents/poison/Name=Poison
-Talents/poison/Description=Increases all {#UI/Attribute/PoisonColored} damage by {0:perc}%.
+Talents/poison/Description=Increases all {#Attribute/PoisonNoColon} damage by {0:perc}%.
 
 Talents/poison1/Name={#Talents/poison/Name}
 Talents/poison1/Description={#Talents/poison/Description}
@@ -254,7 +254,7 @@ Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
 Talents/concentrated_poison/Name=Concentrated Poison
-Talents/concentrated_poison/Description=Increases {#UI/Attribute/PoisonColored} damage per second by {0:perc}%.<n/>Decreases {#UI/Attribute/PoisonColored} duration by {1:perc}%.
+Talents/concentrated_poison/Description=Increases {#Attribute/PoisonNoColon} damage per second by {0:perc}%.<n/>Decreases {#Attribute/PoisonNoColon} duration by {1:perc}%.
 
 Talents/duplicator/Name=Duplicator
 Talents/duplicator/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
