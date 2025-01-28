@@ -158,7 +158,7 @@ Talents/reload8/Name=Reload
 Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
 
 Talents/body_damage/Name=Sharp Edges
-Talents/body_damage/Description=Increases {#Flower/Attribute/DamageNoColon} by {0:perc}%.
+Talents/body_damage/Description=Increases {#Flower/Attribute/BodyDamageNoColon} by {0:perc}%.
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
 Talents/body_damage1/Description={#Talents/body_damage/Description}
@@ -224,7 +224,7 @@ Talents/magnetism/Name=Magnetism
 Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
 
 Talents/body_toxicity/Name=Body Toxicity
-Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/DamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
+Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
 
 Talents/poison/Name=Poison
 Talents/poison/Description=Increases all {#Attribute/PoisonNoColon} damage by {0:perc}%.

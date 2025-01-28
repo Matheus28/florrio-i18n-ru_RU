@@ -1,9 +1,10 @@
-Attribute/PoisonNoColon=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+Attribute/PoisonNoColon=<c val="#ce76db">Poison</c>
 
 Flower/Attribute/Health=<c val="#66FF66">Flower Health:</c> {0:tooltip}
 Flower/Attribute/HealthNoColon=<c val="#66FF66">Flower Health</c>
-Flower/Attribute/Damage=<c val="#FF6666">Body Damage:</c> {0:tooltip}
-Flower/Attribute/DamageNoColon=<c val="#FF6666">Body Damage</c>
+Flower/Attribute/BodyDamage=<c val="#FF6666">Body Damage:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=<c val="#FF6666">Body Damage</c>
+Flower/Attribute/BodyPoison=<c val="#ce76db">Body Poison:</c> {0:tooltip} ({1:tooltip}/s)
 Flower/Attribute/LuckNoColon=<c val="#d2eb34">Luck</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="#d2eb34">Rotation Speed</c>
 Flower/Attribute/AttackRangeNoColon=<c val="#d2eb34">Attack Range</c>
