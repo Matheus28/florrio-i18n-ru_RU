@@ -10,7 +10,7 @@ January 9th 2025
 	- Slows have been reworked. Now their effectiveness will depend on mob vs petal rarity.
 	- Yggdrasil now applies a 30s cooldown on the revived flower, preventing it from being revived again during that time.
 	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
-	- Some death ui improvements."
+	- Some death ui improvements.
 
 December 25th 2024
 	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
@@ -176,11 +176,11 @@ January 29th 2023
 
 January 28th 2023
 	- Nicknames are now permanent and unique. You'll be prompted for one the first time you play.
-	- Mobs are no longer constrained by mere physical space limits. Their hitbox against the map has been decreased significantly."
+	- Mobs are no longer constrained by mere physical space limits. Their hitbox against the map has been decreased significantly.
 
 January 21st 2023
 	- Added a new map section to Centralia Fields, East Waters and South Desert.
-	- Changed the way beetles move."
+	- Changed the way beetles move.
 
 January 19th 2023
 	- The game finally has a world map. Enjoy exploring and finding interesting places.
@@ -260,7 +260,7 @@ November 3rd 2022
 	- Recipe for Ultra petals has changed.
 	  Now creates 3 Ultras from 1 Mythic.
 	  No longer reverts back to Mythic on use, it's just lost forever.
-	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe)."
+	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe).
 
 November 2nd 2022
 	- Added Ultra petals.
@@ -405,7 +405,7 @@ July 14th 2022
 
 July 13th 2022
 	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
-	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting."
+	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
 
 July 12th 2022
 	- Mobs can now only drop petals up to 1 rarity level above themselves
