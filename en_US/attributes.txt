@@ -10,7 +10,31 @@ Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">Rotation Speed<
 Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">Attack Range</c>
 Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">Healing</c>
 
+Mob/Attribute/Health=<c val="{#Colors/health}">Health:</c> {0:tooltip}
+Mob/Attribute/HealthRange=<c val="{#Colors/health}">Health:</c> {0:tooltip}~{1:tooltip}
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Health</c>
+Mob/Attribute/Damage=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Damage:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Mob/Attribute/Armor=<c val="{#Colors/armor}">Armor:</c> {0:tooltip}
+Mob/Attribute/Poison=<c val="{#Colors/poison}">Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Poison:</c> {0:tooltip}/s
+Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">Psyonic Connection</c>
+Mob/Attribute/PollenHealth=<c val="{#Colors/health}">Pollen Health:</c> {0:tooltip}
+Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">Pollen Damage:</c> {0:tooltip}
+Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
+Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">Missile Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Mob/Attribute/PearlHealth=<c val="{#Colors/health}">Pearl Health:</c> {0:tooltip}
+Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">Pearl Damage:</c> {0:tooltip}
+Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
+Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
+Mob/Attribute/Duration=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime}
+Mob/Attribute/Swallows=<c val="{#Colors/generic}">Swallows</c>
+Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Armor Debuff:</c> {0:tooltip}
+Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Lifesteal:</c> {0:tooltip}
+Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}
+Mob/Attribute/Bounces=<c val="{#Colors/generic}">Bounces:</c> {0:tooltip}
+Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasion:</c> {0:perc}%
 
 Petal/Attribute/Health=<c val="{#Colors/health}">Health:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}

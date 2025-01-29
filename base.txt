@@ -19,3 +19,4 @@ Colors/lightning=#36ffe7
 Colors/mana=#42e3f5
 Colors/danger=#ff3333
 Colors/reflection=#999999
+Colors/psyonic=#c7a138
