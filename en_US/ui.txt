@@ -76,6 +76,10 @@ UI/Social/QQ=加入我们的QQ群!
 
 UI/AbandonGame=Abandon game
 
+UI/LevelBar/Level=Lvl {0}
+UI/LevelBar/LevelLong=Lvl {0} Flower
+UI/LevelBar/XP={0}/{1} XP
+
 UI/Chat/PromptTap=Tap here to chat
 UI/Chat/PromptClick=Click here to chat
 UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
