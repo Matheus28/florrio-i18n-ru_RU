@@ -73,13 +73,14 @@ UI/Premium/MustLink2=link your account to Discord or Apple.
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
 
-UI/Achievement/Reward=Reward
-UI/Achievement/RewardTP={0} TP
-UI/Achievement/Done=Done
-UI/Achievement/Track=Track
-UI/Achievement/TrackAutomatically=Track automatically
-UI/Achievement/Hidden=???
-UI/Achievement/TotalProgress={0}/{1} completed
+UI/Achievements/Title=Achievements
+UI/Achievements/Reward=Reward
+UI/Achievements/RewardTP={0} TP
+UI/Achievements/Done=Done
+UI/Achievements/Track=Track
+UI/Achievements/TrackAutomatically=Track automatically
+UI/Achievements/Hidden=???
+UI/Achievements/TotalProgress={0}/{1} completed
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
