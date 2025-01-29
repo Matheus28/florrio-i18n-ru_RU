@@ -29,7 +29,7 @@ UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
 
 ## Testing changes (web version)
 
-Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you to upload .txt files. Select ALL txt files for the language you wanna test (you do not need to upload the `base.txt` file). The page will refresh with the new language loaded. If you leave the page again, it'll go back to your previously selected language. **DO NOT UPLOAD THE `changelog.txt` file.** It's in a different format and not meant to be consumed there. The game will try to ignore any files named changelog.txt to prevent you from making this mistake.
+Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you to upload .txt files. Select ALL txt files for the language you wanna test (you do not need to upload the `base.txt` file). The page will refresh with the new language loaded. If you leave the page again, it'll go back to your previously selected language.
 
 ## Argument types
 
