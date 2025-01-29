@@ -82,6 +82,8 @@ UI/Achievements/TrackAutomatically=Track automatically
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} completed
 
+UI/MobGallery/Title=Mob Gallery
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
