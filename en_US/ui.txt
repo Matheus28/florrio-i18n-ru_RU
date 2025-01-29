@@ -19,18 +19,18 @@ UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
 UI/TooltipTime/Now=immediately
 
 # Helpers
-UI/Time/Days=1 day
+UI/Time/Days/1=1 day
 UI/Time/Days/N={0} days
-UI/Time/Hours/1= hour
+UI/Time/Hours/1=1 hour
 UI/Time/Hours/N={0} hours
 UI/Time/Minutes/1=1 minute
 UI/Time/Minutes/N={0} minutes
 UI/Time/Seconds/1=1 second
 UI/Time/Seconds/N={0} seconds
 
-UI/TooltipTime/Days=1 day
+UI/TooltipTime/Days/1=1 day
 UI/TooltipTime/Days/N={0:tooltip} days
-UI/TooltipTime/Hours/1= hour
+UI/TooltipTime/Hours/1=1 hour
 UI/TooltipTime/Hours/N={0:tooltip} hours
 UI/TooltipTime/Minutes/1=1 minute
 UI/TooltipTime/Minutes/N={0:tooltip} minutes
