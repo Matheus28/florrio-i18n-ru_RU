@@ -40,6 +40,12 @@ Chat/ServerClosing=This server is scheduled to close {0:timeLeft}.
 Chat/ServerClosed=Server is closed, time to leave.
 Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 
+Chat/Squad/Created=Squad {0} created.
+Chat/Squad/Joined=Joined squad.
+Chat/Squad/Left=Left squad.
+Chat/Squad/MemberJoined={0} has joined the squad.
+Chat/Squad/MemberLeft={0} has left the squad.
+
 Chat/Channel/Local=Local
 Chat/Channel/Squad=Squad
 Chat/Channel/Guild=Guild
