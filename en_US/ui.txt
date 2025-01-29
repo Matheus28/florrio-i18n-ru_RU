@@ -74,9 +74,6 @@ UI/Login/Reminder=Link your account to save your progress
 UI/Social/Discord=Join our Discord community!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/Premium/MustLink1=To make any purchases, you must first
-UI/Premium/MustLink2=link your account to Discord or Apple.
-
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
 
@@ -122,6 +119,38 @@ UI/Squad/Error/DoesNotExist=Squad does not exist
 UI/Squad/Error/CannotJoin=You can't join this squad
 UI/Squad/Error/LevelDifference=Your level isn't close enough to the squad level
 UI/Squad/Error/Full=Squad is full
+
+UI/Shop/Title=Shop
+UI/Shop/Button=Shop
+UI/Shop/Instructions=Today's offers:
+UI/Shop/TimeLeft=Store will change {0:timeLeft}
+UI/Shop/Lock=Lock
+UI/Shop/LockedChanged=Store will change once unlocked.
+UI/Shop/LockedNoChange=Store will not change while locked.
+UI/Shop/StarsHelp1=You gain stars by completing challenges, or you can
+UI/Shop/StarsHelp2=buy some by clicking the number on the right.
+UI/Shop/MustLink1=To make any purchases, you must first
+UI/Shop/MustLink2=link your account to Discord or Apple.
+UI/Shop/MustLinkCancel=Cancel
+UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
+UI/Shop/BuyStars/Extra=I have too much money
+UI/Shop/BuyStars/Cancel=Cancel
+UI/Shop/BuyPetal/Title=Confirm
+UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
+UI/Shop/BuyPetal/Cancel=Cancel
+UI/Shop/MagicPetalError/Title=Error
+UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you have a {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Cancel=Cancel
+UI/Shop/Loyalty/Title=Thank you!
+UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
+
+
+UI/DailyChallenge/Title=Challenge
+UI/DailyChallenge/Button=Challenge
+UI/DailyChallenge/Instructions=Defeat these enemies:
+UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
+UI/DailyChallenge/Claimed=Claimed
+UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
