@@ -89,3 +89,86 @@ Chat/CommandError/WhisperSelf=You can keep those thoughts in your head.
 Chat/CommandError/GuestsCannotSendWhispers=Guests cannot send whispers.
 Chat/CommandError/GuestsCannotReceiveWhispers=Guests cannot receive whispers.
 Chat/CommandError/WhispersDisabled=You cannot send whispers if you have whispers disabled in the settings.
+
+Chat/Oracle/Idle={#Chat/Oracle/Idle/{!rand:0:40}}
+Chat/Oracle/Idle/0=I can see the future
+Chat/Oracle/Idle/1=We can make a fair exchange
+Chat/Oracle/Idle/2=If not now, when?
+Chat/Oracle/Idle/3=The Oracle sees all
+Chat/Oracle/Idle/4=Let if be all that we see or seem
+Chat/Oracle/Idle/5=So many paths to choose
+Chat/Oracle/Idle/6=Beware what you wish for
+Chat/Oracle/Idle/7=Can one ever be sure?
+Chat/Oracle/Idle/8=If that is what one wants
+Chat/Oracle/Idle/9=And what if I do?
+Chat/Oracle/Idle/10=And what if I don't?
+Chat/Oracle/Idle/11=Ho ho! Imagine the outcome
+Chat/Oracle/Idle/12=It is ever thus
+Chat/Oracle/Idle/13=That is one possible course
+Chat/Oracle/Idle/14=There are no guarantees
+Chat/Oracle/Idle/15=So many destinies
+Chat/Oracle/Idle/16=Interpret this!
+Chat/Oracle/Idle/17=Choose wisely
+Chat/Oracle/Idle/18=Do not fear to commit
+Chat/Oracle/Idle/19=Commit! Or don't
+Chat/Oracle/Idle/20=Don't mind me
+Chat/Oracle/Idle/21=I scry with my little eye
+Chat/Oracle/Idle/22=If is not a word I use lightly
+Chat/Oracle/Idle/23=If only it were all this simple
+Chat/Oracle/Idle/24=Beware of stairs
+Chat/Oracle/Idle/25=You will die in a house fire
+Chat/Oracle/Idle/26=I see you dying of extreme old age. Or perhaps a very old person will kill you. One or the other
+Chat/Oracle/Idle/27=This prophecy supersedes all previous prophecies
+Chat/Oracle/Idle/28=Ignore all previous prophecies
+Chat/Oracle/Idle/29=I have a prophecy to deliver
+Chat/Oracle/Idle/30=Ignore all prior utterances
+Chat/Oracle/Idle/31=Prepare for unforeseen consequences
+Chat/Oracle/Idle/32=Some fates are indeterminate
+Chat/Oracle/Idle/33=I appear to be suffering from a blind spot
+Chat/Oracle/Idle/34=A vague anomaly when one considers this particular future. Troubling
+Chat/Oracle/Idle/35=Fate cannot be denied
+Chat/Oracle/Idle/36=Some futures cannot be bought
+Chat/Oracle/Idle/37=The cost of certainty
+Chat/Oracle/Idle/38=Again, again, and once again
+Chat/Oracle/Idle/39=Precisely as planned
+Chat/Oracle/Idle/40=I cannot be held responsible for all the outcomes
+
+# When a Super/Unique petal is about to be crafted
+Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!rand:0:2}}
+Chat/Oracle/Prediction/0=Ah yes, the prophecy... it should happen any time now...
+Chat/Oracle/Prediction/1=It was foretold, this is the moment...
+Chat/Oracle/Prediction/2=I was waiting for this moment...
+
+# Target dummy says these 4 lines 1 second apart after getting damaged a lot
+Chat/TargetDummy/Damaged/1=Ouch
+Chat/TargetDummy/Damaged/2=I mean
+Chat/TargetDummy/Damaged/3=Beep boop
+Chat/TargetDummy/Damaged/4=I'm a robot
+
+Chat/Gambler/Idle={#Chat/Gambler/Idle/{!rand:0:9}}
+Chat/Gambler/Idle/0=I LOVE GAMBLING
+Chat/Gambler/Idle/1=Where are the blackjack tables?
+Chat/Gambler/Idle/2=Where are the slots?
+Chat/Gambler/Idle/3=99% of gamblers quit just before they win big
+Chat/Gambler/Idle/4=Just one more game...
+Chat/Gambler/Idle/5=I'M ALL IN
+Chat/Gambler/Idle/6=I'm feeling lucky
+Chat/Gambler/Idle/7=Thirty-seventh time's the charm
+Chat/Gambler/Idle/8=Double or nothing?
+Chat/Gambler/Idle/9=Winner winner!
+
+Chat/Titan/Idle={#Chat/Titan/Idle/{!rand:0:8}}
+Chat/Titan/Idle/0=There can be only one
+Chat/Titan/Idle/1=I was the hammer at the Founding
+Chat/Titan/Idle/2=What is weak must break
+Chat/Titan/Idle/3=The forge of creation burns hotter
+Chat/Titan/Idle/4=What is weak must break
+Chat/Titan/Idle/5=The Worldsmith wanders
+Chat/Titan/Idle/6=Formed of the forge
+Chat/Titan/Idle/7=As the Shaper wills
+Chat/Titan/Idle/8=I stride the terrene plane
+
+Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
+Chat/Trader/Idle/0=May I interest you in a little trade?
+Chat/Trader/Idle/1=I'm looking to expand my collection...
+Chat/Trader/Idle/2=I have the coin, if you have wares
