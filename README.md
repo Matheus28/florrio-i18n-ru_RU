@@ -38,6 +38,7 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 - `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
 - `{0:tooltipTime}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers. It will also display decimals, such as 0.7 seconds, 5.4 seconds, etc.
 - `{0:1orN}` Will print either 1 or N, depending on the value of the number.
+- `{0:lastDigit}` Will print the last digit (0-9). If the number is a float, it is first cast to integer.
 
 ### String
 - `{0}` Will print in escaped form (< will turn into &amp;lt;, > will turn into &amp;gt;, etc.). This is mostly used when printing player names or other user text, to prevent them from using colors
