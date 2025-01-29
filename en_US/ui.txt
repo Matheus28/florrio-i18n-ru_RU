@@ -54,6 +54,7 @@ UI/Title/Biome/2=Ocean
 UI/Title/Biome/3=Jungle
 UI/Title/Biome/4=Hel
 
+UI/Login/Title=Account
 UI/Login/PlayAsGuest=Play as guest
 UI/Login/SignInApple=Sign in with Apple
 UI/Login/SignInDiscord=Sign in with Discord
@@ -69,6 +70,9 @@ UI/Login/SupportPINHidden=Support PIN: (click to show)
 UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
 UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
+
+UI/Social/Discord=Join our Discord community!
+UI/Social/QQ=加入我们的QQ群!
 
 UI/Premium/MustLink1=To make any purchases, you must first
 UI/Premium/MustLink2=link your account to Discord or Apple.
@@ -86,6 +90,8 @@ UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} completed
 
 UI/MobGallery/Title=Mob Gallery
+
+UI/Changelog/Title=Changelog
 
 UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
