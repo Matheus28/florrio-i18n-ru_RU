@@ -134,3 +134,54 @@ UI/UniqueCraft/Instructions=Unique petals will last until another player forges 
 UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
 UI/Death/Poison=Poison
+
+UI/Settings/Title=Settings
+UI/Settings/Game=Game
+UI/Settings/Graphics=Graphics
+UI/Settings/Controls=Controls
+UI/Settings/Credits=Credits
+
+UI/Settings/Realm=Realm
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=Automatic
+UI/Settings/Realms/1=Juliett (US)
+UI/Settings/Realms/2=Romeo (EU)
+UI/Settings/Realms/3=Sierra (ASIA)
+
+UI/Settings/Chat=Chat
+UI/Settings/ChatWhispers=Chat Whispers
+
+UI/Settings/AutoJoinSquads=Auto-join squads
+
+UI/Settings/HideOtherPetals=Hide other petals
+
+UI/Settings/EquipDrops=Equip drops
+
+UI/Settings/Quality=Quality
+UI/Settings/Quality/Low=Low
+UI/Settings/Quality/Medium=Medium
+UI/Settings/Quality/High=High
+
+UI/Settings/ShowDamageNumbers=Show damage numbers
+
+UI/Settings/ScreenShake=Screen shake
+
+UI/Settings/LiveIcons=Live icons
+
+UI/Settings/TouchControls=Touch controls
+
+UI/Settings/KeyboardMovement=Keyboard movement
+
+UI/Settings/MovementHelper=Movement helper
+
+UI/Settings/FixedJoystick=Fixed joystick
+
+UI/Settings/AutoSaveLoadout=Auto-save loadout
+
+UI/Settings/PrivacyPolicy=Privacy Policy
+UI/Settings/TermsOfService=Terms of Service
+
+UI/Credits/MadeBy=Made by {0}
+UI/Credits/SomeIcons=Some icons from {0}
+UI/Credits/SomeTiles=Some tiles from {0}
+UI/Credits/SpecialThanks=Special Thanks
