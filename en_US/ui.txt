@@ -74,6 +74,12 @@ UI/Login/Reminder=Link your account to save your progress
 UI/Social/Discord=Join our Discord community!
 UI/Social/QQ=加入我们的QQ群!
 
+UI/AbandonGame=Abandon game
+
+UI/Chat/PromptTap=Tap here to chat
+UI/Chat/PromptClick=Click here to chat
+UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
+
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
 
@@ -93,6 +99,7 @@ UI/Changelog/Title=Changelog
 UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
 UI/Inventory/Instructions=Drag a petal to equip it
+UI/Inventory/Speed=Speed
 
 UI/Guild/Title=Guild
 UI/Guild/NoGuild=You don't have a guild yet
