@@ -4,6 +4,8 @@
 
 `{#key}` will fetch another key in the translation files of the same language. It can be nested to accomplish more complex substitutions. You can to forward the arguments you want to that new key, for example: `{#key:0:2}`. will forward the 0th and 2nd arguments in that order (so 0th and 1st when processing that key). If you don't specify which arguments to forward, it'll forward all of them in order. You can also specify multiply keys. For example, in `{#key1#key2}` it'll first look for `key1`, and if it can't be found, it'll fetch `key2` instead. If no keys can be found, it'll be replaced by an empty string (it's not an error by itself).
 
+`{!func:arg0:arg1:...}` will call specific built in functions. See below.
+
 
 An example of how rarities are done in English:
 ```
@@ -65,3 +67,8 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 ### Petal Rarity
 - `{0}` Will print the rarity (common/unusual/rare/etc)
 - `{0:color}` Will print the rarity color (#7EEF6D, #FFE65D, etc)
+
+## Functions
+
+### rand
+- `{!rand:A:B}` will generate a random number between A and B (inclusive). Note that the number might be different each time the translation is done, so it's only really meant to be used in places like mob chat lines, so you can pick one of several random options.
