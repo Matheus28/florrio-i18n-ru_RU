@@ -88,6 +88,26 @@ UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
 UI/Inventory/Instructions=Drag a petal to equip it
 
+UI/Guild/Title=Guild
+UI/Guild/NoGuild=You don't have a guild yet
+UI/Guild/Invite=You've been invited to:
+UI/Guild/Invite/Button=Accept
+UI/Guild/Invite/Expiration=This invitation will expire soon if not accepted
+UI/Guild/ChatSetting=Chat
+UI/Guild/SquadButton=Squad
+UI/Guild/KickButton=Kick
+UI/Guild/Leader=(Leader)
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=Member (1)
+UI/Guild/Members/N=Members ({0})
+UI/Guild/LeaveButton=Leave
+UI/Guild/Leave/Title=Leave guild
+UI/Guild/Leave/Instructions=Are you sure?
+UI/Guild/Leave/Confirm=Leave
+UI/Guild/Leave/Cancel=Cancel
+
+UI/Squad/Title=Squad
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
@@ -192,3 +212,7 @@ UI/Credits/MadeBy=Made by {0}
 UI/Credits/SomeIcons=Some icons from {0}
 UI/Credits/SomeTiles=Some tiles from {0}
 UI/Credits/SpecialThanks=Special Thanks
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=Guild
+UI/HelperText/Squad=Squad
