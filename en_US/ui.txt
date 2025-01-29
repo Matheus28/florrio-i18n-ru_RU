@@ -79,6 +79,8 @@ UI/AbandonGame=Abandon game
 UI/Chat/PromptTap=Tap here to chat
 UI/Chat/PromptClick=Click here to chat
 UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
+UI/Chat/Player/Block=Block
+UI/Chat/Player/ReportMessage=Report message
 
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
