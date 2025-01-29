@@ -43,6 +43,9 @@ UI/Title/LoggingIn=Logging in...
 UI/Title/Ready=Ready
 UI/Title/GuestName=Guest
 UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
+UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
+UI/Title/Name/AlreadyTaken=Nickname already taken.
+UI/Title/Name/InternalError=Internal error, try again later.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
 UI/Title/Biome/0=Garden
@@ -107,6 +110,12 @@ UI/Guild/Leave/Confirm=Leave
 UI/Guild/Leave/Cancel=Cancel
 
 UI/Squad/Title=Squad
+UI/Squad/Error/NotAllowed=Squads not allowed in this mode
+UI/Squad/Error/Spam=You're doing that too much
+UI/Squad/Error/DoesNotExist=Squad does not exist
+UI/Squad/Error/CannotJoin=You can't join this squad
+UI/Squad/Error/LevelDifference=Your level isn't close enough to the squad level
+UI/Squad/Error/Full=Squad is full
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
