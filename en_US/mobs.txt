@@ -1,176 +1,176 @@
-Mobs/rock/Name=Rock
-Mobs/rock/Description=A rock. It doesn't do much.
-Mobs/rock/Spawn=Something mountain-like appears in the distance...
+Mobs/rock/Name=Камень
+Mobs/rock/Description=Просто камень. Он мало что делает.
+Mobs/rock/Spawn=Вдали появляется что-то похожее на гору...
 
-Mobs/cactus/Name=Cactus
-Mobs/cactus/Description=Avoid touching it, it hurts.
-Mobs/cactus/Spawn=A tower of thorns rises from the sands...
+Mobs/cactus/Name=Кактус
+Mobs/cactus/Description=Лучше не трогать его, а то будет больно.
+Mobs/cactus/Spawn=Из песков поднимается терновая башня...
 
-Mobs/ladybug/Name=Ladybug
-Mobs/ladybug/Description=Cute and harmless.
+Mobs/ladybug/Name=Божья Коровка
+Mobs/ladybug/Description=Милая и безобидная.
 
-Mobs/bee/Name=Bee
-Mobs/bee/Description=It stings. Don't touch it.
+Mobs/bee/Name=Пчела
+Mobs/bee/Description=Она жалит. Не трогай её.
 
-Mobs/ant_baby/Name=Baby Ant
-Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
+Mobs/ant_baby/Name=Муравей-Детёныш
+Mobs/ant_baby/Description=Слабый и беззащитный, но с большими мечтами.
 
-Mobs/ant_worker/Name=Worker Ant
-Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
+Mobs/ant_worker/Name=Муравей-Рабочий
+Mobs/ant_worker/Description=Он слегка темпераментный, наверное, из-за того, что постоянно работает.
 
-Mobs/ant_soldier/Name=Soldier Ant
-Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
+Mobs/ant_soldier/Name=Муравей-Солдат
+Mobs/ant_soldier/Description=У него есть крылья, и он готов их использовать.
 
-Mobs/ant_queen/Name=Queen Ant
-Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
+Mobs/ant_queen/Name=Королева Муравьёв
+Mobs/ant_queen/Description=Ты, должно быть, сделал что-то очень плохое, если она гонится за тобой.
 
-Mobs/ant_hole/Name=Ant Hole
-Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
+Mobs/ant_hole/Name=Муравейник
+Mobs/ant_hole/Description=Муравьи заходят и выходят. Не могу это объяснить.
 
-Mobs/beetle/Name=Beetle
-Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
+Mobs/beetle/Name=Жук
+Mobs/beetle/Description=Он голоден, а цветки — его любимая еда.
 
-Mobs/hornet/Name=Hornet
-Mobs/hornet/Description=These aren't quite as nice as the little bees.
-Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
+Mobs/hornet/Name=Шершень
+Mobs/hornet/Description=Они не так хороши, как маленькие пчёлки.
+Mobs/hornet/Spawn=Вдали виднеется большое жёлтое пятно...
 
-Mobs/centipede/Name=Centipede
-Mobs/centipede/Description=It's just there doing its thing.
+Mobs/centipede/Name=Многоножка
+Mobs/centipede/Description=Она просто делает свои дела.
 
-Mobs/centipede_body/Name=Centipede
-Mobs/centipede_body/Description=It's just there doing its thing.
+Mobs/centipede_body/Name=Многоножка
+Mobs/centipede_body/Description=Она просто делает свои дела.
 
-Mobs/centipede_evil/Name=Centipede
-Mobs/centipede_evil/Description=This one loves flowers.
+Mobs/centipede_evil/Name=Многоножка
+Mobs/centipede_evil/Description=А эта любит цветки.
 
-Mobs/centipede_evil_body/Name=Centipede
-Mobs/centipede_evil_body/Description=This one loves flowers.
+Mobs/centipede_evil_body/Name=Многоножка
+Mobs/centipede_evil_body/Description=А эта любит цветки.
 
-Mobs/centipede_desert/Name=Centipede
-Mobs/centipede_desert/Description=Gotta go fast.
+Mobs/centipede_desert/Name=Многоножка
+Mobs/centipede_desert/Description=Надо бежать быстро.
 
-Mobs/centipede_desert_body/Name=Centipede
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Name=Многоножка
+Mobs/centipede_desert_body/Description=Надо бежать быстро.
 
-Mobs/square/Name=Square
-Mobs/square/Description=This shape... it looks familiar...
+Mobs/square/Name=Квадрат
+Mobs/square/Description=Эта фигура... выглядит знакомо...
 
-Mobs/ladybug_dark/Name=Ladybug
-Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
+Mobs/ladybug_dark/Name=Божья Коровка
+Mobs/ladybug_dark/Description=Милая и безобидная... если не провоцировать.
 
-Mobs/ladybug_shiny/Name=Ladybug
-Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
+Mobs/ladybug_shiny/Name=Божья Коровка
+Mobs/ladybug_shiny/Description=Солнечная, милая и в основном безобидная.
 
-Mobs/spider/Name=Spider
-Mobs/spider/Description=Spooky.
+Mobs/spider/Name=Паук
+Mobs/spider/Description=Жуть.
 
-Mobs/scorpion/Name=Scorpion
-Mobs/scorpion/Description=IT STINGS!
+Mobs/scorpion/Name=Скорпион
+Mobs/scorpion/Description=ОН ЖАЛИТ!
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
-Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_soldier/Name=Огненный Муравей-Солдат
+Mobs/fire_ant_soldier/Description=Этот муравей гориииииииииииииит.
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
-Mobs/fire_ant_burrow/Description=What could be in here?
+Mobs/fire_ant_burrow/Name=Огненный Муравейник
+Mobs/fire_ant_burrow/Description=Что здесь может быть?
 
-Mobs/sandstorm/Name=Sandstorm
-Mobs/sandstorm/Description=Darude (1999)
+Mobs/sandstorm/Name=Песчаная Буря
+Mobs/sandstorm/Description=Даруд (1999)
 
-Mobs/bubble/Name=Bubble
-Mobs/bubble/Description=Pop
+Mobs/bubble/Name=Пузырь
+Mobs/bubble/Description=Буль
 
-Mobs/bumble_bee/Name=Bumble Bee
-Mobs/bumble_bee/Description=GOTTA RUN.
+Mobs/bumble_bee/Name=Шмель
+Mobs/bumble_bee/Description=НАДО БЕЖАТЬ.
 
-Mobs/shell/Name=Shell
-Mobs/shell/Description=Not an advertisement.
+Mobs/shell/Name=Ракушка
+Mobs/shell/Description=Не реклама.
 
-Mobs/starfish/Name=Starfish
-Mobs/starfish/Description=His name is Patrick.
+Mobs/starfish/Name=Морская Звезда
+Mobs/starfish/Description=Его зовут Патрик.
 
-Mobs/crab/Name=Crab
-Mobs/crab/Description=Mr. Crab.
+Mobs/crab/Name=Краб
+Mobs/crab/Description=Мистер Краб.
 
-Mobs/jellyfish/Name=Jellyfish
-Mobs/jellyfish/Description=Makes the most delicious jam.
-Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
+Mobs/jellyfish/Name=Медуза
+Mobs/jellyfish/Description=Делает самое вкусное желе.
+Mobs/jellyfish/Spawn=Ты слышишь удары молнии, доносящиеся издалека...
 
-Mobs/digger/Name=Digger
-Mobs/digger/Description=Wrong game, bud.
+Mobs/digger/Name=Копатель
+Mobs/digger/Description=Не та игра, дружище.
 
-Mobs/sponge/Name=Sponge
-Mobs/sponge/Description=Bob.
+Mobs/sponge/Name=Губка
+Mobs/sponge/Description=Боб.
 
-Mobs/leech/Name=Leech
-Mobs/leech/Description=Slurp slurp.
+Mobs/leech/Name=Пиявка
+Mobs/leech/Description=Хлюп-хлюп.
 
-Mobs/leech_body/Name=Leech
-Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Name=Пиявка
+Mobs/leech_body/Description=Хлюп-хлюп.
 
-Mobs/dandelion/Name=Dandelion
-Mobs/dandelion/Description=Puffy.
+Mobs/dandelion/Name=Одуванчик
+Mobs/dandelion/Description=Пухлый.
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
-Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_baby/Name=Огненный Муравей-Детёныш
+Mobs/fire_ant_baby/Description=Этот муравей гориииииииииииииит.
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
-Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_worker/Name=Огненный Муравей-Рабочий
+Mobs/fire_ant_worker/Description=Этот муравей гориииииииииииииит.
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
-Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_queen/Name=Королева Огненных Муравьёв
+Mobs/fire_ant_queen/Description=Этот муравей гориииииииииииииит.
 
-Mobs/ant_egg/Name=Ant Egg
-Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
+Mobs/ant_egg/Name=Яйцо Муравья
+Mobs/ant_egg/Description=Ещё не муравей, но, наверное, скоро.
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
-Mobs/fire_ant_egg/Description=This ant is not yet on fire.
+Mobs/fire_ant_egg/Name=Яйцо Огненного Муравья
+Mobs/fire_ant_egg/Description=Этот муравей ещё не горит.
 
-Mobs/fly/Name=Fly
-Mobs/fly/Description=Hzzzzzzzzzzzz.
+Mobs/fly/Name=Муха
+Mobs/fly/Description=Бзззззззззззз.
 
-Mobs/leafbug/Name=Leafbug
-Mobs/leafbug/Description=It's not a leaf, but it is a bug.
+Mobs/leafbug/Name=Листовидка
+Mobs/leafbug/Description=Это не лист, а насекомое.
 
-Mobs/mantis/Name=Mantis
-Mobs/mantis/Description=You better pray you don't become dinner.
+Mobs/mantis/Name=Богомол
+Mobs/mantis/Description=Тебе лучше молиться, чтобы не стать обедом.
 
-Mobs/termite_baby/Name=Baby Termite
-Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
+Mobs/termite_baby/Name=Термит-Детёныш
+Mobs/termite_baby/Description=Слабый и беззащитный, но с большими мечтами.<n/>Кажется, эти существа как-то связаны между собой.
 
-Mobs/termite_worker/Name=Worker Termite
-Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
+Mobs/termite_worker/Name=Термит-Рабочий
+Mobs/termite_worker/Description=Он слегка темпераментный, наверное, из-за того, что постоянно работает.<n/>Кажется, эти существа как-то связаны между собой.
 
-Mobs/termite_soldier/Name=Soldier Termite
-Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
+Mobs/termite_soldier/Name=Термит-Солдат
+Mobs/termite_soldier/Description=У него есть крылья, и он готов их использовать.<n/>Кажется, эти существа как-то связаны между собой.
 
-Mobs/termite_overmind/Name=Termite Overmind
-Mobs/termite_overmind/Description=The one who oversees all.
+Mobs/termite_overmind/Name=Сверхразум Термитов
+Mobs/termite_overmind/Description=Тот, кто наблюдает за всем.
 
-Mobs/termite_mound/Name=Termite Mound
-Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
+Mobs/termite_mound/Name=Термитник
+Mobs/termite_mound/Description=Термиты заходят и выходят. Не могу это объяснить.
 
-Mobs/termite_egg/Name=Termite Egg
-Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
+Mobs/termite_egg/Name=Яйцо Термита
+Mobs/termite_egg/Description=Ещё не термит, но, наверное, скоро.
 
-Mobs/bush/Name=Bush
-Mobs/bush/Description=Don't misunderestimate me.
+Mobs/bush/Name=Куст
+Mobs/bush/Description=Не недооценивай меня.
 
-Mobs/roach/Name=Roach
-Mobs/roach/Description=Gotta go FAST... until they get tired.
+Mobs/roach/Name=Таракан
+Mobs/roach/Description=Надо бежать БЫСТРО... пока они не устанут.
 
-Mobs/moth/Name=Moth
-Mobs/moth/Description=Easily scared, be nice.
+Mobs/moth/Name=Моль
+Mobs/moth/Description=Легко испугать, будь хорошим.
 
-Mobs/firefly/Name=Firefly
-Mobs/firefly/Description=Oooooh shiny.
-Mobs/firefly/Spawn=There's a bright light in the horizon...
+Mobs/firefly/Name=Светлячок
+Mobs/firefly/Description=Ооооо, сияет.
+Mobs/firefly/Spawn=На горизонте виден яркий свет...
 
-Mobs/beetle_hel/Name=Beetle
-Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
-Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/beetle_hel/Name=Жук
+Mobs/beetle_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/beetle_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 
-Mobs/wasp/Name=Wasp
-Mobs/wasp/Description=They are ANGRY.
+Mobs/wasp/Name=Оса
+Mobs/wasp/Description=Они ЗЛЫЕ.
 
 Mobs/dummy/Name=Target Dummy
 Mobs/dummy/Description=How do you have this in your gallery?
