@@ -1,266 +1,266 @@
-Petals/basic/Name=Basic
-Petals/basic/FullName=Basic
-Petals/basic/Description=A nice petal, not too strong but not too weak.
-
-Petals/light/Name=Light
-Petals/light/FullName=Light
-Petals/light/Description=Weaker than most petals, but recharges very quickly.
-
-Petals/rock/Name=Rock
-Petals/rock/FullName=Rock
-Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
-
-Petals/square/Name=Square
-Petals/square/FullName=Square
-Petals/square/Description=This shape... it looks familiar...
-
-Petals/rose/Name=Rose
-Petals/rose/FullName=Rose
-Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
-
-Petals/stinger/Name=Stinger
-Petals/stinger/FullName=Stinger
-Petals/stinger/Description=It really hurts, but it's very fragile.
-
-Petals/iris/Name=Iris
-Petals/iris/FullName=Iris
-Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
-
-Petals/wing/Name=Wing
-Petals/wing/FullName=Wing
-Petals/wing/Description=It comes and goes.
-
-Petals/missile/Name=Missile
-Petals/missile/FullName=Missile
-Petals/missile/Description=You can actually shoot this one.
-
-Petals/grapes/Name=Grapes
-Petals/grapes/FullName=Grapes
-Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
-
-Petals/cactus/Name=Cactus
-Petals/cactus/FullName=Cactus
-Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
-
-Petals/faster/Name=Faster
-Petals/faster/FullName=Faster
-Petals/faster/Description=It's so light it makes your other petals spin faster.
-
-Petals/bubble/Name=Bubble
-Petals/bubble/FullName=Bubble
-Petals/bubble/Description=Physics are for the weak.
-
-Petals/pollen/Name=Pollen
-Petals/pollen/FullName=Pollen
-Petals/pollen/Description=Asthmatics beware.
-
-Petals/dandelion/Name=Dandelion
-Petals/dandelion/FullName=Dandelion
-Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
-
-Petals/beetle_egg/Name=Egg
-Petals/beetle_egg/FullName=Beetle Egg
-Petals/beetle_egg/Description=Something interesting might pop out of this.
-
-Petals/antennae/Name=Antennae
-Petals/antennae/FullName=Antennae
-Petals/antennae/Description=Allows your flower to sense foes farther away.
-
-Petals/heavy/Name=Heavy
-Petals/heavy/FullName=Heavy
-Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
-
-Petals/yin_yang/Name=Yin Yang
-Petals/yin_yang/FullName=Yin Yang
-Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
-
-Petals/web/Name=Web
-Petals/web/FullName=Web
-Petals/web/Description=It's really sticky.
-
-Petals/honey/Name=Honey
-Petals/honey/FullName=Honey
-Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
-
-Petals/leaf/Name=Leaf
-Petals/leaf/FullName=Leaf
-Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
-
-Petals/salt/Name=Salt
-Petals/salt/FullName=Salt
-Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
-
-Petals/rice/Name=Rice
-Petals/rice/FullName=Rice
-Petals/rice/Description=Spawns very quickly, but not very strong.
-
-Petals/corn/Name=Corn
-Petals/corn/FullName=Corn
-Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
-
-Petals/sand/Name=Sand
-Petals/sand/FullName=Sand
-Petals/sand/Description=A bunch of sand particles.
-
-Petals/pincer/Name=Pincer
-Petals/pincer/FullName=Pincer
-Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
-
-Petals/yucca/Name=Yucca
-Petals/yucca/FullName=Yucca
-Petals/yucca/Description=Heals your flower but only while in the defensive position.
-
-Petals/magnet/Name=Magnet
-Petals/magnet/FullName=Magnet
-Petals/magnet/Description=Increases drop pick up range.
-
-Petals/yggdrasil/Name=Yggdrasil
-Petals/yggdrasil/FullName=Yggdrasil
-Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
-
-Petals/starfish/Name=Starfish
-Petals/starfish/FullName=Starfish
-Petals/starfish/Description=Increases health regen while below 75% health.
-
-Petals/pearl/Name=Pearl
-Petals/pearl/FullName=Pearl
-Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
-
-Petals/lightning/Name=Lightning
-Petals/lightning/FullName=Lightning
-Petals/lightning/Description=Strikes several nearby enemies.
-
-Petals/jelly/Name=Jelly
-Petals/jelly/FullName=Jelly
-Petals/jelly/Description=No one likes touching this.
-
-Petals/claw/Name=Claw
-Petals/claw/FullName=Claw
-Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
-
-Petals/shell/Name=Shell
-Petals/shell/FullName=Shell
-Petals/shell/Description=Adds a temporary shield to yourself or allies.
-
-Petals/cutter/Name=Cutter
-Petals/cutter/FullName=Cutter
-Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
-
-Petals/dahlia/Name=Dahlia
-Petals/dahlia/FullName=Dahlia
-Petals/dahlia/Description=A small amount of heal but fairly consistent.
-
-Petals/uranium/Name=Uranium
-Petals/uranium/FullName=Uranium
-Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
-
-Petals/sponge/Name=Sponge
-Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
-
-Petals/soil/Name=Soil
-Petals/soil/FullName=Soil
-Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
-
-Petals/fangs/Name=Fangs
-Petals/fangs/FullName=Fangs
-Petals/fangs/Description=Heals based on damage dealt by this petal.
-
-Petals/third_eye/Name=Third Eye
-Petals/third_eye/FullName=Third Eye
-Petals/third_eye/Description=Allows your flower to expand your petals further out.
-
-Petals/peas/Name=Peas
-Petals/peas/FullName=Peas
-Petals/peas/Description=It goes poof.
-
-Petals/stick/Name=Stick
-Petals/stick/FullName=Mysterious Stick
-Petals/stick/Description=A mysterious stick that summons the forces of the wind.
-
-Petals/clover/Name=Clover
-Petals/clover/FullName=Clover
-Petals/clover/Description=Increases your luck.<n/>Luck is used by specific petals to change their stats.
-
-Petals/powder/Name=Powder
-Petals/powder/FullName=Mysterious Powder
-Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
-
-Petals/air/Name=Air
-Petals/air/FullName=Air
-Petals/air/Description=It's literally nothing.
-
-Petals/basil/Name=Basil
-Petals/basil/FullName=Basil
-Petals/basil/Description=Increases all healing received.
-
-Petals/orange/Name=Orange
-Petals/orange/FullName=Orange
-Petals/orange/Description=A sweet citrus fruit.
-
-Petals/ant_egg/Name=Egg
-Petals/ant_egg/FullName=Ant Egg
-Petals/ant_egg/Description=Something interesting might pop out of this.
-
-Petals/poo/Name=Poo
-Petals/poo/FullName=Poo
-Petals/poo/Description=Makes mobs less likely to want to attack you.
-
-Petals/relic/Name=Relic
-Petals/relic/FullName=Mysterious Relic
-Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
-
-Petals/lotus/Name=Lotus
-Petals/lotus/FullName=Lotus
-Petals/lotus/Description=Absorbs poison damage taken by the flower.
-
-Petals/bulb/Name=Bulb
-Petals/bulb/FullName=Light Bulb
-Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
-
-Petals/cotton/Name=Cotton
-Petals/cotton/FullName=Cotton
-Petals/cotton/Description=Absorbs damage taken by the flower.
-
-Petals/carrot/Name=Carrot
-Petals/carrot/FullName=Carrot
-Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
-
-Petals/bone/Name=Bone
-Petals/bone/FullName=Bone
-Petals/bone/Description=Sturdy.
-
-Petals/plank/Name=Plank
-Petals/plank/FullName=Plank
-Petals/plank/Description=Does 20x damage vs projectiles and petals.
-
-Petals/tomato/Name=Tomato
-Petals/tomato/FullName=Tomato
-Petals/tomato/Description=Gets stronger over time.
-
-Petals/mark/Name=Mark
-Petals/mark/FullName=Dark Mark
-Petals/mark/Description=A dark mark that binds itself to a fallen soul.
-
-Petals/rubber/Name=Rubber
-Petals/rubber/FullName=Rubber
-Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
-
-Petals/blood_stinger/Name=Stinger
-Petals/blood_stinger/FullName=Blood Stinger
-Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
-
-Petals/bur/Name=Bur
-Petals/bur/FullName=Bur
-Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
-
-Petals/root/Name=Root
-Petals/root/FullName=Root
-Petals/root/Description=Provides additional armor but only while in the defensive position.
-
-Petals/ankh/Name=Ankh
-Petals/ankh/FullName=Ankh
-Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
+Petals/basic/Name=Базовый
+Petals/basic/FullName=Базовый
+Petals/basic/Description=Хороший лепесток, не слишком сильный, но и не слишком слабый.
+
+Petals/light/Name=Лёгкий
+Petals/light/FullName=Лёгкий
+Petals/light/Description=Слабее большинства лепестков, но перезаряжается очень быстро.
+
+Petals/rock/Name=Камень
+Petals/rock/FullName=Камень
+Petals/rock/Description=Чрезвычайно прочный, но перезаряжается чуть дольше.
+
+Petals/square/Name=Квадрат
+Petals/square/FullName=Квадрат
+Petals/square/Description=Эта фигура... выглядит знакомо...
+
+Petals/rose/Name=Роза
+Petals/rose/FullName=Роза
+Petals/rose/Description=Её целебные свойства удивительны. Однако она не так хороша в бою.
+
+Petals/stinger/Name=Жало
+Petals/stinger/FullName=Жало
+Petals/stinger/Description=Наносит большой урон, но очень хрупкое.
+
+Petals/iris/Name=Ирис
+Petals/iris/FullName=Ирис
+Petals/iris/Description=Очень ядовитый, но требует некоторое время, чтобы сделать своё дело.<n/>-50% урона против других цветков.
+
+Petals/wing/Name=Крыло
+Petals/wing/FullName=Крыло
+Petals/wing/Description=Прилетает и улетает.
+
+Petals/missile/Name=Снаряд
+Petals/missile/FullName=Снаряд
+Petals/missile/Description=Ты можешь стрелять этим.
+
+Petals/grapes/Name=Виноград
+Petals/grapes/FullName=Виноград
+Petals/grapes/Description=Пуф! Теперь с секретным ингредиентом: ядом.
+
+Petals/cactus/Name=Кактус
+Petals/cactus/FullName=Кактус
+Petals/cactus/Description=Не очень сильный, но как-то увеличивает твоё максимальное здоровье.
+
+Petals/faster/Name=Ускоритель
+Petals/faster/FullName=Ускоритель
+Petals/faster/Description=Настолько лёгкий, что заставляет другие лепестки вращаться быстрее.
+
+Petals/bubble/Name=Пузырь
+Petals/bubble/FullName=Пузырь
+Petals/bubble/Description=Физика для слабаков.
+
+Petals/pollen/Name=Пыльца
+Petals/pollen/FullName=Пыльца
+Petals/pollen/Description=Астматики, берегитесь.
+
+Petals/dandelion/Name=Одуванчик
+Petals/dandelion/FullName=Одуванчик
+Petals/dandelion/Description=Его интересные свойства подавляют исцеляющие эффекты поражённых целей.<n/>Лечение поражённых целей уменьшается на 20%. Эффект может складываться.
+
+Petals/beetle_egg/Name=Яйцо
+Petals/beetle_egg/FullName=Яйцо Жука
+Petals/beetle_egg/Description=Из него может выскочить что-то интересное.
+
+Petals/antennae/Name=Усики
+Petals/antennae/FullName=Усики
+Petals/antennae/Description=Позволяют цветку чуять противников на большем расстоянии.
+
+Petals/heavy/Name=Тяжёлый
+Petals/heavy/FullName=Тяжёлый
+Petals/heavy/Description=Настолько тяжёлый, что сбивает всё на своём пути.<n/>Снижает скорость вращения лепестков, когда надет.
+
+Petals/yin_yang/Name=Инь-Ян
+Petals/yin_yang/FullName=Инь-Ян
+Petals/yin_yang/Description=Этот таинственный лепесток влияет на вращение других лепестков непредсказуемым образом.
+
+Petals/web/Name=Паутина
+Petals/web/FullName=Паутина
+Petals/web/Description=Очень липкая.
+
+Petals/honey/Name=Мёд
+Petals/honey/FullName=Мёд
+Petals/honey/Description=Мобы любят его. Он привлекает их в большом радиусе.<n/>Мобы предпочтут его вместо цветка.<n/>Поражённые цели вырабатывают иммунитет к его эффектам через некоторое время.
+
+Petals/leaf/Name=Лист
+Petals/leaf/FullName=Лист
+Petals/leaf/Description=Собирает энергию солнца для пассивного исцеления цветка.
+
+Petals/salt/Name=Соль
+Petals/salt/FullName=Соль
+Petals/salt/Description=Отражает часть полученного урона противнику, который нанёс его.<n/>Мобы более высокой редкости имеют повышенное сопротивление отражению урона.
+
+Petals/rice/Name=Рис
+Petals/rice/FullName=Рис
+Petals/rice/Description=Перезаряжается очень быстро, но не очень сильный.
+
+Petals/corn/Name=Кукуруза
+Petals/corn/FullName=Кукуруза
+Petals/corn/Description=Долго перезаряжается, но имеет много здоровья.
+
+Petals/sand/Name=Песок
+Petals/sand/FullName=Песок
+Petals/sand/Description=Кучка песчинок.
+
+Petals/pincer/Name=Щипцы
+Petals/pincer/FullName=Щипцы
+Petals/pincer/Description=Временно ослабляют врагов, снижая их скорость передвижения.
+
+Petals/yucca/Name=Юкка
+Petals/yucca/FullName=Юкка
+Petals/yucca/Description=Лечит цветок, но только в защитной позиции.
+
+Petals/magnet/Name=Магнит
+Petals/magnet/FullName=Магнит
+Petals/magnet/Description=Увеличивает дальность подбора дропа.
+
+Petals/yggdrasil/Name=Иггдрасиль
+Petals/yggdrasil/FullName=Иггдрасиль
+Petals/yggdrasil/Description=Сухой лист древа Иггдрасиль.<n/>Ходят слухи, что он может возвращать павших к жизни.
+
+Petals/starfish/Name=Звезда
+Petals/starfish/FullName=Морская Звезда
+Petals/starfish/Description=Увеличивает регенерацию здоровья при его уровне ниже 75%.
+
+Petals/pearl/Name=Жемчуг
+Petals/pearl/FullName=Жемчуг
+Petals/pearl/Description=Просто брось его где-нибудь и используй свои кинетические способности, чтобы не потерять.
+
+Petals/lightning/Name=Молния
+Petals/lightning/FullName=Молния
+Petals/lightning/Description=Поражает нескольких ближайших врагов.
+
+Petals/jelly/Name=Желе
+Petals/jelly/FullName=Желе
+Petals/jelly/Description=Никто не любит трогать его.
+
+Petals/claw/Name=Клешня
+Petals/claw/FullName=Клешня
+Petals/claw/Description=Наносит дополнительный урон, если здоровье жертвы выше 80%.<n/>-50% урона против других цветков.
+
+Petals/shell/Name=Ракушка
+Petals/shell/FullName=Ракушка
+Petals/shell/Description=Добавляет временный щит тебе или союзникам.
+
+Petals/cutter/Name=Резак
+Petals/cutter/FullName=Резак
+Petals/cutter/Description=Он принадлежал другу... пришло время отомстить.<n/>Увеличивает урон тела.
+
+Petals/dahlia/Name=Георгин
+Petals/dahlia/FullName=Георгин
+Petals/dahlia/Description=Небольшое количество лечения, но оно довольно последовательное.
+
+Petals/uranium/Name=Уран
+Petals/uranium/FullName=Уран
+Petals/uranium/Description=Периодически выпускает радиацию.<n/>-75% урона против других цветков.<n/>Сила эффекта зависит от расстояния до лепестка.
+
+Petals/sponge/Name=Губка
+Petals/sponge/FullName=Губка
+Petals/sponge/Description=Распределяет урон, полученный цветком, на определённый период времени.<n/>При разрушении наносит весь оставшийся урон сразу.<n/>Не откладывает урон от {#Attribute/PoisonNoColon/Genitive}.
+
+Petals/soil/Name=Почва
+Petals/soil/FullName=Почва
+Petals/soil/Description=Увеличивает здоровье, но также увеличивает размер цветка и уменьшает скорость передвижения.
+
+Petals/fangs/Name=Клыки
+Petals/fangs/FullName=Клыки
+Petals/fangs/Description=Лечат цветок в зависимости от урона, нанесённого этим лепестком.
+
+Petals/third_eye/Name=Глаз
+Petals/third_eye/FullName=Третий Глаз
+Petals/third_eye/Description=Позволяет цветку отдалять лепестки на большее расстояние.
+
+Petals/peas/Name=Горох
+Petals/peas/FullName=Горох
+Petals/peas/Description=Пуф!
+
+Petals/stick/Name=Палка
+Petals/stick/FullName=Таинственная Палка
+Petals/stick/Description=Таинственная палочка, призывающая силы ветра.
+
+Petals/clover/Name=Клевер
+Petals/clover/FullName=Клевер
+Petals/clover/Description=Увеличивает твою удачу.<n/>Удача используется определёнными лепестками для изменения их характеристик.
+
+Petals/powder/Name=Порошок
+Petals/powder/FullName=Таинственный Порошок
+Petals/powder/Description=Увеличивает скорость передвижения.<n/>Не работает, если цветок получает урон или находится рядом с мобом выше определённой редкости.
+
+Petals/air/Name=Воздух
+Petals/air/FullName=Воздух
+Petals/air/Description=Это буквально ничего.
+
+Petals/basil/Name=Базилик
+Petals/basil/FullName=Базилик
+Petals/basil/Description=Увеличивает всё получаемое лечение.
+
+Petals/orange/Name=Апельсин
+Petals/orange/FullName=Апельсин
+Petals/orange/Description=Сладкий цитрусовый фрукт.
+
+Petals/ant_egg/Name=Яйцо
+Petals/ant_egg/FullName=Яйцо Муравья
+Petals/ant_egg/Description=Из него может выскочить что-то интересное.
+
+Petals/poo/Name=Какашка
+Petals/poo/FullName=Какашка
+Petals/poo/Description=Снижает желание мобов атаковать тебя.
+
+Petals/relic/Name=Реликвия
+Petals/relic/FullName=Таинственная Реликвия
+Petals/relic/Description=Странная реликвия. Значительно увеличивает максимальное здоровье.<n/>Полученный урон распределяется среди других надевших.
+
+Petals/lotus/Name=Лотос
+Petals/lotus/FullName=Лотос
+Petals/lotus/Description=Поглощает урон от яда, полученный цветком.
+
+Petals/bulb/Name=Лампа
+Petals/bulb/FullName=Лампа
+Petals/bulb/Description=Сияющая лампочка. Привлекает мобов.
+
+Petals/cotton/Name=Хлопок
+Petals/cotton/FullName=Хлопок
+Petals/cotton/Description=Поглощает урон, полученный цветком.
+
+Petals/carrot/Name=Морковь
+Petals/carrot/FullName=Морковь
+Petals/carrot/Description=Прочная и надёжная. Может быть выстрелена и отскакивает от стен.
+
+Petals/bone/Name=Кость
+Petals/bone/FullName=Кость
+Petals/bone/Description=Прочная.
+
+Petals/plank/Name=Доска
+Petals/plank/FullName=Доска
+Petals/plank/Description=Наносит в 20 раз больше урона снарядам и лепесткам.
+
+Petals/tomato/Name=Помидор
+Petals/tomato/FullName=Помидор
+Petals/tomato/Description=Становится сильнее со временем.
+
+Petals/mark/Name=Метка
+Petals/mark/FullName=Тёмная Метка
+Petals/mark/Description=Тёмная метка, прикрепляющаяся к падшей душе.
+
+Petals/rubber/Name=Резина
+Petals/rubber/FullName=Резина
+Petals/rubber/Description=Увеличивает получаемое отбрасывание. Также поглощает урон от молнии, нанесённый цветку.
+
+Petals/blood_stinger/Name=Жало
+Petals/blood_stinger/FullName=Кровавое Жало
+Petals/blood_stinger/Description=Наносит большой урон, но очень хрупкое.<n/>Наносит урон цветку при появлении.
+
+Petals/bur/Name=Репейник
+Petals/bur/FullName=Репейник
+Petals/bur/Description=Уменьшает броню поражённой цели. Эффект не складывается.
+
+Petals/root/Name=Корень
+Petals/root/FullName=Корень
+Petals/root/Description=Даёт дополнительную броню, но только в защитной позиции.
+
+Petals/ankh/Name=Анх
+Petals/ankh/FullName=Анх
+Petals/ankh/Description=Древняя реликвия.<n/>При разрушении телепортирует цветок в место разрушения.
 
 Petals/dice/Name=Dice
 Petals/dice/FullName=Dice

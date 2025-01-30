@@ -1,4 +1,5 @@
-Attribute/PoisonNoColon=<c val="{#Colors/poison}">Poison</c>
+Attribute/PoisonNoColon/Nominative=<c val="{#Colors/poison}">Poison</c>
+Attribute/PoisonNoColon/Genitive=<c val="{#Colors/poison}">Poison</c>
 
 Flower/Attribute/Health=<c val="{#Colors/health}">Flower Health:</c> {0:tooltip}
 Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Flower Health</c>
