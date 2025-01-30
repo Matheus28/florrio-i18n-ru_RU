@@ -28,6 +28,8 @@ Mob/Attribute/PearlHealth=<c val="{#Colors/health}">Pearl Health:</c> {0:tooltip
 Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">Pearl Damage:</c> {0:tooltip}
 Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
 Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
+Mob/Attribute/MantisPeaHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
+Mob/Attribute/MantisPeaDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
 Mob/Attribute/Duration=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime}
 Mob/Attribute/Swallows=<c val="{#Colors/generic}">Swallows</c>
 Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Armor Debuff:</c> {0:tooltip}
