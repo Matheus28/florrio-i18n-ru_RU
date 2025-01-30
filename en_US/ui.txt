@@ -226,6 +226,10 @@ UI/Settings/Graphics=Graphics
 UI/Settings/Controls=Controls
 UI/Settings/Credits=Credits
 
+UI/Settings/Language=Language
+UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
+UI/Settings/Language/Automatic=Automatic
+
 UI/Settings/Realm=Realm
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
 UI/Settings/Realms/0=Automatic
