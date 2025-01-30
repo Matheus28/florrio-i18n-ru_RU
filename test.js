@@ -4,7 +4,7 @@ const fs = require("fs/promises");
 const child_process = require("child_process");
 const start = (process.platform == 'darwin'? 'open': process.platform == 'win32'? 'start': 'xdg-open');
 
-const DEBUG = true;
+const DEBUG = false;
 
 let txtFile = process.argv[2];
 if(!txtFile || !txtFile.endsWith(".txt")){
