@@ -86,6 +86,13 @@ UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
 UI/Chat/Player/Block=Block
 UI/Chat/Player/ReportMessage=Report message
 
+UI/Flower/Level=Lvl {0}
+
+UI/Death/Title=You were destroyed by:
+UI/Death/NoSource=A mysterious entity
+UI/Death/Continue=Continue
+UI/Death/Close=Close
+
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
 
