@@ -331,42 +331,52 @@ Petals/ankh/Gender=Male
 Petals/dice/Name=Кубик
 Petals/dice/FullName=Игральный Кубик
 Petals/dice/Description=Имеет 5% шанс нанести 35-кратный урон.<n/>Шанс увеличивается на 4% за каждое очко удачи.
+Petals/dice/Gender=Male
 
 Petals/talisman/Name=Талисман
 Petals/talisman/FullName=Талисман Уклонения
 Petals/talisman/Description=Ожерелье, позволяющее владельцу предвидеть атаки противника.
+Petals/talisman/Gender=Male
 
 Petals/battery/Name=Батарейка
 Petals/battery/FullName=Батарейка
 Petals/battery/Description=Выпускает электричество, когда цветок получает удар.
+Petals/battery/Gender=Female
 
 Petals/amulet/Name=Амулет
 Petals/amulet/FullName=Амулет
 Petals/amulet/Description=Конвертирует часть излишнего лечения в щит.
+Petals/amulet/Gender=Male
 
 Petals/compass/Name=Компас
 Petals/compass/FullName=Компас
 Petals/compass/Description=Эта штуковина, возможно, сможет найти что-нибудь интересное...
+Petals/compass/Gender=Male
 
 Petals/disc/Name=Диск
 Petals/disc/FullName=Диск
 Petals/disc/Description=Уменьшает урон, получаемый при столкновении с мобами и цветками.
+Petals/disc/Gender=Male
 
 Petals/shovel/Name=Лопата
 Petals/shovel/FullName=Лопата
 Petals/shovel/Description=Делает цветок недоступным для атаки, но и неспособным использовать лепестки на ограниченное время.
+Petals/shovel/Gender=Female
 
 Petals/coin/Name=Монета
 Petals/coin/FullName=Монета
 Petals/coin/Description=Сила капитализма поглощает тебя!
+Petals/coin/Gender=Female
 
 Petals/chip/Name=Фишка
 Petals/chip/FullName=Покерная Фишка
 Petals/chip/Description=ВСЁ НА КОНУ.
+Petals/chip/Gender=Female
 
 Petals/card/Name=Карта
 Petals/card/FullName=Карта
 Petals/card/Description=Игральная карта. Вероятно, меченая.
+Petals/card/Gender=Female
 
 Petals/moon/Name=Луна
 Petals/moon/FullName=Лунный Камень
@@ -375,79 +385,99 @@ Petals/moon/Description=Эта штука такая большая, что тв
 Petals/privet/Name=Бирючина
 Petals/privet/FullName=Бирючина
 Petals/privet/Description=Наносит дополнительный урон от {#Attribute/PoisonNoColon/Genitive} в зависимости от существующего урона от {#Attribute/PoisonNoColon/Genitive} в секунду.
+Petals/privet/Gender=Female
 
 Petals/glass/Name=Стекло
 Petals/glass/FullName=Стекло
 Petals/glass/Description=Проходит сквозь врагов.<n/>Не может наносить урон чаще определённого интервала.
+Petals/glass/Gender=Neuter
 
 Petals/corruption/Name=Коррупция
 Petals/corruption/FullName=Коррупция
 Petals/corruption/Description=Портит душу любого, обращая его против себе подобных.
+Petals/corruption/Gender=Female
 
 Petals/orb/Name=Сфера
 Petals/orb/FullName=Сфера Маны
 Petals/orb/Description=Создаёт ману.
+Petals/orb/Gender=Female
 
 Petals/blueberries/Name=Черника
 Petals/blueberries/FullName=Черника
 Petals/blueberries/Description=Пуф! Теперь с секретным ингредиентом: молнией.
+Petals/blueberries/Gender=Female
 
 Petals/magic_cotton/Name=Хлопок
 Petals/magic_cotton/FullName=Волшебный Хлопок
 Petals/magic_cotton/Description=Поглощает урон, полученный цветком.
+Petals/magic_cotton/Gender=Male
 
 Petals/magic_stinger/Name=Жало
 Petals/magic_stinger/FullName=Волшебное Жало
 Petals/magic_stinger/Description=Наносит большой урон, но очень хрупкое.
+Petals/magic_stinger/Gender=Neuter
 
 Petals/magic_leaf/Name=Лист
 Petals/magic_leaf/FullName=Волшебный Лист
 Petals/magic_leaf/Description=Пассивно собирает ману из окружающей среды.
+Petals/magic_leaf/Gender=Male
 
 Petals/magic_cactus/Name=Кактус
 Petals/magic_cactus/FullName=Волшебный Кактус
 Petals/magic_cactus/Description=Увеличивает максимальный запас маны.
+Petals/magic_cactus/Gender=Male
 
 Petals/magic_eye/Name=Глаз
 Petals/magic_eye/FullName=Волшебный Глаз
 Petals/magic_eye/Description=Тратит половину текущей маны и наносит урон в зависимости от этого значения.
+Petals/magic_eye/Gender=Male
 
 Petals/magic_missile/Name=Снаряд
 Petals/magic_missile/FullName=Волшебный Снаряд
 Petals/magic_missile/Description=Ты можешь стрелять этим... с помощью магии.
+Petals/magic_missile/Gender=Male
 
 Petals/magic_stick/Name=Палка
 Petals/magic_stick/FullName=Волшебная Палка
 Petals/magic_stick/Description=Таинственная палочка, призывающая силы ветра... с помощью магии.
+Petals/magic_stick/Gender=Female
 
 Petals/coral/Name=Коралл
 Petals/coral/FullName=Коралл
 Petals/coral/Description=Распадается на части при ударе.<n/>Каждая часть имеет 50% характеристик предыдущей.
+Petals/coral/Gender=Male
 
 Petals/magic_bubble/Name=Пузырь
 Petals/magic_bubble/FullName=Волшебный Пузырь
 Petals/magic_bubble/Description=Физика для не знающих магии.
+Petals/magic_bubble/Gender=Male
 
 Petals/nazar/Name=Назар
 Petals/nazar/FullName=Амулет Назар
 Petals/nazar/Description=Уменьшает урон от одного удара на 98%.
+Petals/nazar/Gender=Male
 
 Petals/mimic/Name=Мимик
 Petals/mimic/FullName=Мимик
 Petals/mimic/Description=Копирует лепесток слева от этого, с той же редкостью, что и этот.
+Petals/mimic/Gender=Male
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Gender={#Petals/mjolnir/{0:rarity:is-unique}/Gender}
 
 Petals/mjolnir/not-unique/Name=Фрагмент
 Petals/mjolnir/not-unique/FullName=Фрагмент
 Petals/mjolnir/not-unique/Description=Возможно, из них можно выковать нечто великое?
+Petals/mjolnir/not-unique/Gender=Male
 
 Petals/mjolnir/unique/Name=Мьёльнир
 Petals/mjolnir/unique/FullName=Мьёльнир
 Petals/mjolnir/unique/Description=Самый мощный молот во вселенной.
+Petals/mjolnir/unique/Gender=Male
 
 Petals/mecha_missile/Name=Снаряд
 Petals/mecha_missile/FullName=Меха-Снаряд
 Petals/mecha_missile/Description=Зафиксирован.
+Petals/mecha_missile/Gender=Male
