@@ -4,6 +4,7 @@ const fs = require("fs/promises");
 const child_process = require("child_process");
 const start = (process.platform == 'darwin'? 'open': process.platform == 'win32'? 'start': 'xdg-open');
 
+const DEBUG = true;
 
 let txtFile = process.argv[2];
 if(!txtFile || !txtFile.endsWith(".txt")){
@@ -20,7 +21,7 @@ if(!txtFile || !txtFile.endsWith(".txt")){
         if(!f.endsWith(".txt")) return "";
 
         let name = path.join(langDir, f);
-        let contents = fs.readFile(name, "utf8");
+        let contents = await fs.readFile(name, "utf8");
         if(f == "changelog.txt"){
             changelogContents = contents;
             return "";
@@ -32,8 +33,17 @@ if(!txtFile || !txtFile.endsWith(".txt")){
     // Make it just a little smaller
     langContents = langContents.replace(/\n\n/g, "\n");
     
-    let url = Buffer.from(JSON.stringify({ "lang": langContents, "changelog": changelogContents })).toString("base64");
-    require('child_process').exec(start + ' "' + url + '"');
+    let url = JSON.stringify({ "lang": langContents, "changelog": changelogContents });
+    
+    let serverURL = DEBUG ? "http://localhost:3444/langTest" : "https://langtest.florr.io/langTest";
+    
+    let shortURL = (await (await fetch(serverURL, { method: "POST", body: url, headers: { "Content-Type": "application/json" } })).json())["id"];
+    shortURL = serverURL + "?id=" + shortURL;
+    if(process.env["GITHUB_ACTIONS"]){
+        console.log("Visit " + shortURL + " to test the translation");
+    }else{
+        require('child_process').exec(start + ' ' + shortURL + '');
+    }
 })().catch(function(e){
     console.error(e);
     process.exit(1);
