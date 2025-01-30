@@ -187,16 +187,15 @@ Chat/Gambler/Idle/7=Thirty-seventh time's the charm
 Chat/Gambler/Idle/8=Double or nothing?
 Chat/Gambler/Idle/9=Winner winner!
 
-Chat/Titan/Idle={#Chat/Titan/Idle/{!rand:0:8}}
+Chat/Titan/Idle={#Chat/Titan/Idle/{!rand:0:7}}
 Chat/Titan/Idle/0=There can be only one
 Chat/Titan/Idle/1=I was the hammer at the Founding
 Chat/Titan/Idle/2=What is weak must break
 Chat/Titan/Idle/3=The forge of creation burns hotter
-Chat/Titan/Idle/4=What is weak must break
-Chat/Titan/Idle/5=The Worldsmith wanders
-Chat/Titan/Idle/6=Formed of the forge
-Chat/Titan/Idle/7=As the Shaper wills
-Chat/Titan/Idle/8=I stride the terrene plane
+Chat/Titan/Idle/4=The Worldsmith wanders
+Chat/Titan/Idle/5=Formed of the forge
+Chat/Titan/Idle/6=As the Shaper wills
+Chat/Titan/Idle/7=I stride the terrene plane
 
 Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
 Chat/Trader/Idle/0=May I interest you in a little trade?
