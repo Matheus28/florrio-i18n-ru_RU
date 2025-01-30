@@ -81,6 +81,7 @@ UI/Social/Discord=Join our Discord community!
 UI/Social/QQ=加入我们的QQ群!
 
 UI/AbandonGame=Abandon game
+UI/Reconnecting=Connection lost, reconnecting...
 
 UI/LevelBar/Level=Lvl {0}
 UI/LevelBar/LevelLong=Lvl {0} Flower
