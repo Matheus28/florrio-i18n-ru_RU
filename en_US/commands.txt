@@ -12,7 +12,7 @@ Chat/Command/guild-create/Description=Creates a new guild. Name must be 3-13 cha
 Chat/Command/guild-invite/Args=<name>
 Chat/Command/guild-invite/Description=Invites player to guild. Must be the leader. Player must be near you
 
-Chat/Command/guild-transfer-leader/Args=
+Chat/Command/guild-transfer-leader/Args=<target>
 Chat/Command/guild-transfer-leader/Description=Transfer guild leadership to someone else
 
 Chat/Command/guild-motd/Args=<text>
