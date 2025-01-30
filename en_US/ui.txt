@@ -18,6 +18,12 @@ UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
 UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
 UI/TooltipTime/Now=immediately
 
+UI/Tooltip/None={0}
+UI/Tooltip/Thousand={0}k
+UI/Tooltip/Million={0}m
+UI/Tooltip/Billion={0}b
+UI/Tooltip/Trillion={0}t
+
 # Helpers
 UI/Time/Days/1=1 day
 UI/Time/Days/N={0} days
