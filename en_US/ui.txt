@@ -44,6 +44,11 @@ UI/LevelBar/Level=Lvl {0}
 UI/LevelBar/LevelLong=Lvl {0} Flower
 UI/LevelBar/XP={0}/{1} XP
 
+UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
+UI/Scoreboard/Title/1=1 Flower
+UI/Scoreboard/Title/N={0} Flowers
+UI/Scoreboard/HiddenName=Player #{0}
+
 UI/Chat/PromptTap=Tap here to chat
 UI/Chat/PromptClick=Click here to chat
 UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
@@ -56,6 +61,7 @@ UI/Death/Title=You were destroyed by:
 UI/Death/NoSource=A mysterious entity
 UI/Death/Continue=Continue
 UI/Death/Close=Close
+UI/Death/CollectedThisRun=Collected this run
 
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
