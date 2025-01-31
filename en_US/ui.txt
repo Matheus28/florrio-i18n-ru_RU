@@ -148,6 +148,8 @@ UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Reload1={0}s
+UI/Petal/Reload2={0}s + {1}s
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
