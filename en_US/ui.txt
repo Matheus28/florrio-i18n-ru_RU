@@ -44,6 +44,11 @@ UI/LevelBar/Level=Lvl {0}
 UI/LevelBar/LevelLong=Lvl {0} Flower
 UI/LevelBar/XP={0}/{1} XP
 
+UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
+UI/Scoreboard/Title/1=1 Flower
+UI/Scoreboard/Title/N={0} Flowers
+UI/Scoreboard/HiddenName=Player #{0}
+
 UI/Chat/PromptTap=Tap here to chat
 UI/Chat/PromptClick=Click here to chat
 UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
@@ -56,6 +61,7 @@ UI/Death/Title=You were destroyed by:
 UI/Death/NoSource=A mysterious entity
 UI/Death/Continue=Continue
 UI/Death/Close=Close
+UI/Death/CollectedThisRun=Collected this run
 
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
@@ -128,7 +134,7 @@ UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you ha
 UI/Shop/MagicPetalError/Cancel=Cancel
 UI/Shop/Loyalty/Title=Thank you!
 UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
-
+UI/Shop/Price/USD=${0}
 
 UI/DailyChallenge/Title=Challenge
 UI/DailyChallenge/Button=Challenge
@@ -142,6 +148,8 @@ UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Reload1={0}s
+UI/Petal/Reload2={0}s + {1}s
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
