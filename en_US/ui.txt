@@ -134,7 +134,7 @@ UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you ha
 UI/Shop/MagicPetalError/Cancel=Cancel
 UI/Shop/Loyalty/Title=Thank you!
 UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
-
+UI/Shop/Price/USD=${0}
 
 UI/DailyChallenge/Title=Challenge
 UI/DailyChallenge/Button=Challenge
