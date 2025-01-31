@@ -1,44 +1,53 @@
-Rarities/common/Name=Common
-Rarities/common/ArticleUpper=A
-Rarities/common/Article=a
+Rarities/common/Name/Male=Обычный
+Rarities/common/Name/Female=Обычная
+Rarities/common/Name/Neuter=Обычное
+Rarities/common/Name/Plural=Обычные
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=Unusual
-Rarities/unusual/ArticleUpper=An
-Rarities/unusual/Article=an
+Rarities/unusual/Name/Male=Необычный
+Rarities/unusual/Name/Female=Необычная
+Rarities/unusual/Name/Neuter=Необычное
+Rarities/unusual/Name/Plural=Необычные
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=Rare
-Rarities/rare/ArticleUpper=A
-Rarities/rare/Article=a
+Rarities/rare/Name/Male=Редкий
+Rarities/rare/Name/Female=Редкая
+Rarities/rare/Name/Neuter=Редкое
+Rarities/rare/Name/Plural=Редкие
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
 
-Rarities/epic/Name=Epic
-Rarities/epic/ArticleUpper=An
-Rarities/epic/Article=an
+Rarities/epic/Name/Male=Эпический
+Rarities/epic/Name/Female=Эпическая
+Rarities/epic/Name/Neuter=Эпическое
+Rarities/epic/Name/Plural=Эпические
 Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
 
-Rarities/legendary/Name=Legendary
-Rarities/legendary/ArticleUpper=A
-Rarities/legendary/Article=a
+Rarities/legendary/Name/Male=Легендарный
+Rarities/legendary/Name/Female=Легендарная
+Rarities/legendary/Name/Neuter=Легендарное
+Rarities/legendary/Name/Plural=Легендарные
 Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
 
-Rarities/mythic/Name=Mythic
-Rarities/mythic/ArticleUpper=A
-Rarities/mythic/Article=a
+Rarities/mythic/Name/Male=Мифический
+Rarities/mythic/Name/Female=Мифическая
+Rarities/mythic/Name/Neuter=Мифическое
+Rarities/mythic/Name/Plural=Мифические
 Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
-Rarities/ultra/Name=Ultra
-Rarities/ultra/ArticleUpper=An
-Rarities/ultra/Article=an
+Rarities/ultra/Name/Male=Ультра
+Rarities/ultra/Name/Female=Ультра
+Rarities/ultra/Name/Neuter=Ультра
+Rarities/ultra/Name/Plural=Ультра
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=Super
-Rarities/super/ArticleUpper=A
-Rarities/super/Article=a
+Rarities/super/Name/Male=Супер
+Rarities/super/Name/Female=Супер
+Rarities/super/Name/Neuter=Супер
+Rarities/super/Name/Plural=Супер
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=Unique
-Rarities/unique/ArticleUpper=A
-Rarities/unique/Article=a
+Rarities/unique/Name/Male=Уникальный
+Rarities/unique/Name/Female=Уникальная
+Rarities/unique/Name/Neuter=Уникальное
+Rarities/unique/Name/Plural=Уникальные
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
