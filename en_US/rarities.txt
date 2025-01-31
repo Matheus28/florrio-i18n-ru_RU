@@ -2,52 +2,97 @@ Rarities/common/Name/Male=Обычный
 Rarities/common/Name/Female=Обычная
 Rarities/common/Name/Neuter=Обычное
 Rarities/common/Name/Plural=Обычные
-Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
+Rarities/common/Name/Plural/Genitive=Обычных
+Rarities/common/NameColored/Male=<c val="{#Colors/common}">{#Rarities/common/Name/Male}</c>
+Rarities/common/NameColored/Female=<c val="{#Colors/common}">{#Rarities/common/Name/Female}</c>
+Rarities/common/NameColored/Neuter=<c val="{#Colors/common}">{#Rarities/common/Name/Neuter}</c>
+Rarities/common/NameColored/Plural=<c val="{#Colors/common}">{#Rarities/common/Name/Plural}</c>
+Rarities/common/NameColored/Plural/Genitive=<c val="{#Colors/common}">{#Rarities/common/Name/Plural/Genitive}</c>
 
 Rarities/unusual/Name/Male=Необычный
 Rarities/unusual/Name/Female=Необычная
 Rarities/unusual/Name/Neuter=Необычное
 Rarities/unusual/Name/Plural=Необычные
-Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
+Rarities/unusual/Name/Plural/Genitive=Необычных
+Rarities/unusual/NameColored/Male=<c val="{#Colors/unusual}">{#Rarities/unusual/Name/Male}</c>
+Rarities/unusual/NameColored/Female=<c val="{#Colors/unusual}">{#Rarities/unusual/Name/Female}</c>
+Rarities/unusual/NameColored/Neuter=<c val="{#Colors/unusual}">{#Rarities/unusual/Name/Neuter}</c>
+Rarities/unusual/NameColored/Plural=<c val="{#Colors/unusual}">{#Rarities/unusual/Name/Plural}</c>
+Rarities/unusual/NameColored/Plural/Genitive=<c val="{#Colors/unusual}">{#Rarities/unusual/Name/Plural/Genitive}</c>
 
 Rarities/rare/Name/Male=Редкий
 Rarities/rare/Name/Female=Редкая
 Rarities/rare/Name/Neuter=Редкое
 Rarities/rare/Name/Plural=Редкие
-Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
+Rarities/rare/Name/Plural/Genitive=Редких
+Rarities/rare/NameColored/Male=<c val="{#Colors/rare}">{#Rarities/rare/Name/Male}</c>
+Rarities/rare/NameColored/Female=<c val="{#Colors/rare}">{#Rarities/rare/Name/Female}</c>
+Rarities/rare/NameColored/Neuter=<c val="{#Colors/rare}">{#Rarities/rare/Name/Neuter}</c>
+Rarities/rare/NameColored/Plural=<c val="{#Colors/rare}">{#Rarities/rare/Name/Plural}</c>
+Rarities/rare/NameColored/Plural/Genitive=<c val="{#Colors/rare}">{#Rarities/rare/Name/Plural/Genitive}</c>
 
 Rarities/epic/Name/Male=Эпический
 Rarities/epic/Name/Female=Эпическая
 Rarities/epic/Name/Neuter=Эпическое
 Rarities/epic/Name/Plural=Эпические
-Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
+Rarities/epic/Name/Plural/Genitive=Эпических
+Rarities/epic/NameColored/Male=<c val="{#Colors/epic}">{#Rarities/epic/Name/Male}</c>
+Rarities/epic/NameColored/Female=<c val="{#Colors/epic}">{#Rarities/epic/Name/Female}</c>
+Rarities/epic/NameColored/Neuter=<c val="{#Colors/epic}">{#Rarities/epic/Name/Neuter}</c>
+Rarities/epic/NameColored/Plural=<c val="{#Colors/epic}">{#Rarities/epic/Name/Plural}</c>
+Rarities/epic/NameColored/Plural/Genitive=<c val="{#Colors/epic}">{#Rarities/epic/Name/Plural/Genitive}</c>
 
 Rarities/legendary/Name/Male=Легендарный
 Rarities/legendary/Name/Female=Легендарная
 Rarities/legendary/Name/Neuter=Легендарное
 Rarities/legendary/Name/Plural=Легендарные
-Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
+Rarities/legendary/Name/Plural/Genitive=Легендарных
+Rarities/legendary/NameColored/Male=<c val="{#Colors/legendary}">{#Rarities/legendary/Name/Male}</c>
+Rarities/legendary/NameColored/Female=<c val="{#Colors/legendary}">{#Rarities/legendary/Name/Female}</c>
+Rarities/legendary/NameColored/Neuter=<c val="{#Colors/legendary}">{#Rarities/legendary/Name/Neuter}</c>
+Rarities/legendary/NameColored/Plural=<c val="{#Colors/legendary}">{#Rarities/legendary/Name/Plural}</c>
+Rarities/legendary/NameColored/Plural/Genitive=<c val="{#Colors/legendary}">{#Rarities/legendary/Name/Plural/Genitive}</c>
 
 Rarities/mythic/Name/Male=Мифический
 Rarities/mythic/Name/Female=Мифическая
 Rarities/mythic/Name/Neuter=Мифическое
 Rarities/mythic/Name/Plural=Мифические
-Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
+Rarities/mythic/Name/Plural/Genitive=Мифических
+Rarities/mythic/NameColored/Male=<c val="{#Colors/mythic}">{#Rarities/mythic/Name/Male}</c>
+Rarities/mythic/NameColored/Female=<c val="{#Colors/mythic}">{#Rarities/mythic/Name/Female}</c>
+Rarities/mythic/NameColored/Neuter=<c val="{#Colors/mythic}">{#Rarities/mythic/Name/Neuter}</c>
+Rarities/mythic/NameColored/Plural=<c val="{#Colors/mythic}">{#Rarities/mythic/Name/Plural}</c>
+Rarities/mythic/NameColored/Plural/Genitive=<c val="{#Colors/mythic}">{#Rarities/mythic/Name/Plural/Genitive}</c>
 
 Rarities/ultra/Name/Male=Ультра
 Rarities/ultra/Name/Female=Ультра
 Rarities/ultra/Name/Neuter=Ультра
 Rarities/ultra/Name/Plural=Ультра
-Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
+Rarities/ultra/Name/Plural/Genitive=Ультра
+Rarities/ultra/NameColored/Male=<c val="{#Colors/ultra}">{#Rarities/ultra/Name/Male}</c>
+Rarities/ultra/NameColored/Female=<c val="{#Colors/ultra}">{#Rarities/ultra/Name/Female}</c>
+Rarities/ultra/NameColored/Neuter=<c val="{#Colors/ultra}">{#Rarities/ultra/Name/Neuter}</c>
+Rarities/ultra/NameColored/Plural=<c val="{#Colors/ultra}">{#Rarities/ultra/Name/Plural}</c>
+Rarities/ultra/NameColored/Plural/Genitive=<c val="{#Colors/ultra}">{#Rarities/ultra/Name/Plural/Genitive}</c>
 
 Rarities/super/Name/Male=Супер
 Rarities/super/Name/Female=Супер
 Rarities/super/Name/Neuter=Супер
 Rarities/super/Name/Plural=Супер
-Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
+Rarities/super/Name/Plural/Genitive=Супер
+Rarities/super/NameColored/Male=<c val="{#Colors/super}">{#Rarities/super/Name/Male}</c>
+Rarities/super/NameColored/Female=<c val="{#Colors/super}">{#Rarities/super/Name/Female}</c>
+Rarities/super/NameColored/Neuter=<c val="{#Colors/super}">{#Rarities/super/Name/Neuter}</c>
+Rarities/super/NameColored/Plural=<c val="{#Colors/super}">{#Rarities/super/Name/Plural}</c>
+Rarities/super/NameColored/Plural/Genitive=<c val="{#Colors/super}">{#Rarities/super/Name/Plural/Genitive}</c>
 
 Rarities/unique/Name/Male=Уникальный
 Rarities/unique/Name/Female=Уникальная
 Rarities/unique/Name/Neuter=Уникальное
 Rarities/unique/Name/Plural=Уникальные
-Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
+Rarities/unique/Name/Plural/Genitive=Уникальных
+Rarities/unique/NameColored/Male=<c val="{#Colors/unique}">{#Rarities/unique/Name/Male}</c>
+Rarities/unique/NameColored/Female=<c val="{#Colors/unique}">{#Rarities/unique/Name/Female}</c>
+Rarities/unique/NameColored/Neuter=<c val="{#Colors/unique}">{#Rarities/unique/Name/Neuter}</c>
+Rarities/unique/NameColored/Plural=<c val="{#Colors/unique}">{#Rarities/unique/Name/Plural}</c>
+Rarities/unique/NameColored/Plural/Genitive=<c val="{#Colors/unique}">{#Rarities/unique/Name/Plural/Genitive}</c>
