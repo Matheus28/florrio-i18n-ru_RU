@@ -255,8 +255,8 @@ UI/Settings/PrivacyPolicy=Политика Конфиденциальности
 UI/Settings/TermsOfService=Условия Использования
 
 UI/Credits/MadeBy=Игру создал {0}
-UI/Credits/SomeIcons=Некоторые иконки из:<n/>{0}
-UI/Credits/SomeTiles=Некоторые тайлы из:<n/>{0}
+UI/Credits/SomeIcons=Некоторые иконки из {0}
+UI/Credits/SomeTiles=Некоторые тайлы из {0}
 UI/Credits/SpecialThanks=Особая Благодарность
 UI/Credits/Translators=Переводчики
 
