@@ -75,7 +75,7 @@ Petals/dandelion/Gender=Male
 
 Petals/beetle_egg/Name=Яйцо
 Petals/beetle_egg/FullName=Яйцо Жука
-Petals/beetle_egg/Description=Из него может выскочить что-то интересное.
+Petals/beetle_egg/Description=Из него может вылупиться что-то интересное.
 Petals/beetle_egg/Gender=Neuter
 
 Petals/antennae/Name=Усики
@@ -250,7 +250,7 @@ Petals/orange/Gender=Male
 
 Petals/ant_egg/Name=Яйцо
 Petals/ant_egg/FullName=Яйцо Муравья
-Petals/ant_egg/Description=Из него может выскочить что-то интересное.
+Petals/ant_egg/Description=Из него может вылупиться что-то интересное.
 Petals/ant_egg/Gender=Neuter
 
 Petals/poo/Name=Какашка
