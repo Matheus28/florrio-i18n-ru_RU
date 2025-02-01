@@ -1,63 +1,72 @@
-UI/Language/Name=English (US)
+UI/Language/Name=Русский
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Credits=Максим Нестеров<n/>Николай Булыгин
 
-UI/Title/Loading=Loading...
-UI/Title/Connecting=Connecting...
-UI/Title/LoggingIn=Logging in...
-UI/Title/Ready=Ready
-UI/Title/GuestName=Guest
+UI/Title/Loading=Загрузка...
+UI/Title/Connecting=Подключение...
+UI/Title/LoggingIn=Авторизация...
+UI/Title/Ready=Играть
+UI/Title/GuestName=Гость
 UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
+UI/Title/Name/Title=This pretty little flower is called...
+UI/Title/Name/Rules1=Your name must be alphanumeric or {2}, and contain {0}~{1} chars.
+UI/Title/Name/Rules2=Must have at least {0} alphanumeric chars.
+UI/Title/Name/Rules3=Cannot contain consecutive {0} chars.
+UI/Title/Name/Rules4=This name is permanent and cannot be changed later.
+UI/Title/Name/Button=OK
 UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
 UI/Title/Name/AlreadyTaken=Nickname already taken.
 UI/Title/Name/InternalError=Internal error, try again later.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0=Garden
-UI/Title/Biome/1=Desert
-UI/Title/Biome/2=Ocean
-UI/Title/Biome/3=Jungle
-UI/Title/Biome/4=Hel
+UI/Title/Biome/0=Сад
+UI/Title/Biome/1=Пустыня
+UI/Title/Biome/2=Океан
+UI/Title/Biome/3=Джунгли
+UI/Title/Biome/4=Ад
 
-UI/Login/Title=Account
-UI/Login/PlayAsGuest=Play as guest
-UI/Login/SignInApple=Sign in with Apple
-UI/Login/SignInDiscord=Sign in with Discord
-UI/Login/Logout=Logout
-UI/Login/AccountID=Account ID:
-UI/Login/Connecting=(connecting)
-UI/Login/GuestName=Guest
+UI/Login/Title=Аккаунт
+UI/Login/PlayAsGuest=Играть как гость
+UI/Login/SignInApple=Войти с Apple
+UI/Login/SignInDiscord=Войти с Discord
+UI/Login/Logout=Выйти из аккаунта
+UI/Login/AccountID=ID Аккаунта:
+UI/Login/Connecting=(подключение)
+UI/Login/GuestName=Гость
 UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
 UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
-UI/Login/Linked=Linked
+UI/Login/Linked=Привязан
 UI/Login/SupportPIN=Support PIN: {0}
 UI/Login/SupportPINHidden=Support PIN: (click to show)
 UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
 UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
 
-UI/Social/Discord=Join our Discord community!
+UI/Social/Discord=Присоеднияйтесь к нашему Discord сообществу!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Abandon game
-UI/Reconnecting=Connection lost, reconnecting...
+UI/AbandonGame=Покинуть игру
+UI/Reconnecting=Соединение потеряно, переподключение...
 
-UI/LevelBar/Level=Lvl {0}
-UI/LevelBar/LevelLong=Lvl {0} Flower
-UI/LevelBar/XP={0}/{1} XP
+UI/LevelBar/Level=Уровень {0}
+UI/LevelBar/LevelLong=Уровень {0} Цветок
+UI/LevelBar/XP={0}/{1} опыта
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
 UI/Scoreboard/Title/1=1 Flower
 UI/Scoreboard/Title/N={0} Flowers
-UI/Scoreboard/HiddenName=Player #{0}
+UI/Scoreboard/HiddenName=Игрок #{0}
 
-UI/Chat/PromptTap=Tap here to chat
-UI/Chat/PromptClick=Click here to chat
-UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
-UI/Chat/Player/Block=Block
-UI/Chat/Player/ReportMessage=Report message
+UI/Chat/PromptTap=Нажм. сюда для чата
+UI/Chat/PromptClick=Клик сюда для чата
+UI/Chat/PromptKeyboardOrClick=Написать сообщение: [ENTER] или клик сюда
+UI/Chat/Player/Block=Заблокировать
+UI/Chat/Player/ReportMessage=Пожаловаться
+UI/Chat/Player/Whisper=Whisper
+UI/Chat/Player/InviteToSquad=Invite to Squad
+UI/Chat/Player/InviteToGuild=Invite to Guild
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=Ур. {0}
 
 UI/Death/Title=You were destroyed by:
 UI/Death/NoSource=A mysterious entity
@@ -79,8 +88,8 @@ UI/Achievements/TotalProgress={0}/{1} completed
 
 UI/MobGallery/Title=Mob Gallery
 
-UI/Changelog/Title=Changelog
-UI/Changelog/Bottom=Older changelog entries not available
+UI/Changelog/Title=Список изменений
+UI/Changelog/Bottom=Более ранние записи недоступны
 
 UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
@@ -149,14 +158,14 @@ UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
-UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
 UI/Petal/Reload1={0}s
 UI/Petal/Reload2={0}s + {1}s
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
 UI/Mob/Description={#Mobs/{0:base}/Description}
-UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name/{#Mobs/{0:base}/Gender}}
 
 UI/Map/Name={#Maps/{0}/Name}
 
@@ -204,62 +213,62 @@ UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
 UI/Death/Poison=Poison
 
-UI/Settings/Title=Settings
-UI/Settings/Game=Game
-UI/Settings/Graphics=Graphics
-UI/Settings/Controls=Controls
-UI/Settings/Credits=Credits
+UI/Settings/Title=Настройки
+UI/Settings/Game=Игра
+UI/Settings/Graphics=Графика
+UI/Settings/Controls=Управл.
+UI/Settings/Credits=Кредиты
 
-UI/Settings/Language=Language
-UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
-UI/Settings/Language/Automatic=Automatic
+UI/Settings/Language=Язык
+UI/Settings/Language/Warning=ВАЖНО: требует перезапуска
+UI/Settings/Language/Automatic=Автоопределение
 
-UI/Settings/Realm=Realm
+UI/Settings/Realm=Область
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatic
-UI/Settings/Realms/1=Juliett (US)
-UI/Settings/Realms/2=Romeo (EU)
-UI/Settings/Realms/3=Sierra (ASIA)
+UI/Settings/Realms/0=Автоопределение
+UI/Settings/Realms/1=Juliett (США)
+UI/Settings/Realms/2=Romeo (ЕВРОПА)
+UI/Settings/Realms/3=Sierra (АЗИЯ)
 
-UI/Settings/Chat=Chat
-UI/Settings/ChatWhispers=Chat Whispers
+UI/Settings/Chat=Чат
+UI/Settings/ChatWhispers=Шёпот в чате
 
-UI/Settings/AutoJoinSquads=Auto-join squads
+UI/Settings/AutoJoinSquads=Автопоиск команд
 
-UI/Settings/HideOtherPetals=Hide other petals
+UI/Settings/HideOtherPetals=Спрятать другие лепестки
 
-UI/Settings/EquipDrops=Equip drops
+UI/Settings/EquipDrops=Экипировать дропы
 
-UI/Settings/Quality=Quality
-UI/Settings/Quality/Low=Low
-UI/Settings/Quality/Medium=Medium
-UI/Settings/Quality/High=High
+UI/Settings/Quality=Качество
+UI/Settings/Quality/Low=Низкое
+UI/Settings/Quality/Medium=Среднее
+UI/Settings/Quality/High=Высокое
 
-UI/Settings/ShowDamageNumbers=Show damage numbers
+UI/Settings/ShowDamageNumbers=Показывать цифры урона
 
-UI/Settings/ScreenShake=Screen shake
+UI/Settings/ScreenShake=Тряска экрана
 
-UI/Settings/LiveIcons=Live icons
+UI/Settings/LiveIcons=Точные иконки
 
-UI/Settings/TouchControls=Touch controls
+UI/Settings/TouchControls=Управление пальцами
 
-UI/Settings/KeyboardMovement=Keyboard movement
+UI/Settings/KeyboardMovement=Клавиатурное управление
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=Индикатор передвижения
 
-UI/Settings/FixedJoystick=Fixed joystick
+UI/Settings/FixedJoystick=Закреплённый джойстик
 
-UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout=Автосохранение снаряжения
 
-UI/Settings/PrivacyPolicy=Privacy Policy
-UI/Settings/TermsOfService=Terms of Service
+UI/Settings/PrivacyPolicy=Политика Конфиденциальности
+UI/Settings/TermsOfService=Условия Использования
 
-UI/Credits/MadeBy=Made by {0}
-UI/Credits/SomeIcons=Some icons from {0}
-UI/Credits/SomeTiles=Some tiles from {0}
-UI/Credits/SpecialThanks=Special Thanks
-UI/Credits/Translators=Translators
+UI/Credits/MadeBy=Игру создал {0}
+UI/Credits/SomeIcons=Некоторые иконки из {0}
+UI/Credits/SomeTiles=Некоторые тайлы из {0}
+UI/Credits/SpecialThanks=Особая Благодарность
+UI/Credits/Translators=Переводчики
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guild
-UI/HelperText/Squad=Squad
+UI/HelperText/Guild=Гильдия
+UI/HelperText/Squad=Команда

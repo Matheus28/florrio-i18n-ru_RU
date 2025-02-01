@@ -20,10 +20,10 @@ UI/TooltipTime/Now=immediately
 
 UI/Tooltip/Grouping=1000
 UI/Tooltip/Group0={0}
-UI/Tooltip/Group1={0}k
-UI/Tooltip/Group2={0}m
-UI/Tooltip/Group3={0}b
-UI/Tooltip/Group4={0}t
+UI/Tooltip/Group1={0}к
+UI/Tooltip/Group2={0}м
+UI/Tooltip/Group3={0}б
+UI/Tooltip/Group4={0}т
 
 # Helpers
 UI/Time/Days/1=1 day
