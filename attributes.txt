@@ -5,8 +5,10 @@ Flower/Attribute/Health=<c val="{#Colors/health}">Здоровье Цветка:
 Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Здоровье Цветка</c>
 Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Урон Тела:</c> {0:tooltip}
 Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">Урон Тела</c>
+Flower/Attribute/BodyDamageNoColon/Dative=<c val="{#Colors/damage}">Урону Тела</c>
 Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Яд Тела:</c> {0:tooltip} ({1:tooltip}/с)
 Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">Удача</c>
+Flower/Attribute/LuckNoColon/Accusative=<c val="{#Colors/generic}">Удачу</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">Скорость Вращения</c>
 Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">Дальность Атаки</c>
 Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">Лечение</c>
