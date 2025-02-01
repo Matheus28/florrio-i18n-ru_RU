@@ -5,7 +5,7 @@ Mobs/rock/Gender=Male
 
 Mobs/cactus/Name=Кактус
 Mobs/cactus/Description=Лучше не трогать его, а то будет больно.
-Mobs/cactus/Spawn=Из песков поднимается терновая башня...
+Mobs/cactus/Spawn=Из песков поднимается шипастая башня...
 Mobs/cactus/Gender=Male
 
 Mobs/ladybug/Name=Божья Коровка
@@ -66,7 +66,7 @@ Mobs/centipede_desert/Description=Надо бежать быстро.
 Mobs/centipede_desert/Gender=Female
 
 Mobs/centipede_desert_body/Name=Многоножка
-Mobs/centipede_desert_body/Description=Надо бежать быстро.
+Mobs/centipede_desert_body/Description=Надо идти быстро.
 Mobs/centipede_desert_body/Gender=Female
 
 Mobs/square/Name=Квадрат
@@ -207,7 +207,7 @@ Mobs/bush/Description=Не недооценивай меня.
 Mobs/bush/Gender=Male
 
 Mobs/roach/Name=Таракан
-Mobs/roach/Description=Надо бежать БЫСТРО... пока они не устанут.
+Mobs/roach/Description=Надо идти БЫСТРО... пока они не устанут.
 Mobs/roach/Gender=Male
 
 Mobs/moth/Name=Моль
@@ -220,7 +220,7 @@ Mobs/firefly/Spawn=На горизонте виден яркий свет...
 Mobs/firefly/Gender=Male
 
 Mobs/beetle_hel/Name=Жук
-Mobs/beetle_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/beetle_hel/Description=Бедствие, появляющееся в другом измерении.
 Mobs/beetle_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/beetle_hel/Gender=Male
 
@@ -233,29 +233,29 @@ Mobs/dummy/Description=Как это оказалось в твоей галер
 Mobs/dummy/Gender=Male
 
 Mobs/spider_hel/Name=Паук
-Mobs/spider_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/spider_hel/Description=Бедствие, появляющееся в другом измерении.
 Mobs/spider_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/spider_hel/Gender=Male
 
 Mobs/centipede_hel/Name=Многоножка
-Mobs/centipede_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/centipede_hel/Description=Бедствие, появляющееся в другом измерении.
 Mobs/centipede_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/centipede_hel/Gender=Female
 
 Mobs/centipede_hel_body/Name=Многоножка
-Mobs/centipede_hel_body/Description=Наказание, порождаемое в другом измерении.
+Mobs/centipede_hel_body/Description=Бедствие, появляющееся в другом измерении.
 Mobs/centipede_hel_body/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/centipede_hel_body/Gender=Female
 
 Mobs/wasp_hel/Name=Оса
-Mobs/wasp_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/wasp_hel/Description=Бедствие, появляющееся в другом измерении.
 Mobs/wasp_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/wasp_hel/Gender=Female
 
 Mobs/trader/Name=Торговец
 Mobs/trader/Gender=Male
 
-Mobs/gambler/Name=Картёжник
+Mobs/gambler/Name=Азартник
 Mobs/gambler/Description=Это может произойти с ТОБОЙ.
 Mobs/gambler/Spawn=Ты слышишь чей-то слабый шёпот... "ещё... одну игру..."
 Mobs/gambler/Gender=Male
@@ -264,18 +264,18 @@ Mobs/oracle/Name=Оракул
 Mobs/oracle/Gender=Male
 
 Mobs/firefly_magic/Name=Светлячок
-Mobs/firefly_magic/Description=В нём есть что-то волшебное.
+Mobs/firefly_magic/Description=В этом есть что-то волшебное.
 Mobs/firefly_magic/Gender=Male
 
 Mobs/titan/Name=Титан
 Mobs/titan/Gender=Male
 
 Mobs/beetle_nazar/Name=Жук
-Mobs/beetle_nazar/Description=У этого другой рисунок... что это значит?
+Mobs/beetle_nazar/Description=У этого другой узор... что это значит?
 Mobs/beetle_nazar/Gender=Male
 
 Mobs/worm/Name=Червь
-Mobs/worm/Description=Ему положено есть землю, но этот ест цветки.
+Mobs/worm/Description=Обычно они едят землю, но этот ест цветки.
 Mobs/worm/Gender=Male
 
 Mobs/worm_guts/Name=Кишки червя
