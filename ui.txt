@@ -79,8 +79,8 @@ UI/Achievements/TotalProgress={0}/{1} completed
 
 UI/MobGallery/Title=Mob Gallery
 
-UI/Changelog/Title=Changelog
-UI/Changelog/Bottom=Older changelog entries not available
+UI/Changelog/Title=Список изменений
+UI/Changelog/Bottom=Более ранние записи недоступны
 
 UI/Inventory/Title=Inventory
 UI/Inventory/Stack=Stack
