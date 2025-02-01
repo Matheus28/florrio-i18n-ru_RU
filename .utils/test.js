@@ -6,15 +6,8 @@ const start = (process.platform == 'darwin'? 'open': process.platform == 'win32'
 
 const DEBUG = false;
 
-let txtFile = process.argv[2];
-if(!txtFile || !txtFile.endsWith(".txt")){
-    console.error("You must have a .txt file selected before hitting run");
-    process.exit(1);
-}
-
-
 (async function(){
-    let langDir = path.dirname(txtFile);
+    let langDir = __dirname + "/../";
     let changelogContents = "";
     
     let langContents = (await Promise.all((await fs.readdir(langDir)).map(async function(f){

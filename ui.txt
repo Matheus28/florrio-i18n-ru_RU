@@ -1,4 +1,6 @@
 UI/Language/Name=English (US)
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=
 
 UI/Title/Loading=Loading...
 UI/Title/Connecting=Connecting...
@@ -256,6 +258,7 @@ UI/Credits/MadeBy=Made by {0}
 UI/Credits/SomeIcons=Some icons from {0}
 UI/Credits/SomeTiles=Some tiles from {0}
 UI/Credits/SpecialThanks=Special Thanks
+UI/Credits/Translators=Translators
 
 # The little arrows around dead flowers
 UI/HelperText/Guild=Guild

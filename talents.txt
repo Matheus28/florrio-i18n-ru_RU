@@ -22,19 +22,19 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Inventory
+Talents/inventory6/Name=Loadout
 Talents/inventory6/Description=Enables a 6th loadout slot to equip petals.
 
-Talents/inventory7/Name=Inventory
+Talents/inventory7/Name=Loadout
 Talents/inventory7/Description=Enables a 7th loadout slot to equip petals.
 
-Talents/inventory8/Name=Inventory
+Talents/inventory8/Name=Loadout
 Talents/inventory8/Description=Enables a 8th loadout slot to equip petals.
 
-Talents/inventory9/Name=Inventory
+Talents/inventory9/Name=Loadout
 Talents/inventory9/Description=Enables a 9th loadout slot to equip petals.
 
-Talents/inventory10/Name=Inventory
+Talents/inventory10/Name=Loadout
 Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
 
 Talents/health/Name=Health
