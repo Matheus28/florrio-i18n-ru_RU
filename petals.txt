@@ -60,7 +60,7 @@ Petals/faster/Gender=Male
 
 Petals/bubble/Name=Пузырь
 Petals/bubble/FullName=Пузырь
-Petals/bubble/Description=Физика для слабаков.
+Petals/bubble/Description=Физика - для слабаков.
 Petals/bubble/Gender=Male
 
 Petals/pollen/Name=Пыльца
@@ -449,7 +449,7 @@ Petals/coral/Gender=Male
 
 Petals/magic_bubble/Name=Пузырь
 Petals/magic_bubble/FullName=Волшебный Пузырь
-Petals/magic_bubble/Description=Физика для не знающих магии.
+Petals/magic_bubble/Description=Физика - для не знающих магии.
 Petals/magic_bubble/Gender=Male
 
 Petals/nazar/Name=Назар
