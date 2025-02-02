@@ -1,42 +1,42 @@
-Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Name=Обучение
+Achievements/0/Description=Немного подвигайся.
+Achievements/0/ExtraDescription=Используй мышь для перемещения. Твой цветок будет автоматически следовать за курсором.<n/>Ты можешь поменять управление на клавиатурное в меню настроек.<n/><n/>Немного подвигайся, чтобы продолжить.
 
-Achievements/1/Name=Tutorial
-Achievements/1/Description=Kill a mob.
-Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+Achievements/1/Name=Обучение
+Achievements/1/Description=Убей моба.
+Achievements/1/ExtraDescription=Эти насекомые — твои враги. Их убийство даёт шанс получить новые лепестки.<n/><n/>Найди какого-нибудь и убей его.<n/>Ты можешь попробовать удерживать левую кнопку мыши, чтобы отдалить твои лепестки.
 
-Achievements/2/Name=Tutorial
-Achievements/2/Description=Collect a petal.
-Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+Achievements/2/Name=Обучение
+Achievements/2/Description=Подбери лепесток.
+Achievements/2/ExtraDescription=Продолжай убивать врагов, пока из них не выпадет лепесток, затем подойди к этому лепестку, чтобы подобрать его.
 
-Achievements/3/Name=Tutorial
-Achievements/3/Description=Equip a petal.
-Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+Achievements/3/Name=Обучение
+Achievements/3/Description=Надень лепесток.
+Achievements/3/ExtraDescription=Когда ты подбираешь лепесток, если у тебя есть свободное место в снаряжении, он попадает туда, иначе он попадает в инвентарь.<n/>Нажми на лепесток, который ты только что подобрал, чтобы надеть его (или используй для этого цифровую горячую клавишу).
 
 # Disabled
-Achievements/4/Name=Tutorial
-Achievements/4/Description=Collect more petals.
-Achievements/4/ExtraDescription=For the next step, we'll need a lot of petals.<n/>Keep destroying enemies and collecting petals.
+Achievements/4/Name=Обучение
+Achievements/4/Description=Собери больше лепестков.
+Achievements/4/ExtraDescription=Для следующего шага нам понадобится много лепестков.<n/>Продолжай убивать врагов и собирать лепестки.
 
-Achievements/5/Name=Tutorial
-Achievements/5/Description=Get to level {0}.
-Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
+Achievements/5/Name=Обучение
+Achievements/5/Description=Дойди до {0}-го уровня.
+Achievements/5/ExtraDescription=Чтобы повысить уровень, просто продолжай убивать насекомых.
 
-Achievements/6/Name=Tutorial
-Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+Achievements/6/Name=Обучение
+Achievements/6/Description=Используй очко талантов.
+Achievements/6/ExtraDescription=Используй новое очко талантов, которое ты получил, чтобы открыть любой талант.<n/><n/>Помни, что нужно нажать и УДЕРЖИВАТЬ, чтобы улучшить талант.
 
-Achievements/7/Name=Tutorial
-Achievements/7/Description=Collect some petals.
-Achievements/7/ExtraDescription=Now we need to collect {0} of the same {#Rarities/{1}/NameColored} petal to craft {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} petal.<n/>Keep destroying some insects to collect a couple more petals.
+Achievements/7/Name=Обучение
+Achievements/7/Description=Собери несколько лепестков.
+Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male} лепесток.<n/>Продолжай убивать насекомых, чтобы подобрать ещё пару лепестков.
 
-Achievements/8/Name=Tutorial
-Achievements/8/Description=Craft a petal.
-Achievements/8/ExtraDescription=Now try to craft your first petal.<n/>Note that you might need to unequip some petals to have enough to do this craft.<n/>You need 5 of the same petal.<n/><n/>Don't worry, we loaded the dice for this one, it will succeed.
+Achievements/8/Name=Обучение
+Achievements/8/Description=Скрафти лепесток.
+Achievements/8/ExtraDescription=Теперь попробуй скрафтить свой первый лепесток.<n/>Тебе может понадобиться снять некоторые лепестки, чтобы их хватило для крафта.<n/>Тебе нужно 5 одинаковых лепестков.<n/><n/>Не волнуйся, мы сделали так, чтобы этот крафт точно удался.
 
-Achievements/9/Name=Tutorial
-Achievements/9/Description=Complete the tutorial.
+Achievements/9/Name=Обучение
+Achievements/9/Description=Заверши обучение.
 
 Achievements/10/Name=Crafter
 Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
