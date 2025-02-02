@@ -203,10 +203,10 @@ Petals/soil/FullName=Почва
 Petals/soil/Description=Увеличивает здоровье, но также увеличивает размер цветка и уменьшает скорость передвижения.
 Petals/soil/Gender=Female
 
-Petals/fangs/Name=Клыки
-Petals/fangs/FullName=Клыки
-Petals/fangs/Description=Лечат цветок в зависимости от урона, нанесённого этим лепестком.
-Petals/fangs/Gender=Plural
+Petals/fangs/Name=Клык
+Petals/fangs/FullName=Клык
+Petals/fangs/Description=Лечит цветок в зависимости от урона, нанесённого этим лепестком.
+Petals/fangs/Gender=Male
 
 Petals/third_eye/Name=Глаз
 Petals/third_eye/FullName=Третий Глаз

@@ -181,6 +181,7 @@ UI/Talent/Rarity={#Rarities/{1}/Name}
 UI/Talent/TP=ОТ
 UI/Talent/Tooltip=ОТ можно получить за повышение уровня или выполнение достижений
 UI/Talent/Reset=Сбросить
+UI/Talent/HoldToUpgrade=HOLD to upgrade
 
 UI/Craft/Title=Крафт
 UI/Craft/Button=Крафт
