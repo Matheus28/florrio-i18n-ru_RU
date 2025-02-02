@@ -147,6 +147,12 @@ UI/Shop/Loyalty/Title=Спасибо!
 UI/Shop/Loyalty/Instructions=В знак благодарности за вашу поддержку,<n/>мы бесплатно начислили вам немного звёзд.<n/><n/>Это эквивалентно тому, что вы бы получили, если бы потратили<n/>столько же денег, сколько уже потратили, но на более дорогих предложениях.
 UI/Shop/Price/USD={0}$
 
+UI/Banned/Title=BANNED
+UI/Banned/Instructions=Your account has been banned.
+UI/Banned/TimeLeft=This ban will expire {0:timeLeft}.
+UI/Banned/Permanent=This ban is permanent.
+UI/Banned/Account=Account: {0}
+
 UI/DailyChallenge/Title=Испытания
 UI/DailyChallenge/Button=Испытания
 UI/DailyChallenge/Instructions=Одолейте этих мобов:
