@@ -38,227 +38,227 @@ Achievements/8/ExtraDescription=Теперь попробуй скрафтить
 Achievements/9/Name=Обучение
 Achievements/9/Description=Заверши обучение.
 
-Achievements/10/Name=Crafter
-Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/10/Name=Крафтер
+Achievements/10/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/11/Name=Crafter
-Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/11/Name=Крафтер
+Achievements/11/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/12/Name=Crafter
-Achievements/12/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/12/Name=Крафтер
+Achievements/12/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/13/Name=Crafter
-Achievements/13/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/13/Name=Крафтер
+Achievements/13/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/14/Name=Crafter
-Achievements/14/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/14/Name=Крафтер
+Achievements/14/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/15/Name=Crafter
-Achievements/15/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/15/Name=Крафтер
+Achievements/15/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/16/Name=Crafter
-Achievements/16/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/16/Name=Крафтер
+Achievements/16/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
 
-Achievements/17/Name=Consolation prize
-Achievements/17/Description=Fail to craft a petal and lose {0} petals.
+Achievements/17/Name=Утешительный приз
+Achievements/17/Description=Провали крафт и потеряй {0} лепестка.
 
-Achievements/18/Name=Consolation prize
-Achievements/18/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/18/Name=Утешительный приз
+Achievements/18/Description=Провали крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряй {0} лепестка.
 
-Achievements/19/Name=Consolation prize
-Achievements/19/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/19/Name=Утешительный приз
+Achievements/19/Description=Провали крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряй {0} лепестка.
 
-Achievements/20/Name=Digger
-Achievements/20/Description=Equip a {#Petals/cutter/Name}.
+Achievements/20/Name=Копатель
+Achievements/20/Description=Надень {#Petals/cutter/Name}.
 
-Achievements/21/Name=Growing up
-Achievements/21/Description=Reach Level {0}.
+Achievements/21/Name=Развитие
+Achievements/21/Description=Достигни {0}-го Уровня.
 
-Achievements/22/Name=Growing up
-Achievements/22/Description=Reach Level {0}.
+Achievements/22/Name=Развитие
+Achievements/22/Description=Достигни {0}-го Уровня.
 
-Achievements/23/Name=Growing up
-Achievements/23/Description=Reach Level {0}.
+Achievements/23/Name=Развитие
+Achievements/23/Description=Достигни {0}-го Уровня.
 
-Achievements/24/Name=Growing up
-Achievements/24/Description=Reach Level {0}.
+Achievements/24/Name=Развитие
+Achievements/24/Description=Достигни {0}-го Уровня.
 
-Achievements/25/Name=Growing up
-Achievements/25/Description=Reach Level {0}.
+Achievements/25/Name=Развитие
+Achievements/25/Description=Достигни {0}-го Уровня.
 
-Achievements/26/Name=Growing up
-Achievements/26/Description=Reach Level {0}.
+Achievements/26/Name=Развитие
+Achievements/26/Description=Достигни {0}-го Уровня.
 
-Achievements/27/Name=Growing up
-Achievements/27/Description=Reach Level {0}.
+Achievements/27/Name=Развитие
+Achievements/27/Description=Достигни {0}-го Уровня.
 
-Achievements/28/Name=Wasteful Crafting
-Achievements/28/Description=Destroy {0:tooltip} petals in crafting attempts.
+Achievements/28/Name=Бесполезный Крафт
+Achievements/28/Description=Потеряй {0:tooltip} лепестков в попытках крафта.
 
-Achievements/29/Name=High volume crafter
-Achievements/29/Description=Craft {0:tooltip} petals.
+Achievements/29/Name=Крафтер-трудяга
+Achievements/29/Description=Скрафти {0:tooltip} лепестков.
 
-Achievements/30/Name=Desert
-Achievements/30/Description=Visit the desert.
+Achievements/30/Name=Пустыня
+Achievements/30/Description=Посети пустыню.
 
-Achievements/31/Name=Ocean
-Achievements/31/Description=Visit the ocean.
+Achievements/31/Name=Океан
+Achievements/31/Description=Посети океан.
 
-Achievements/32/Name=Welcome to the Jungle
-Achievements/32/Description=Visit the jungle.
+Achievements/32/Name=Добро пожаловать в Джунгли
+Achievements/32/Description=Посети джунгли.
 
-Achievements/33/Name=Ant Hell
-Achievements/33/Description=Find out where all these pesky ants keep coming from.
+Achievements/33/Name=Мир Муравьёв
+Achievements/33/Description=Узнай, откуда берутся все эти надоедливые муравьи.
 
-Achievements/34/Name=Sewers
-Achievements/34/Description=Find out where that pipe goes.
+Achievements/34/Name=Канализация
+Achievements/34/Description=Узнай, куда ведёт та труба.
 
-Achievements/35/Name=Conqueror
-Achievements/35/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/35/Name=Завоеватель
+Achievements/35/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/36/Name=Conqueror
-Achievements/36/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/36/Name=Завоеватель
+Achievements/36/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/37/Name=Conqueror
-Achievements/37/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/37/Name=Завоеватель
+Achievements/37/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/38/Name=Conqueror
-Achievements/38/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/38/Name=Завоеватель
+Achievements/38/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/39/Name=Conqueror
-Achievements/39/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/39/Name=Завоеватель
+Achievements/39/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/40/Name=Conqueror
-Achievements/40/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/40/Name=Завоеватель
+Achievements/40/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/41/Name=Conqueror
-Achievements/41/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/41/Name=Завоеватель
+Achievements/41/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
 
-Achievements/42/Name=Go to WHERE?!
-Achievements/42/Description=Visit the other plane.
+Achievements/42/Name=Пойти КУДА?!
+Achievements/42/Description=Посети другое измерение.
 
-Achievements/43/Name=Challenger
-Achievements/43/Description=Complete a challenge.
+Achievements/43/Name=Борец
+Achievements/43/Description=Пройди испытание.
 
-Achievements/44/Name=Challenger
-Achievements/44/Description=Complete {0} challenges.
+Achievements/44/Name=Борец
+Achievements/44/Description=Пройди {0} испытаний.
 
-Achievements/45/Name=Challenger
-Achievements/45/Description=Complete {0} challenges.
+Achievements/45/Name=Борец
+Achievements/45/Description=Пройди {0} испытаний.
 
-Achievements/46/Name=Challenger
-Achievements/46/Description=Complete {0} challenges.
+Achievements/46/Name=Борец
+Achievements/46/Description=Пройди {0} испытаний.
 
-Achievements/47/Name=Gear Up
-Achievements/47/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/47/Name=Готовься
+Achievements/47/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/48/Name=Gear Up
-Achievements/48/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/48/Name=Готовься
+Achievements/48/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/49/Name=Gear Up
-Achievements/49/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/49/Name=Готовься
+Achievements/49/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/50/Name=Gear Up
-Achievements/50/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/50/Name=Готовься
+Achievements/50/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/51/Name=Gear Up
-Achievements/51/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/51/Name=Готовься
+Achievements/51/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/52/Name=Gear Up
-Achievements/52/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/52/Name=Готовься
+Achievements/52/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/53/Name=Gear Up
-Achievements/53/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/53/Name=Готовься
+Achievements/53/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/54/Name=Summoner
-Achievements/54/Description=Spawn a friendly mob.
+Achievements/54/Name=Призыватель
+Achievements/54/Description=Призови дружественного моба.
 
-Achievements/55/Name=Summoner
-Achievements/55/Description=Spawn {0} friendly mobs.
+Achievements/55/Name=Призыватель
+Achievements/55/Description=Призови {0} дружественных мобов.
 
-Achievements/56/Name=Summoner
-Achievements/56/Description=Spawn {0} friendly mobs.
+Achievements/56/Name=Призыватель
+Achievements/56/Description=Призови {0} дружественных мобов.
 
-Achievements/57/Name=Summoner
-Achievements/57/Description=Spawn {0} friendly mobs.
+Achievements/57/Name=Призыватель
+Achievements/57/Description=Призови {0} дружественных мобов.
 
-Achievements/58/Name=Shiny!
-Achievements/58/Description=Destroy a shiny Ladybug
+Achievements/58/Name=Солнечная!
+Achievements/58/Description=Убей солнечную Божью Коровку
 
-Achievements/59/Name=Wrong game
-Achievements/59/Description=Destroy a Square
+Achievements/59/Name=Не та игра
+Achievements/59/Description=Убей Квадрат
 
-Achievements/60/Name=Pain dealer
-Achievements/60/Description=Deal {0:tooltip} damage.
+Achievements/60/Name=Причинитель боли
+Achievements/60/Description=Нанеси {0:tooltip} урона.
 
-Achievements/61/Name=Pain dealer
-Achievements/61/Description=Deal {0:tooltip} damage.
+Achievements/61/Name=Причинитель боли
+Achievements/61/Description=Нанеси {0:tooltip} урона.
 
-Achievements/62/Name=Pain dealer
-Achievements/62/Description=Deal {0:tooltip} damage.
+Achievements/62/Name=Причинитель боли
+Achievements/62/Description=Нанеси {0:tooltip} урона.
 
-Achievements/63/Name=One-hit KO
-Achievements/63/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/63/Name=Нокаут
+Achievements/63/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
 
-Achievements/64/Name=One-hit KO
-Achievements/64/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/64/Name=Нокаут
+Achievements/64/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
 
-Achievements/65/Name=One-hit KO
-Achievements/65/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/65/Name=Нокаут
+Achievements/65/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
 
-Achievements/66/Name=One-hit KO
-Achievements/66/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/66/Name=Нокаут
+Achievements/66/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
 
-Achievements/67/Name=One-hit KO
-Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/67/Name=Нокаут
+Achievements/67/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
 
-Achievements/68/Name=Getting tanned
-Achievements/68/Description=Survive {0:time} in Hel.
+Achievements/68/Name=Загар
+Achievements/68/Description=Выживи {0:time} в Аду.
 
-Achievements/69/Name=Skill issue
-Achievements/69/Description=Find the dead dev flower.
+Achievements/69/Name=Руки-крюки
+Achievements/69/Description=Найди мёртвый цветок разработчика.
 
-Achievements/70/Name=Termites...?
-Achievements/70/Description=Spawn a friendly Termite.
+Achievements/70/Name=Термиты...?
+Achievements/70/Description=Призови дружественного Термита.
 
-Achievements/71/Name=Pacifist
-Achievements/71/Description=Spend {0:time} admiring nature without destroying anything.
+Achievements/71/Name=Пацифист
+Achievements/71/Description=Проведи {0:time}, любуясь природой и никого не убивая.
 
-Achievements/72/Name=Be gone
-Achievements/72/Description=Send a flower to Hel.
+Achievements/72/Name=Уйди
+Achievements/72/Description=Отправь другой цветок в Ад.
 
-Achievements/73/Name=Be gone
-Achievements/73/Description=Send {0} flowers to Hel.
+Achievements/73/Name=Уйди
+Achievements/73/Description=Отправь {0} цветков в Ад.
 
-Achievements/74/Name=Saved
-Achievements/74/Description=Get revived.
+Achievements/74/Name=Спасение
+Achievements/74/Description=Будь возрождён.
 
-Achievements/75/Name=Savior
-Achievements/75/Description=Revive a flower.
+Achievements/75/Name=Спаситель
+Achievements/75/Description=Возроди другой цветок.
 
-Achievements/76/Name=Savior
-Achievements/76/Description=Revive {0} flowers.
+Achievements/76/Name=Спаситель
+Achievements/76/Description=Возроди {0} цветков.
 
-Achievements/77/Name=All-seeing
-Achievements/77/Description=Equip {#Petals/{0}/Name}.
+Achievements/77/Name=Всевидящий
+Achievements/77/Description=Надень {#Petals/{0}/Name}.
 
-Achievements/78/Name=Return to sender
-Achievements/78/Description=Hit a mob with {#Petals/{0}/Name}.
+Achievements/78/Name=Возвращение отправителю
+Achievements/78/Description=Ударь моба с помощью {#Petals/{0}/Name}.
 
-Achievements/79/Name=Homewrecker
-Achievements/79/Description=Destroy an {#Mobs/{1}/Name}, {#Mobs/{2}/Name} or {#Mobs/{3}/Name}.
+Achievements/79/Name=Разрушитель
+Achievements/79/Description=Разрушь {#Mobs/{1}/Name}, {#Mobs/{2}/Name} или {#Mobs/{3}/Name}.
 
-Achievements/80/Name=Homewrecker
-Achievements/80/Description=Destroy {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s or {#Mobs/{3}/Name}s.
+Achievements/80/Name=Разрушитель
+Achievements/80/Description=Разрушь {0} {#Mobs/{1}/Name/Plural/Genitive}, {#Mobs/{2}/Name/Plural/Genitive} или {#Mobs/{3}/Name/Plural/Genitive}.
 
-Achievements/81/Name=Bad
-Achievements/81/Description=Die.
+Achievements/81/Name=Плохой
+Achievements/81/Description=Умри.
 
-Achievements/82/Name=Bad
-Achievements/82/Description=Die {0} times.
+Achievements/82/Name=Плохой
+Achievements/82/Description=Умри {0} раз.
 
-Achievements/83/Name=Bad
-Achievements/83/Description=Die {0} times.
+Achievements/83/Name=Плохой
+Achievements/83/Description=Умри {0} раз.
 
 Achievements/84/Name=Serial killer
 Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.

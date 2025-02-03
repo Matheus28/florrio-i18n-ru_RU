@@ -33,6 +33,7 @@ Mobs/ant_queen/Description=Ты, должно быть, сделал что-то
 Mobs/ant_queen/Gender=Female
 
 Mobs/ant_hole/Name=Муравейник
+Mobs/ant_hole/Name/Plural/Genitive=Муравейников
 Mobs/ant_hole/Description=Муравьи заходят и выходят. Не могу это объяснить.
 Mobs/ant_hole/Gender=Male
 
@@ -94,6 +95,7 @@ Mobs/fire_ant_soldier/Description=Этот муравей горииииииии
 Mobs/fire_ant_soldier/Gender=Male
 
 Mobs/fire_ant_burrow/Name=Огненный Муравейник
+Mobs/fire_ant_burrow/Name/Plural/Genitive=Огненных Муравейников
 Mobs/fire_ant_burrow/Description=Что здесь может быть?
 Mobs/fire_ant_burrow/Gender=Male
 
@@ -195,6 +197,7 @@ Mobs/termite_overmind/Description=Тот, кто наблюдает за все�
 Mobs/termite_overmind/Gender=Male
 
 Mobs/termite_mound/Name=Термитник
+Mobs/termite_mound/Name/Plural/Genitive=Термитников
 Mobs/termite_mound/Description=Термиты заходят и выходят. Не могу это объяснить.
 Mobs/termite_mound/Gender=Male
 
