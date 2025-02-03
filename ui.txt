@@ -1,4 +1,4 @@
-UI/Language/Name=Русский
+UI/Language/Name=Русский (РФ)
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=Max Nest<n/>Nikolai Bulygin (IOMAN)
 
@@ -30,7 +30,7 @@ UI/Login/PlayAsGuest=Играть как гость
 UI/Login/SignInApple=Войти с Apple
 UI/Login/SignInDiscord=Войти с Discord
 UI/Login/Logout=Выйти из аккаунта
-UI/Login/AccountID=ID Аккаунта:
+UI/Login/AccountID=ID аккаунта:
 UI/Login/Connecting=(подключение)
 UI/Login/GuestName=Гость
 UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
@@ -147,11 +147,11 @@ UI/Shop/Loyalty/Title=Спасибо!
 UI/Shop/Loyalty/Instructions=В знак благодарности за вашу поддержку,<n/>мы бесплатно начислили вам немного звёзд.<n/><n/>Это эквивалентно тому, что вы бы получили, если бы потратили<n/>столько же денег, сколько уже потратили, но на более дорогих предложениях.
 UI/Shop/Price/USD={0}$
 
-UI/Banned/Title=BANNED
-UI/Banned/Instructions=Your account has been banned.
-UI/Banned/TimeLeft=This ban will expire {0:timeLeft}.
-UI/Banned/Permanent=This ban is permanent.
-UI/Banned/Account=Account: {0}
+UI/Banned/Title=АККАУНТ ЗАБЛОКИРОВАН
+UI/Banned/Instructions=Ваш аккаунт был заблокирован.
+UI/Banned/TimeLeft=Блокировка будет снята {0:timeLeft}.
+UI/Banned/Permanent=Блокировка не будет снята.
+UI/Banned/Account=ID аккаунта: {0}
 
 UI/DailyChallenge/Title=Испытания
 UI/DailyChallenge/Button=Испытания
@@ -275,7 +275,7 @@ UI/Credits/MadeBy=Игру создал {0}
 UI/Credits/SomeIcons=Некоторые иконки из {0}
 UI/Credits/SomeTiles=Некоторые тайлы из {0}
 UI/Credits/SpecialThanks=Особая Благодарность
-UI/Credits/Translators=Переводчики
+UI/Credits/Translators=Перевод на русский
 
 # The little arrows around dead flowers
 UI/HelperText/Guild=Клан
