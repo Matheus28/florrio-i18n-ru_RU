@@ -754,26 +754,15 @@ July 20th 2022
 	- 
 	- 
 
-July 19th 2022
-	- Crafting now uses a pseudo random distribution that increases success rate on each failure until a successful craft.
-	- Nominal craft chances on the long run are still the same. It will not show the calculated craft chance for each attempt.
-	- For example, a 75% craft chance means that 66.6% of the time it'll succeed on the first attempt, and 100% of the time on the second attempt.
-
 19 июля 2022
-	- 
-	- 
-	- 
+	- Крафт теперь успользует псевдослучайность, которая увеличивает шанс успеха после каждой неудачи до успешного крафта.
+	- В среднем шансы крафта остаются такими же. Настоящие шансы крафта для каждой попытки не будут показаны.
+	- Например, 75% шанс крафта значит, что в 66.6% случаев успех будет в первой попытке, и в 100% случаев успех будет во второй попытке.
 
 18 июля 2022
 	- Добавлен PvP.
 	- Эффект соли теперь может складываться с собой. Отражённый урон уменьшен на 75% против цветков.
 	- Замедление паутины уменьшено с -75% до -50%.
-
-July 16th 2022
-	- Next wave will now start once current wave has 4 or fewer mobs alive.
-	- Mob aggro range now constantly increases while they're alive.
-	- Rarer mobs now give more experience as intended.
-	- Level experience requirements have been increased to compensate.
 
 16 июля 2022
 	- Следующая волна теперь начинается, как только в нынешней остаётся 4 или менее мобов.
