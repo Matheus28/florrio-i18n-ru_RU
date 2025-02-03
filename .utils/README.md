@@ -37,7 +37,7 @@ Run `florrio.utils.uploadCustomLang();` in the JS console. That will prompt you 
 - `{0}` Will print raw
 - `{0:tooltip}` Will be print in tooltip form (like 2.2k)
 - `{0:time}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers.
-- `{0:timeLeft}` Will be print as a "time left" timestamp. Assumes number is in seconds. It'll transform into something like `in X seconds` or `in 3 hours` for larger numbers.
+- `{0:time:type}` Will send `type` as a string in `{1}` for the time formatting keys.
 - `{0:tooltipTime}` Will be print as a time. Assumes number is in seconds. It'll transform into something like `X seconds` or `3 hours` for larger numbers. It will also display decimals, such as 0.7 seconds, 5.4 seconds, etc.
 - `{0:1orN}` Will print either 1 or N, depending on the value of the number.
 - `{0:lastDigit}` Will print the last digit (0-9). If the number is a float, it is first cast to integer.
