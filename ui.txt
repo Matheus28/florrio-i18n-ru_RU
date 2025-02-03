@@ -106,8 +106,8 @@ UI/Guild/SquadButton=Команда
 UI/Guild/KickButton=Выгнать
 UI/Guild/Leader=(Глава)
 UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
-UI/Guild/Members/1=Член (1)
-UI/Guild/Members/N=Члены ({0})
+UI/Guild/Members/1=Участник (1)
+UI/Guild/Members/N=Участники ({0})
 UI/Guild/LeaveButton=Выйти
 UI/Guild/Leave/Title=Выйти из клана
 UI/Guild/Leave/Instructions=Вы уверены?
@@ -274,7 +274,7 @@ UI/Settings/TermsOfService=Условия Использования
 UI/Credits/MadeBy=Игру создал {0}
 UI/Credits/SomeIcons=Некоторые иконки из {0}
 UI/Credits/SomeTiles=Некоторые тайлы из {0}
-UI/Credits/SpecialThanks=Особая Благодарность
+UI/Credits/SpecialThanks=Особая благодарность
 UI/Credits/Translators=Перевод на русский
 
 # The little arrows around dead flowers
