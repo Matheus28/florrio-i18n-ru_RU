@@ -1,5 +1,5 @@
 Talents/crafting/Name=Крафт
-Talents/crafting/Description=Открывает возможность крафтить <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name/Plural}</c> лепестки
+Talents/crafting/Description=Открывает возможность крафтить <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name/Plural/Accusative/Inanimate}</c> лепестки
 Talents/crafting/Gender=Male
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}

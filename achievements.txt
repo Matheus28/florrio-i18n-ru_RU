@@ -29,7 +29,7 @@ Achievements/6/ExtraDescription=Используй новое очко тала�
 
 Achievements/7/Name=Обучение
 Achievements/7/Description=Собери несколько лепестков.
-Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male} лепесток.<n/>Продолжай убивать насекомых, чтобы подобрать ещё пару лепестков.
+Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male/Accusative/Inanimate} лепесток.<n/>Продолжай убивать насекомых, чтобы подобрать ещё пару лепестков.
 
 Achievements/8/Name=Обучение
 Achievements/8/Description=Скрафти лепесток.
@@ -39,25 +39,25 @@ Achievements/9/Name=Обучение
 Achievements/9/Description=Заверши обучение.
 
 Achievements/10/Name=Крафтер
-Achievements/10/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/10/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/11/Name=Крафтер
-Achievements/11/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/11/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/12/Name=Крафтер
-Achievements/12/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/12/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/13/Name=Крафтер
-Achievements/13/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/13/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/14/Name=Крафтер
-Achievements/14/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/14/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/15/Name=Крафтер
-Achievements/15/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/15/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/16/Name=Крафтер
-Achievements/16/Description=Скрафти {#Rarities/{0}/Name/Male} лепесток.
+Achievements/16/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/17/Name=Утешительный приз
 Achievements/17/Description=Провали крафт и потеряй {0} лепестка.
@@ -69,7 +69,7 @@ Achievements/19/Name=Утешительный приз
 Achievements/19/Description=Провали крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряй {0} лепестка.
 
 Achievements/20/Name=Копатель
-Achievements/20/Description=Надень {#Petals/cutter/Name}.
+Achievements/20/Description=Надень {#Petals/cutter/Name/Accusative}.
 
 Achievements/21/Name=Развитие
 Achievements/21/Description=Достигни {0}-го Уровня.
@@ -114,25 +114,25 @@ Achievements/34/Name=Канализация
 Achievements/34/Description=Узнай, куда ведёт та труба.
 
 Achievements/35/Name=Завоеватель
-Achievements/35/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/35/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/36/Name=Завоеватель
-Achievements/36/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/36/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/37/Name=Завоеватель
-Achievements/37/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/37/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/38/Name=Завоеватель
-Achievements/38/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/38/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/39/Name=Завоеватель
-Achievements/39/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/39/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/40/Name=Завоеватель
-Achievements/40/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/40/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/41/Name=Завоеватель
-Achievements/41/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative} моба.
+Achievements/41/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/42/Name=Пойти КУДА?!
 Achievements/42/Description=Посети другое измерение.
@@ -198,19 +198,19 @@ Achievements/62/Name=Причинитель боли
 Achievements/62/Description=Нанеси {0:tooltip} урона.
 
 Achievements/63/Name=Нокаут
-Achievements/63/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
+Achievements/63/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/64/Name=Нокаут
-Achievements/64/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
+Achievements/64/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/65/Name=Нокаут
-Achievements/65/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
+Achievements/65/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/66/Name=Нокаут
-Achievements/66/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
+Achievements/66/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/67/Name=Нокаут
-Achievements/67/Description=Убей {#Rarities/{0}/Name/Male/Accusative} моба с одного удара.
+Achievements/67/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/68/Name=Загар
 Achievements/68/Description=Выживи {0:time} в Аду.
@@ -240,13 +240,13 @@ Achievements/76/Name=Спаситель
 Achievements/76/Description=Возроди {0} цветков.
 
 Achievements/77/Name=Всевидящий
-Achievements/77/Description=Надень {#Petals/{0}/Name}.
+Achievements/77/Description=Надень {#Petals/{0}/Name/Accusative}.
 
 Achievements/78/Name=Возвращение отправителю
-Achievements/78/Description=Ударь моба с помощью {#Petals/{0}/Name}.
+Achievements/78/Description=Ударь моба с помощью {#Petals/{0}/Name/Genitive}.
 
 Achievements/79/Name=Разрушитель
-Achievements/79/Description=Разрушь {#Mobs/{1}/Name}, {#Mobs/{2}/Name} или {#Mobs/{3}/Name}.
+Achievements/79/Description=Разрушь {#Mobs/{1}/Name/Accusative}, {#Mobs/{2}/Name/Accusative} или {#Mobs/{3}/Name/Accusative}.
 
 Achievements/80/Name=Разрушитель
 Achievements/80/Description=Разрушь {0} {#Mobs/{1}/Name/Plural/Genitive}, {#Mobs/{2}/Name/Plural/Genitive} или {#Mobs/{3}/Name/Plural/Genitive}.
@@ -318,13 +318,13 @@ Achievements/102/Name=Бумага
 Achievements/102/Description=Умри от удара, нанёсшего больше урона, чем твоё максимальное здоровье.
 
 Achievements/103/Name=Статуя
-Achievements/103/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative} моба, не двигаясь с места.
+Achievements/103/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
 
 Achievements/104/Name=Статуя
-Achievements/104/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative} моба, не двигаясь с места.
+Achievements/104/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
 
 Achievements/105/Name=Вдох-выдох
-Achievements/105/Description=Надень и сними {#Petals/{0}/Name} много раз
+Achievements/105/Description=Надень и сними {#Petals/{0}/Name/Accusative} много раз
 
 Achievements/106/Name=Звуковой барьер
 Achievements/106/Description=Двигайся очень быстро.
@@ -342,16 +342,16 @@ Achievements/110/Name=Потрогай траву
 Achievements/110/Description=Не играй в игру {0:time}.
 
 Achievements/111/Name=Гоночная машина
-Achievements/111/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/111/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
 Achievements/112/Name=Гоночная машина
-Achievements/112/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/112/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
 Achievements/113/Name=Гоночная машина
-Achievements/113/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/113/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
 Achievements/114/Name=Гоночная машина
-Achievements/114/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/114/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
 Achievements/115/Name=Биолог
 Achievements/115/Description=Убей {0} разных типов {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
@@ -420,7 +420,7 @@ Achievements/136/Name=Всезнающий
 Achievements/136/Description=Скрафти лепесток с помощью Оракула.
 
 Achievements/137/Name=Это была судьба
-Achievements/137/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative}+ лепесток с помощью Оракула.
+Achievements/137/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate}+ лепесток с помощью Оракула.
 
 Achievements/138/Name=Волшебник
 Achievements/138/Description=Надень {#Petals/{0}/Name/Accusative}.

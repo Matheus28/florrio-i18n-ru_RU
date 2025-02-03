@@ -79,6 +79,7 @@ Petals/beetle_egg/Description=Из него может вылупиться чт
 Petals/beetle_egg/Gender=Neuter
 
 Petals/antennae/Name=Усики
+Petals/antennae/Name/Accusative=Усики
 Petals/antennae/FullName=Усики
 Petals/antennae/Description=Позволяют цветку чуять противников на большем расстоянии.
 Petals/antennae/Gender=Plural
@@ -164,6 +165,7 @@ Petals/lightning/Description=Поражает нескольких ближай�
 Petals/lightning/Gender=Female
 
 Petals/jelly/Name=Желе
+Petals/jelly/Name/Genitive=Желе
 Petals/jelly/FullName=Желе
 Petals/jelly/Description=Никто не любит трогать его.
 Petals/jelly/Gender=Neuter
@@ -179,6 +181,7 @@ Petals/shell/Description=Добавляет временный щит тебе �
 Petals/shell/Gender=Female
 
 Petals/cutter/Name=Резак
+Petals/cutter/Name/Accusative=Резак
 Petals/cutter/FullName=Резак
 Petals/cutter/Description=Он принадлежал другу... пришло время отомстить.<n/>Увеличивает урон тела.
 Petals/cutter/Gender=Male
@@ -234,6 +237,7 @@ Petals/powder/Description=Увеличивает скорость передви
 Petals/powder/Gender=Male
 
 Petals/air/Name=Воздух
+Petals/air/Name/Accusative=Воздух
 Petals/air/FullName=Воздух
 Petals/air/Description=Это буквально ничего.
 Petals/air/Gender=Male
@@ -364,11 +368,13 @@ Petals/shovel/Description=Делает цветок недоступным дл�
 Petals/shovel/Gender=Female
 
 Petals/coin/Name=Монета
+Petals/coin/Name/Accusative=Монету
 Petals/coin/FullName=Монета
 Petals/coin/Description=Сила капитализма поглощает тебя!
 Petals/coin/Gender=Female
 
 Petals/chip/Name=Фишка
+Petals/chip/Name/Accusative=Фишку
 Petals/chip/FullName=Покерная Фишка
 Petals/chip/Description=ВСЁ НА КОНУ.
 Petals/chip/Gender=Female
@@ -398,6 +404,7 @@ Petals/corruption/Description=Портит душу любого, обращая
 Petals/corruption/Gender=Female
 
 Petals/orb/Name=Сфера
+Petals/orb/Name/Accusative=Сферу
 Petals/orb/FullName=Сфера Маны
 Petals/orb/Description=Создаёт ману.
 Petals/orb/Gender=Female
