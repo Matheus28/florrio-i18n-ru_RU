@@ -412,7 +412,7 @@ December 29th 2022
 	- 
 
 December 28th 2022
-	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect
+	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect.
 	- The idea is increasing the gap between rarities. Such that if you have unusual petals, a rare mob actually presents a bigger challenge. Before this update, there wasn't really enough distinction between lower mob rarities.
 
 28 декабря 2022
@@ -764,57 +764,37 @@ July 19th 2022
 	- 
 	- 
 
-July 18th 2022
-	- Released PvP.
-	- Salt now stacks with itself. Reflected damage is reduced by 75% against flowers.
-	- Web movement speed debuff changed from -75% to -50%.
-
 18 июля 2022
-	- 
-	- 
-	- 
+	- Добавлен PvP.
+	- Эффект соли теперь может складываться с собой. Отражённый урон уменьшен на 75% против цветков.
+	- Замедление паутины уменьшено с -75% до -50%.
 
 July 16th 2022
 	- Next wave will now start once current wave has 4 or fewer mobs alive.
 	- Mob aggro range now constantly increases while they're alive.
-	- Rarer mobs now give more experience as intended
-	- Level experience requirements have been increased to compensate
+	- Rarer mobs now give more experience as intended.
+	- Level experience requirements have been increased to compensate.
 
 16 июля 2022
-	- 
-	- 
-	- 
-	- 
-
-July 15th 2022
-	- Released Desert scenario.
+	- Следующая волна теперь начинается, как только в нынешней остаётся 4 или менее мобов.
+	- Дальность привлечения теперь постоянно увеличивается для каждого моба.
+	- Более редкие мобы теперь дают больше опыта.
+	- Повышения уровней теперь требуют больше опыта.
 
 15 июля 2022
-	- 
-
-July 14th 2022
-	- In-game inventory management has been simplified, now it is only possible to swap the primary and secondary petal for each slot.
+	- Добавлена Пустыня.
 
 14 июля 2022
-	- 
-
-July 13th 2022
-	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
-	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
+	- Система инвентаря была упрощена, теперь лепестки можно менять только с соответствующими в другом ряду.
 
 13 июля 2022
-	- 
-	- 
-
-July 12th 2022
-	- Mobs can now only drop petals up to 1 rarity level above themselves
-	- Ant holes can no longer have a rarity higher than Rare
-	- Added Craft All button, hold SHIFT before clicking the Craft button
+	- Муравейники высоких редкостей снова появляются, но только королева будет выше Редкой.
+	- Добавлена Мифическая редкость лепестков. Такие лепестки можно получить только через крафт.
 
 12 июля 2022
-	- 
-	- 
-	- 
+	- С мобов больше не выпадают лепестки более чем на 1 редкость выше редкости моба.
+	- Муравейники выше Редкой редкости больше не появляются.
+	- Добавлена кнопка Крафт Всего, зажмите SHIFT перед нажатием кнопки Крафт.
 
 11 июля 2022
 	- Игра перевыпущена. Изменилось буквально всё, поэтому мы также сбросили этот список изменений :) 
