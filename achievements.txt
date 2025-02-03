@@ -260,34 +260,34 @@ Achievements/82/Description=Умри {0} раз.
 Achievements/83/Name=Плохой
 Achievements/83/Description=Умри {0} раз.
 
-Achievements/84/Name=Serial killer
+Achievements/84/Name=Серийный убийца
 Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
 
-Achievements/85/Name=Unkillable
-Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/85/Name=Неубиваемый
+Achievements/85/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/86/Name=Unkillable
-Achievements/86/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/86/Name=Неубиваемый
+Achievements/86/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/87/Name=Unkillable
-Achievements/87/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/87/Name=Неубиваемый
+Achievements/87/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/88/Name=Unkillable
-Achievements/88/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/88/Name=Неубиваемый
+Achievements/88/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/89/Name=Unkillable
-Achievements/89/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/89/Name=Неубиваемый
+Achievements/89/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/90/Name=Unkillable
-Achievements/90/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/90/Name=Неубиваемый
+Achievements/90/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/91/Name=Unkillable
-Achievements/91/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/91/Name=Неубиваемый
+Achievements/91/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/92/Name=You're the dummy
-Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
+Achievements/92/Name=Ты манекен
+Achievements/92/Description=Умри от {#Mobs/{0}/Name/Genitive}.
 
-Achievements/93/Name=Genocide
+Achievements/93/Name=Геноцид
 Achievements/93/Description=Destroy {0} mobs within {1:time}.
 
 Achievements/94/Name=Rolling in dough
@@ -296,131 +296,131 @@ Achievements/94/Description=Acquire {0} drops within {1:time}.
 Achievements/95/Name=Shiny Hunter
 Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
 
-Achievements/96/Name=Super Hunter
-Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
+Achievements/96/Name=Охотник за Суперами
+Achievements/96/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive} мобов.
 
-Achievements/97/Name=Sacrifice
+Achievements/97/Name=Жертва
 Achievements/97/Description=Die within {0:time} of reviving someone.
 
-Achievements/98/Name=Useless
-Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
+Achievements/98/Name=Бесполезный
+Achievements/98/Description=Получи награду за убийство моба, не нанеся ему никакого урона.
 
-Achievements/99/Name=Useless
-Achievements/99/Description=Get kill credit for {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without dealing any damage to it.
+Achievements/99/Name=Бесполезный
+Achievements/99/Description=Получи награду за убийство {#Rarities/{0}/Name/Male/Genitive} моба, не нанеся ему никакого урона.
 
-Achievements/100/Name=The lucky one
-Achievements/100/Description=Successfully craft {0} petals in a row.
+Achievements/100/Name=Счастливчик
+Achievements/100/Description=Успешно скрафти {0} лепестков подряд.
 
-Achievements/101/Name=The unlucky one
-Achievements/101/Description=Fail to craft {0} petals in a row.
+Achievements/101/Name=Невезучий
+Achievements/101/Description=Провали крафт {0} лепестков подряд.
 
-Achievements/102/Name=Paper
-Achievements/102/Description=Die to a damage instance higher than your max hp.
+Achievements/102/Name=Бумага
+Achievements/102/Description=Умри от удара, нанёсшего больше урона, чем твоё максимальное здоровье.
 
-Achievements/103/Name=Statue
-Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/103/Name=Статуя
+Achievements/103/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative} моба, не двигаясь с места.
 
-Achievements/104/Name=Statue
-Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/104/Name=Статуя
+Achievements/104/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative} моба, не двигаясь с места.
 
-Achievements/105/Name=Breath in, breath out
-Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
+Achievements/105/Name=Вдох-выдох
+Achievements/105/Description=Надень и сними {#Petals/{0}/Name} много раз
 
-Achievements/106/Name=Sound barrier
-Achievements/106/Description=Move really fast.
+Achievements/106/Name=Звуковой барьер
+Achievements/106/Description=Двигайся очень быстро.
 
-Achievements/107/Name=Sound barrier
-Achievements/107/Description=Move even faster.
+Achievements/107/Name=Звуковой барьер
+Achievements/107/Description=Двигайся ещё быстрее.
 
-Achievements/108/Name=Biologist
-Achievements/108/Description=Destroy {0} different types of mobs without dying.
+Achievements/108/Name=Биолог
+Achievements/108/Description=Убей {0} разных типов мобов, не умирая.
 
-Achievements/109/Name=Collector
-Achievements/109/Description=Collect {0} different types of petals without dying.
+Achievements/109/Name=Коллекционер
+Achievements/109/Description=Собери {0} разных типов лепестков, не умирая.
 
-Achievements/110/Name=Touch grass
-Achievements/110/Description=Don't play the game for {0:time}.
+Achievements/110/Name=Потрогай траву
+Achievements/110/Description=Не играй в игру {0:time}.
 
-Achievements/111/Name=Racecar
-Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/111/Name=Гоночная машина
+Achievements/111/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
-Achievements/112/Name=Racecar
-Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/112/Name=Гоночная машина
+Achievements/112/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
-Achievements/113/Name=Racecar
-Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/113/Name=Гоночная машина
+Achievements/113/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
-Achievements/114/Name=Racecar
-Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/114/Name=Гоночная машина
+Achievements/114/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
 
-Achievements/115/Name=Biologist
-Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/115/Name=Биолог
+Achievements/115/Description=Убей {0} разных типов {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/116/Name=Bad in every way
-Achievements/116/Description=Die to {0} different types of mobs.
+Achievements/116/Name=Плохой во всех отношениях
+Achievements/116/Description=Умри от {0} разных типов мобов.
 
-Achievements/117/Name=Bad in every way
-Achievements/117/Description=Die to {0} different types of mobs.
+Achievements/117/Name=Плохой во всех отношениях
+Achievements/117/Description=Умри от {0} разных типов мобов.
 
-Achievements/118/Name=Bad in every way
-Achievements/118/Description=Die to {0} different types of mobs.
+Achievements/118/Name=Плохой во всех отношениях
+Achievements/118/Description=Умри от {0} разных типов мобов.
 
-Achievements/119/Name=Touched
-Achievements/119/Description=Touch the developer.
+Achievements/119/Name=Коснувшийся
+Achievements/119/Description=Коснись разработчика.
 
-Achievements/120/Name=Evasive
-Achievements/120/Description=Evade {0:tooltip} damage.
+Achievements/120/Name=Уклончивый
+Achievements/120/Description=Уклонись от {0:tooltip} единиц урона.
 
-Achievements/121/Name=Evasive
-Achievements/121/Description=Evade {0:tooltip} damage.
+Achievements/121/Name=Уклончивый
+Achievements/121/Description=Уклонись от {0:tooltip} единиц урона.
 
-Achievements/122/Name=Evasive
-Achievements/122/Description=Evade {0:tooltip} damage.
+Achievements/122/Name=Уклончивый
+Achievements/122/Description=Уклонись от {0:tooltip} единиц урона.
 
-Achievements/123/Name=Devil's advocate
-Achievements/123/Description=While in Hel, destroy {0} flowers without dying.
+Achievements/123/Name=Адвокат дьявола
+Achievements/123/Description=Убей {0} цветков в Аду, не умирая.
 
-Achievements/124/Name=Hater
-Achievements/124/Description=Destroy {0} of the same type of mob in a row without dying.
+Achievements/124/Name=Ненавистник
+Achievements/124/Description=Убей {0} мобов одного типа подряд, не умирая.
 
-Achievements/125/Name=Hater
-Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/125/Name=Ненавистник
+Achievements/125/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
-Achievements/126/Name=Hater
-Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/126/Name=Ненавистник
+Achievements/126/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
-Achievements/127/Name=Hater
-Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/127/Name=Ненавистник
+Achievements/127/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
-Achievements/128/Name=Revenge
-Achievements/128/Description=Destroy the mob that killed you.
+Achievements/128/Name=Месть
+Achievements/128/Description=Убей моба, который убил тебя.
 
-Achievements/129/Name=Revenge
+Achievements/129/Name=Месть
 Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
 
-Achievements/130/Name=Trade
-Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
+Achievements/130/Name=Торговля
+Achievements/130/Description=Приобрети {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
-Achievements/131/Name=Trade
-Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/131/Name=Торговля
+Achievements/131/Description=Приобрети {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
-Achievements/132/Name=Trade
-Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/132/Name=Торговля
+Achievements/132/Description=Приобрети {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
-Achievements/133/Name=Gambler
-Achievements/133/Description=Insert {0} Chips into Plinko.
+Achievements/133/Name=Азартный игрок
+Achievements/133/Description=Вставь {0} Фишек в Плинко.
 
-Achievements/134/Name=JACKPOT!
-Achievements/134/Description=Hit the Jackpot in Plinko.
+Achievements/134/Name=ДЖЕКПОТ!
+Achievements/134/Description=Сорви Джекпот в Плинко.
 
-Achievements/135/Name=High roller
-Achievements/135/Description=Insert {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name}+ {#Petals/{0:base}/Name} in Plinko.
+Achievements/135/Name=Крупный игрок
+Achievements/135/Description=Вставь {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative}+ {#Petals/{0:base}/Name/Accusative} в Плинко.
 
-Achievements/136/Name=The all-seeing one
-Achievements/136/Description=Craft a petal using the Oracle.
+Achievements/136/Name=Всезнающий
+Achievements/136/Description=Скрафти лепесток с помощью Оракула.
 
-Achievements/137/Name=It was destiny
-Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+ petal using the Oracle.
+Achievements/137/Name=Это была судьба
+Achievements/137/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative}+ лепесток с помощью Оракула.
 
-Achievements/138/Name=Magician
-Achievements/138/Description=Equip an {#Petals/{0}/Name}.
+Achievements/138/Name=Волшебник
+Achievements/138/Description=Надень {#Petals/{0}/Name/Accusative}.
