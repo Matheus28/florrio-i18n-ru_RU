@@ -694,68 +694,38 @@ August 2nd 2022
 2 августа 2022
 	- 
 
-August 1st 2022
-	- Added Mob Gallery. It keeps track of every mob you have defeated.
-
 1 августа 2022
-	- 
-
-July 30th 2022
-	- Reduced Lightning petal range.
-	- Cactus no longer turns poisonous at higher rarity, more health instead.
+	- Добавлена Галерея Мобов. В ней записаны все мобы, которых вы одолели.
 
 30 июля 2022
-	- 
-	- 
-
-July 29th 2022
-	- Ocean released. It'll replace Desert for a couple of days then we'll alternate between them every day or so.
+	- Уменьшена дальность лепестка Молнии.
+	- Кактус больше не становится ядовитым на высоких редкостях, зато теперь он даёт больше здоровья.
 
 29 июля 2022
-	- 
-
-July 25th 2022
-	- Scientists have now discovered the map is a circle, rather than a square, as previously thought.
-	- Adjusted mobs in each wave.
-	- Added setting to hide lower rarity drops. You can still pick them up, you just won't be able to see them. This is a workaround until we optimize them so they won't lag the game.
+	- Добавлен Океан. Он заменит Пустыню на несколько дней, затем мы будем переключаться между этими режимами примерно каждый день.
 
 25 июля 2022
-	- 
-	- 
-	- 
-
-July 24th 2022
-	- Web no longer stacks, slow increased to -75%.
+	- Учёные выяснили, что карта круглая, а не квадратная, как считалось раньше.
+	- Изменены мобы в каждой волне.
+	- Добавлен параметр, который прячет выпавшие лепестки низких редкостей. Вы всё ещё будете их подбирать, но не видеть. Это временное решение до улучшения производительности выпавших лепестков.
 
 24 июля 2022
-	- 
-
-July 22nd 2022
-	- Web rarity now affects radius rather than duration.
+	- Эффект паутины больше не складывается с собой, замедление увеличено до -75%.
 
 22 июля 2022
-	- 
-
-July 21st 2022
-	- Squads will now start at a higher wave that partially depends on the best wave each squad member has beaten.
-	- Balance and stuff.
+	- Редкость паутины теперь влияет на её размер, а не длительность.
 
 21 июля 2022
-	- 
-	- 
-
-July 20th 2022
-	- Increased base poison damage rate to 15/s (from 9/s).
-	- Increased mythic craft chance to 2%. This might or might not be temporary.
-	- Magnet no longer stacks with itself.
+	- Команды теперь начинают игру на более высокой волне, которая частично зависит от наивысшей достигнутой волны каждого члена команды.
+	- Изменён баланс.
 
 20 июля 2022
-	- 
-	- 
-	- 
+	- Базовый урон яда увеличен до 15/с (с 9/с).
+	- Шанс крафта мифических лепестков увеличен до 2%. Это изменение может быть временным.
+	- Эффект магнита больше не складывается с собой.
 
 19 июля 2022
-	- Крафт теперь успользует псевдослучайность, которая увеличивает шанс успеха после каждой неудачи до успешного крафта.
+	- Крафт теперь использует псевдослучайность, которая увеличивает шанс успеха после каждой неудачи до успешного крафта.
 	- В среднем шансы крафта остаются такими же. Настоящие шансы крафта для каждой попытки не будут показаны.
 	- Например, 75% шанс крафта значит, что в 66.6% случаев успех будет в первой попытке, и в 100% случаев успех будет во второй попытке.
 
