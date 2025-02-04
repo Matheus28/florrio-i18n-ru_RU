@@ -68,6 +68,12 @@ UI/Chat/Player/InviteToGuild=Invite to Guild
 
 UI/Flower/Level=Ур. {0}
 
+# When you evade damage
+UI/Damage/Evade=Evade
+
+# When the target evades damage
+UI/Damage/Miss=Miss
+
 UI/Death/Title=Ваш убийца:
 UI/Death/NoSource=Загадочное существо
 UI/Death/Continue=Выйти в меню
