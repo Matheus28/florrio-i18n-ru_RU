@@ -24,7 +24,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3}, {
 Chat/Revived=You were revived by {0}.
 Chat/Marked=You were marked by {0}.
 
-Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again {0:time:left}.
+Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again in {0:time}.
 Chat/Spam=You're doing that too much.
 Chat/Alone=No one is around to hear you.
 Chat/Banned=You're currently banned so you will not be able to play.
@@ -36,7 +36,7 @@ Chat/GuildChannelDisabled=You have guild chat disabled.
 Chat/GuestTooChatty=Sorry, guest accounts have limited chat privileges until they're level {0}.
 Chat/PlayerReported=Player reported.
 Chat/PlayerBlocked={0} has been blocked.
-Chat/ServerClosing=This server is scheduled to close {0:time:left}.
+Chat/ServerClosing=This server is scheduled to close in {0:time}.
 Chat/ServerClosed=Server is closed, time to leave.
 Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 

@@ -1,20 +1,8 @@
-UI/Time/Days={#UI/Time/Days/{1}}
-UI/Time/Hours={#UI/Time/Hours/{1}}
-UI/Time/Minutes={#UI/Time/Minutes/{1}}
-UI/Time/Seconds={#UI/Time/Seconds/{1}}
-UI/Time/Now={#UI/Time/Now/{1}}
-
-UI/Time/Days/={#UI/Time/Days/{0:1orN}}
-UI/Time/Hours/={#UI/Time/Hours/{0:1orN}}
-UI/Time/Minutes/={#UI/Time/Minutes/{0:1orN}}
-UI/Time/Seconds/={#UI/Time/Seconds/{0:1orN}}
-UI/Time/Now/=immediately
-
-UI/Time/Days/left=in {#UI/Time/Days/}
-UI/Time/Hours/left=in {#UI/Time/Hours/}
-UI/Time/Minutes/left=in {#UI/Time/Minutes/}
-UI/Time/Seconds/left=in {#UI/Time/Seconds/}
-UI/Time/Now/left=immediately
+UI/Time/Days={#UI/Time/Days/{0:1orN}}
+UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
+UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
+UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Now=immediately
 
 UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
 UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
