@@ -62,9 +62,9 @@ UI/Chat/PromptClick=Клик сюда для чата
 UI/Chat/PromptKeyboardOrClick=Написать сообщение: [ENTER] или клик сюда
 UI/Chat/Player/Block=Заблокировать
 UI/Chat/Player/ReportMessage=Пожаловаться
-UI/Chat/Player/Whisper=Whisper
-UI/Chat/Player/InviteToSquad=Invite to Squad
-UI/Chat/Player/InviteToGuild=Invite to Guild
+UI/Chat/Player/Whisper=Нашептать
+UI/Chat/Player/InviteToSquad=Пригласить в Команду
+UI/Chat/Player/InviteToGuild=Пригласить в Гильдию
 
 UI/Flower/Level=Ур. {0}
 
@@ -80,8 +80,8 @@ UI/Death/Continue=Выйти в меню
 UI/Death/Close=Закрыть
 UI/Death/CollectedThisRun=Вы собрали:
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
+UI/AFKCheck/Title=Проверка Активности
+UI/AFKCheck/Instructions=Проведите кружок до конца
 
 UI/Achievements/Title=Достижения
 UI/Achievements/Reward=Награда
@@ -102,8 +102,8 @@ UI/Inventory/Stack=Сложить редкости
 UI/Inventory/Instructions=Перетащите лепесток, чтобы надеть его
 UI/Inventory/Speed=Ск. вр.
 
-UI/Guild/Title=Клан
-UI/Guild/NoGuild=Вы пока не состоите в клане
+UI/Guild/Title=Гильдия
+UI/Guild/NoGuild=Вы пока не состоите в гильдии
 UI/Guild/Invite=Вы были приглашены в:
 UI/Guild/Invite/Button=Принять
 UI/Guild/Invite/Expiration=Это приглашение скоро истечёт, если не будет принято
@@ -115,7 +115,7 @@ UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
 UI/Guild/Members/1=Участник (1)
 UI/Guild/Members/N=Участники ({0})
 UI/Guild/LeaveButton=Выйти
-UI/Guild/Leave/Title=Выйти из клана
+UI/Guild/Leave/Title=Выйти из гильдии
 UI/Guild/Leave/Instructions=Вы уверены?
 UI/Guild/Leave/Confirm=Выйти
 UI/Guild/Leave/Cancel=Отмена
@@ -284,5 +284,5 @@ UI/Credits/SpecialThanks=Особая благодарность
 UI/Credits/Translators=Перевод на русский
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Клан
+UI/HelperText/Guild=Гильдия
 UI/HelperText/Squad=Команда
