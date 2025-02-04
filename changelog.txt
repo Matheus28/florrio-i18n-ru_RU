@@ -663,12 +663,8 @@ August 9th 2022
 	- Added a minimal wave display setting that won't display mobs in the wave ui.
 
 9 августа 2022
-	- 
-	- 
-
-August 7th 2022
-	- Rebalanced a lot of petals. They're now separated in offensive and defensive types, which changes how their damage and health scales.
-	- Fixed poison deaths being mislabeled.
+	- Добавлена кнопка Крафт Всего на телефоны (пока не полностью, но это уже что-то).
+	- Добавлен параметр минимального отображения волн, который прячет мобов в интерфейсе волн.
 
 7 августа 2022
 	- Изменён баланс большого количества лепестков. Теперь они либо наступательные, либо оборонительные, от чего зависит их рост урона и здоровья с повышением редкости.
