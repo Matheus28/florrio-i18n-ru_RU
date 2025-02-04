@@ -141,7 +141,7 @@ Petals/yucca/Gender=Female
 
 Petals/magnet/Name=Магнит
 Petals/magnet/FullName=Магнит
-Petals/magnet/Description=Увеличивает дальность подбора дропа.
+Petals/magnet/Description=Увеличивает дальность подбора выпавших лепестков.
 Petals/magnet/Gender=Male
 
 Petals/yggdrasil/Name=Иггдрасиль
