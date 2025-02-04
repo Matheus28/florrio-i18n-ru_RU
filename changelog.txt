@@ -680,19 +680,12 @@ August 5th 2022
 5 августа 2022
 	- 
 
-August 4th 2022
-	- Rebalanced late game waves. They're now significantly shorter than before.
-	- Reworked Lightning petal.
-
 4 августа 2022
-	- 
-	- 
-
-August 2nd 2022
-	- We will now rotate between PvE scenarios every 24 hours.
+	- Изменён баланс на высоких волнах. Теперь они гораздо короче.
+	- Переработан лепесток Молния.
 
 2 августа 2022
-	- 
+	- Теперь мы переключаемся между PvE режимами каждые 24 часа.
 
 1 августа 2022
 	- Добавлена Галерея Мобов. В ней записаны все мобы, которых вы одолели.
