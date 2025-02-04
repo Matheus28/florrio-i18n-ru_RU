@@ -1,21 +1,19 @@
-Attribute/PoisonNoColon=<c val="{#Colors/poison}">Яд</c>
 Attribute/PoisonNoColon/Genitive=<c val="{#Colors/poison}">Яда</c>
 
 Flower/Attribute/Health=<c val="{#Colors/health}">Здоровье Цветка:</c> {0:tooltip}
-Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Здоровье Цветка</c>
+Flower/Attribute/HealthNoColon/Accusative=<c val="{#Colors/health}">Здоровье Цветка</c>
 Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Урон Тела:</c> {0:tooltip}
-Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">Урон Тела</c>
 Flower/Attribute/BodyDamageNoColon/Dative=<c val="{#Colors/damage}">Урону Тела</c>
+Flower/Attribute/BodyDamageNoColon/Accusative=<c val="{#Colors/damage}">Урон Тела</c>
 Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Яд Тела:</c> {0:tooltip} ({1:tooltip}/с)
-Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">Удача</c>
 Flower/Attribute/LuckNoColon/Accusative=<c val="{#Colors/generic}">Удачу</c>
-Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">Скорость Вращения</c>
-Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">Дальность Атаки</c>
-Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">Лечение</c>
+Flower/Attribute/RotationSpeedNoColon/Accusative=<c val="{#Colors/generic}">Скорость Вращения</c>
+Flower/Attribute/AttackRangeNoColon/Accusative=<c val="{#Colors/generic}">Дальность Атаки</c>
+Flower/Attribute/HealingNoColon/Accusative=<c val="{#Colors/heal}">Лечение</c>
 
 Mob/Attribute/Health=<c val="{#Colors/health}">Здоровье:</c> {0:tooltip}
 Mob/Attribute/HealthRange=<c val="{#Colors/health}">Здоровье:</c> {0:tooltip}~{1:tooltip}
-Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Здоровье</c>
+Mob/Attribute/HealthNoColon/Accusative=<c val="{#Colors/health}">Здоровье</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">Урон:</c> {0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Урон:</c> {0:tooltip} <c val="{#Colors/lightning}">(молния)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Броня:</c> {0:tooltip}

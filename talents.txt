@@ -51,7 +51,7 @@ Talents/inventory10/Description=Открывает 10-й слот снаряже
 Talents/inventory10/Gender=Neuter
 
 Talents/health/Name=Здоровье
-Talents/health/Description=Увеличивает базовое {#Flower/Attribute/HealthNoColon} на {0:perc}%.
+Talents/health/Description=Увеличивает базовое {#Flower/Attribute/HealthNoColon/Accusative} на {0:perc}%.
 Talents/health/Gender=Neuter
 
 Talents/health1/Name={#Talents/health/Name}
@@ -107,7 +107,7 @@ Talents/luck4/Description={#Talents/luck/Description}
 Talents/luck4/Gender={#Talents/luck/Gender}
 
 Talents/medic/Name=Медик
-Talents/medic/Description=Увеличивает {#Flower/Attribute/HealingNoColon} от твоих лепестков на {0:perc}%.<n/>Влияет на союзников, исцелённых твоими лепестками.
+Talents/medic/Description=Увеличивает {#Flower/Attribute/HealingNoColon/Accusative} от твоих лепестков на {0:perc}%.<n/>Влияет на союзников, исцелённых твоими лепестками.
 Talents/medic/Gender=Male
 
 Talents/medic1/Name={#Talents/medic/Name}
@@ -143,7 +143,7 @@ Talents/medic8/Description={#Talents/medic/Description}
 Talents/medic8/Gender={#Talents/medic/Gender}
 
 Talents/summoner/Name=Призыватель
-Talents/summoner/Description=Увеличивает {#Mob/Attribute/HealthNoColon} призываемых мобов на {0:perc}%.
+Talents/summoner/Description=Увеличивает {#Mob/Attribute/HealthNoColon/Accusative} призываемых мобов на {0:perc}%.
 Talents/summoner/Gender=Male
 
 Talents/summoner1/Name={#Talents/summoner/Name}
@@ -211,7 +211,7 @@ Talents/reload8/Description=Уменьшает время перезарядки
 Talents/reload8/Gender=Female
 
 Talents/body_damage/Name=Острые Края
-Talents/body_damage/Description=Увеличивают {#Flower/Attribute/BodyDamageNoColon} на {0:perc}%.
+Talents/body_damage/Description=Увеличивают {#Flower/Attribute/BodyDamageNoColon/Accusative} на {0:perc}%.
 Talents/body_damage/Gender=Plural
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
@@ -247,7 +247,7 @@ Talents/body_damage8/Description={#Talents/body_damage/Description}
 Talents/body_damage8/Gender={#Talents/body_damage/Gender}
 
 Talents/petal_rotation/Name=Вращение Лепестков
-Talents/petal_rotation/Description=Увеличивает {#Flower/Attribute/RotationSpeedNoColon} лепестков с {1:tooltip} до {0:tooltip} рад/с.
+Talents/petal_rotation/Description=Увеличивает {#Flower/Attribute/RotationSpeedNoColon/Accusative} лепестков с {1:tooltip} до {0:tooltip} рад/с.
 Talents/petal_rotation/Gender=Neuter
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
@@ -271,7 +271,7 @@ Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
 Talents/petal_rotation5/Gender={#Talents/petal_rotation/Gender}
 
 Talents/reach/Name=Размах
-Talents/reach/Description=Увеличивает {#Flower/Attribute/AttackRangeNoColon} лепестков на {0:tooltip}.
+Talents/reach/Description=Увеличивает {#Flower/Attribute/AttackRangeNoColon/Accusative} лепестков на {0:tooltip}.
 Talents/reach/Gender=Male
 
 Talents/reach1/Name={#Talents/reach/Name}
