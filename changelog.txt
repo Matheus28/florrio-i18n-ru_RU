@@ -635,15 +635,8 @@ August 17th 2022
 	- Increased craft chances for higher rarities.
 
 17 августа 2022
-	- 
-	- 
-
-August 16th 2022
-	- Players can now start on wave 11.
-	- Mobs can now only drop petals of at most their own rarity.
-	- Tweaked petal drop rate to compensate.
-	- Craft chances have been changed.
-	- Rare rarity color is now a bit more blue.
+	- Немного уменьшены шансы выпадения высоких редкостей.
+	- Увеличены шансы крафта для высоких редкостей.
 
 16 августа 2022
 	- Игроки теперь могут начать на 11 волне.
