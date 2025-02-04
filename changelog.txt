@@ -656,11 +656,7 @@ August 10th 2022
 	- Added a deadzone around the middle of the screen so mouse users can keep their flower still.
 
 10 августа 2022
-	- 
-
-August 9th 2022
-	- Added a craft all button to mobile (still not fully supported, but this will fix a pain point).
-	- Added a minimal wave display setting that won't display mobs in the wave ui.
+	- Добавлена мёртвая зона в центре экрана, чтобы было возможно остановить цветок при управлении мышью.
 
 9 августа 2022
 	- Добавлена кнопка Крафт Всего на телефоны (пока не полностью, но это уже что-то).
