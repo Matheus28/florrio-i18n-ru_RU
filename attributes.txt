@@ -31,7 +31,7 @@ Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">Здоровье Сна�
 Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">Урон Снаряда:</c> {0:tooltip}
 Mob/Attribute/MantisPeaHealth=<c val="{#Colors/health}">Здоровье Снаряда:</c> {0:tooltip}
 Mob/Attribute/MantisPeaDamage=<c val="{#Colors/damage}">Урон Снаряда:</c> {0:tooltip}
-Mob/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime}
+Mob/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative}
 Mob/Attribute/Swallows=<c val="{#Colors/generic}">Проглатывает</c>
 Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Ослабление Брони:</c> {0:tooltip}
 Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Вампиризм:</c> {0:tooltip}
@@ -53,7 +53,7 @@ Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Яд:</c> {0:tooltip}/
 Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Сопротивление Яду:</c> {0:tooltip}/с
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Здоровье Цветка:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Здоровье Цветка:</c> +{0:perc}%
-Petal/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime}
+Petal/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">Содержимое:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Содержимое:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
@@ -68,7 +68,7 @@ Petal/Attribute/Knockback=<c val="{#Colors/generic}">Отбрасывание:</
 Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">Доп. Урон:</c> {0:tooltip}
 Petal/Attribute/Shield=<c val="{#Colors/generic}">Щит:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">Урон Тела:</c> {0:tooltip}
-Petal/Attribute/Period=<c val="{#Colors/generic}">Период:</c> {0:tooltipTime}
+Petal/Attribute/Period=<c val="{#Colors/generic}">Период:</c> {0:tooltipTime:nominative}
 Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">Радиус Цветка:</c> +{0:tooltip}
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Вампиризм:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Дальность Атаки:</c> +{0:tooltip}
@@ -93,7 +93,7 @@ Petal/Attribute/Evasion=<c val="{#Colors/generic}">Уклонение:</c> {0:pe
 Petal/Attribute/Health4=<c val="{#Colors/health}">Здоровье:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/Damage4=<c val="{#Colors/damage}">Урон:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">Доп. Яд:</c> {0:tooltip} с
-Petal/Attribute/Interval=<c val="{#Colors/generic}">Интервал:</c> {0:tooltipTime}
+Petal/Attribute/Interval=<c val="{#Colors/generic}">Интервал:</c> {0:tooltipTime:nominative}
 Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">Заражает цветки вокруг тебя.</c>
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">Не может быть снята.</c>
 Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">Лепесток теряется после смерти.</c>

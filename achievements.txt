@@ -213,7 +213,7 @@ Achievements/67/Name=Нокаут
 Achievements/67/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/68/Name=Загар
-Achievements/68/Description=Выживи {0:time} в Аду.
+Achievements/68/Description=Выживи {0:time:accusative} в Аду.
 
 Achievements/69/Name=Руки-крюки
 Achievements/69/Description=Найди мёртвый цветок разработчика.
@@ -222,7 +222,7 @@ Achievements/70/Name=Термиты...?
 Achievements/70/Description=Призови дружественного Термита.
 
 Achievements/71/Name=Пацифист
-Achievements/71/Description=Проведи {0:time}, любуясь природой и никого не убивая.
+Achievements/71/Description=Проведи {0:time:accusative}, любуясь природой и никого не убивая.
 
 Achievements/72/Name=Уйди
 Achievements/72/Description=Отправь другой цветок в Ад.
@@ -261,7 +261,7 @@ Achievements/83/Name=Плохой
 Achievements/83/Description=Умри {0} раз.
 
 Achievements/84/Name=Серийный убийца
-Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
+Achievements/84/Description=Убей {0} мобов с интервалом не более {1:time:genitive} между убийствами.
 
 Achievements/85/Name=Неубиваемый
 Achievements/85/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
@@ -288,19 +288,19 @@ Achievements/92/Name=Ты манекен
 Achievements/92/Description=Умри от {#Mobs/{0}/Name/Genitive}.
 
 Achievements/93/Name=Геноцид
-Achievements/93/Description=Destroy {0} mobs within {1:time}.
+Achievements/93/Description=Убей {0} мобов в течение {1:time:genitive}.
 
-Achievements/94/Name=Rolling in dough
-Achievements/94/Description=Acquire {0} drops within {1:time}.
+Achievements/94/Name=Как сыр в масле
+Achievements/94/Description=Подбери {0} дропов в течение {1:time:genitive}.
 
-Achievements/95/Name=Shiny Hunter
-Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
+Achievements/95/Name=Охотник за Солнечными
+Achievements/95/Description=Убей {0} солнечных Божьих Коровок в течение {1:time:genitive}.
 
 Achievements/96/Name=Охотник за Суперами
 Achievements/96/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive} мобов.
 
 Achievements/97/Name=Жертва
-Achievements/97/Description=Die within {0:time} of reviving someone.
+Achievements/97/Description=Умри в течение {0:time:genitive} после возрождения кого-то.
 
 Achievements/98/Name=Бесполезный
 Achievements/98/Description=Получи награду за убийство моба, не нанеся ему никакого урона.
@@ -339,19 +339,19 @@ Achievements/109/Name=Коллекционер
 Achievements/109/Description=Собери {0} разных типов лепестков, не умирая.
 
 Achievements/110/Name=Потрогай траву
-Achievements/110/Description=Не играй в игру {0:time}.
+Achievements/110/Description=Не играй в игру {0:time:accusative}.
 
 Achievements/111/Name=Гоночная машина
-Achievements/111/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/111/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
 
 Achievements/112/Name=Гоночная машина
-Achievements/112/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/112/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
 
 Achievements/113/Name=Гоночная машина
-Achievements/113/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/113/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
 
 Achievements/114/Name=Гоночная машина
-Achievements/114/Description=Посети Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time}.
+Achievements/114/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
 
 Achievements/115/Name=Биолог
 Achievements/115/Description=Убей {0} разных типов {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
@@ -396,7 +396,7 @@ Achievements/128/Name=Месть
 Achievements/128/Description=Убей моба, который убил тебя.
 
 Achievements/129/Name=Месть
-Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
+Achievements/129/Description=Убей моба, который убил тебя, в течение {0:time:genitive} после твоей смерти.
 
 Achievements/130/Name=Торговля
 Achievements/130/Description=Приобрети {#Petals/{0:base}/Name/Accusative} с помощью торговли.

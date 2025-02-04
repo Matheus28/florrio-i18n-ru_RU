@@ -125,7 +125,7 @@ UI/Squad/Error/Full=Команда полная
 UI/Shop/Title=Магазин
 UI/Shop/Button=Магазин
 UI/Shop/Instructions=Сегодняшние предложения:
-UI/Shop/TimeLeft=Новые товары через {0:time}
+UI/Shop/TimeLeft=Новые товары через {0:time:accusative}
 UI/Shop/Lock=Закрепить
 UI/Shop/LockedChanged=Товары поменяются, как только вы разблокируете их.
 UI/Shop/LockedNoChange=Товары не будут меняться, пока они закреплены.
@@ -149,14 +149,14 @@ UI/Shop/Price/USD={0}$
 
 UI/Banned/Title=АККАУНТ ЗАБЛОКИРОВАН
 UI/Banned/Instructions=Ваш аккаунт был заблокирован.
-UI/Banned/TimeLeft=Блокировка будет снята через {0:time}.
+UI/Banned/TimeLeft=Блокировка будет снята через {0:time:accusative}.
 UI/Banned/Permanent=Блокировка не будет снята.
 UI/Banned/Account=ID аккаунта: {0}
 
 UI/DailyChallenge/Title=Испытания
 UI/DailyChallenge/Button=Испытания
 UI/DailyChallenge/Instructions=Одолейте этих мобов:
-UI/DailyChallenge/TimeLeft=Испытания поменяются через {0:time}
+UI/DailyChallenge/TimeLeft=Испытания поменяются через {0:time:accusative}
 UI/DailyChallenge/Claimed=Пройдено
 UI/DailyChallenge/SupportersOnly=Это испытание доступно<n/>лишь тем, кто купил звёзды.
 
@@ -204,12 +204,12 @@ UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WAR
 UI/CoinCraft/Title=Торговля
 UI/CoinCraft/Button=Торговля
 UI/CoinCraft/Instructions=Вы можете обменять лепесток на монету этой же редкости
-UI/CoinCraft/Delay=Вы снова сможете торговать через {0:time}
+UI/CoinCraft/Delay=Вы снова сможете торговать через {0:time:accusative}
 
 UI/OracleCraft/Title=Оракул
 UI/OracleCraft/Button=Крафт
 UI/OracleCraft/Instructions=Оракул гарантирует крафт... за нужную цену.
-UI/OracleCraft/Delay=Вы снова сможете крафтить через {0:time}
+UI/OracleCraft/Delay=Вы снова сможете крафтить через {0:time:accusative}
 
 UI/Plinko/Title=Плинко
 UI/Plinko/Auto=Авто
