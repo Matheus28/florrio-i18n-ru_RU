@@ -468,7 +468,7 @@ November 29th 2022
 	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
 	- Petals can now be absorbed to earn XP.
 	- Advancing levels provides TP, which can be used to upgrade talents.
-	- talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
+	- Talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
 	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
 	- Level cap has been raised to 200.
 
