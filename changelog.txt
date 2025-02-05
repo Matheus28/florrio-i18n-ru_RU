@@ -461,166 +461,91 @@ November 30th 2022
 	- Напоминаем, что с течением времени мы будем добавлять больше вещей, куда можно потратить ОТ.
 
 29 ноября 2022
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-
-November 15th 2022
-	- Nerfed Hornet health.
+	- Долгожданное обновление с талантами наконец-то здесь.
+	- Убийство мобов больше не даёт опыта. Мы сбросили уровни каждого игрока, так как это обновление сильно меняет их получение.
+	- Лепестки теперь могут быть поглощены для получения опыта.
+	- Повышения уровня теперь дают ОТ, которые могут быть использованы для улучшения талантов.
+	- Таланты дают постоянные эффекты вашему цветку. Как только они прокачаны, они разблокированы навсегда. Потраченные на таланты ОТ нельзя вернуть.
+	- Возможно, в будущем мы будем менять формулу требуемого опыта для каждого уровня. В таком случае мы поменяем уровни каждого игрока для соответствия новой формуле (и либо дадим, либо заберём ОТ).
+	- Максимальный уровень был увеличен до 200.
 
 15 ноября 2022
-	- 
-
-November 6th 2022
-	- Tweaked number of mobs in each wave.
-	- Tweaked map size in later waves.
-	- We're trying to incentivize clearing mobs before the wave ends by making all mobs aggro when it ends. The map size changes also makes it harder to stay in one spot and just tank all mobs.
-	- We've reset the highest wave beaten by everyone to wave 25, if it was previously higher than that. This is due to the change in wave difficulty.
-	- Enemies no longer have their attack range the same as their aggro range (so hornets for example won't start attacking from half way across the map).
+	- Уменьшено здоровье Шершней.
 
 6 ноября 2022
-	- 
-	- 
-	- 
-	- 
-	- 
-
-November 4th 2022
-	- Map now scales based on the mobs contained within, this should avoid crowding out in late game waves.
-	- Recipe for Ultra petals has changed.
-	  Now creates 50 Ultras from 5 Mythics.
+	- Изменено количество мобов на каждой волне.
+	- Изменён размер карты на высоких волнах.
+	- Мы пытаемся простимулировать чистку карты от мобов до конца волны тем, что все мобы теперь начнут атаковать вас, как только волна закончится. Изменения размера карты также делают сложнее остававться на месте и просто танковать всех мобов.
+	- В связи с изменением сложности волн мы сбросили высшую достигнутую волну до 25 всем, кто до этого дошёл до волн выше.
+	- Дальность атаки мобов больше не равна дальности их привлечения (например, чтобы шершни не переставали преследовать цветков за половину карты от них).
 
 4 ноября 2022
-	- 
-	- 
-
-November 3rd 2022
-	- Recipe for Ultra petals has changed.
-	  Now creates 3 Ultras from 1 Mythic.
-	  No longer reverts back to Mythic on use, it's just lost forever.
-	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe).
+	- Размер карты теперь увеличивается в зависимости от количества мобов на ней, это должно предотвратить вытеснение на высоких волнах.
+	- Изменён рецепт Ультра лепестков.
+	  Теперь создаётся 50 Ультра лепестков из 5 Мифических.
 
 3 ноября 2022
-	- 
-
-November 2nd 2022
-	- Added Ultra petals.
-	  You can combine 2 Mythics to form an Ultra.
-	  Ultra petals are several times stronger than Mythics, but only last for one match.
-	  After one match, they will revert back to 1 Mythic (the other is lost).
+	- Изменён рецепт Ультра лепестков.
+	  Теперь создаётся 3 Ультра лепестка из 1 Мифического.
+	  После использования больше не возвращает Мифический лепесток, теперь он просто исчезает навсегда.
+	  Неиспользованные Ультра лепестки до этого обновления были конвертированы назад в 2 Мифических (по старому рецепту).
 
 2 ноября 2022
-	- 
-
-October 20th 2022
-	- Pseudo-RNG system has been removed from crafting. Now it's back to truly random with no increasing odds. If you have any failed attempts on a specific petal, it'll keep using the old system until you succeed (so you don't lose increased odds you already accumulated).
+	- Добавлена Ультра редкость лепестков.
+	  Вы можете соединить 2 Мифических лепестка для создания Ультра лепестка.
+	  Ультра лепестки в несколько раз сильнее Мифических, но длятся только одну игру.
+	  После этой игры вам вернётся 1 Мифический лепесток (другой исчезает).
 
 20 октября 2022
-	- 
-
-October 11th 2022
-	- Added Apple ID login. Note that it doesn't merge Apple ID accounts with Discord accounts. If you already logged in using Discord, keep using that to login. This addition is intended to make it easier for those that don't have a Discord account to keep their progress.
+	- Псевдослучайная система крафтов была удалена. Теперь всё снова полностью случайно без увеличивающихся шансов. Если у вас есть провалившиеся попытки крафта на каком-то лепестке, то для него старая система будет продолжать использоваться до успеха (чтобы вы не потеряли уже накопившиеся шансы).
 
 11 октября 2022
-	- 
-
-September 13th 2022
-	- PvP now has higher rarity mobs (equivalent to wave 18 or so in PvE).
-	- PvP now has a scoreboard again.
-	- Killing players in PvP now awards Basic petals, rarity depends on how many points they have.
-	- PvP map size changes based on how many players are in game.
-	- Magnets no longer increase pick up range in PvP.
+	- Добавлен вход по Apple ID. Стоит отметить, что аккаунты на Apple ID не будут сливаться с аккаунтами на Discord. Если вы уже вошли с Discord, продолжайте использовать его для входа. Это добавление было сделано, чтобы сделать сохранение прогресса проще для людей, у которых нет Discord аккаунта.
 
 13 сентября 2022
-	- 
-	- 
-	- 
-	- 
-	- 
-
-September 12th 2022
-	- Added extra stats in mob gallery.
+	- PvP теперь имеет более редких мобов (примерно эквивалент 18 волне в PvE).
+	- PvP теперь снова имеет таблицу лидеров.
+	- С игроков в PvP теперь выпадают Базовые лепестки, редкость зависит от количества очков у убитого игрока. 
+	- Размер карты PvP теперь зависит от количества игроков.
+	- Магнит больше не увеличивает дальность подбора выпавших лепестков в PvP.
 
 12 сентября 2022
-	- 
-
-September 6th 2022
-	- Since wave difficulty was changed significantly, we're resetting everyone's highest wave beaten back to 0.
-	- Special wave chance is now 15%.
+	- Добавлены дополнительные характеристики в галерею мобов.
 
 6 сентября 2022
-	- 
-	- 
-
-September 5th 2022
-	- Leeches now share their health among all segments.
-	- Special single-mob waves are no longer on specific waves, but can occur randomly on any wave.
-	- Changed how initial wave is calculated for a squad, allowing higher initial waves.
-	- Drop rate has been slightly reduced to compensate.
-	- When joining a public squad, players will always be placed on the highest-wave game currently available to them.
+	- В связи с сильным изменением сложности волн мы сбросили высшую достигнутую волну всех игроков до 0.
+	- Шанс особой волны теперь 15%.
 
 5 сентября 2022
-	- 
-	- 
-	- 
-	- 
-	- 
-
-September 1st 2022
-	- Increased mythic craft chance to 3%.
+	- Пиявки теперь имеют одно и то же здоровье на всех сегментах.
+	- Особые одномобовые волны теперь происходят не гарантированно на определённых волнах, а случайно на любой волне.
+	- Изменён алгоритм нахождения стартовой волны для команд, теперь они могут начинать игру на более высоких волнах.
+	- Немного уменьшены шансы выпадения лепестков.
+	- Теперь при присоеднении к публичной команде игроки всегда распределяются в игру с самой высокой доступной для них волной.
 
 1 сентября 2022
-	- 
-
-August 31st 2022
-	- Peas have been split into Peas and Grapes. Existing Peas have been turned into Grapes.
+	- Увеличен шанс крафта мифических лепестков до 3%.
 
 31 августа 2022
-	- 
-
-August 30th 2022
-	- Reworked several mythic petals.
-	- Leaf can now heal friendly mobs.
+	- Горох был разбит на Горох и Виноград. Существующие Горохи были превращены в Винограды.
 
 30 августа 2022
-	- 
-	- 
-
-August 29th 2022
-	- Added a wave bar.
-	- We have started banning people for using any sort of scripts. A ban is permanent and will result in loss of all progress.
+	- Переработано несколько мифических лепестков.
+	- Лист теперь может лечить дружеских мобов.
 
 29 августа 2022
-	- 
-	- 
-
-August 28th 2022
-	- Added an autocraft button at the bottom of the crafting menu. It will automatically preserve your rarest petals so it is always safe to use.
+	- Добавлена полоса волн.
+	- Мы начали блокировать аккаунты игроков за использование любых скриптов. Такие блокировки не снимаются, что означает потерю всего прогресса.
 
 28 августа 2022
-	- 
-
-August 26th 2022
-	- A lot of changes were made in the past week but we were too lazy to put them in the changelog.
-	- Added an AFK timer in public squads.
+	- Добавлена кнопка автоматического крафта в самом низу меню крафта. Эта функция не трогает ваши лучшие лепестки, поэтому её всегда безопасно использовать.
 
 26 августа 2022
-	- 
-	- 
-
-August 18th 2022
-	- Ant holes now have a timer so players can't afk inside.
+	- За последнюю неделю было сделано много изменений, но нам было лень их тут расписать.
+	- Добавлен AFK таймер в публичные команды.
 
 18 августа 2022
-	- 
-
-August 17th 2022
-	- Decreased drop chance of higher rarities a bit.
-	- Increased craft chances for higher rarities.
+	- Муравейники теперь выкидывают игроков спустя какое-то время.
 
 17 августа 2022
 	- Немного уменьшены шансы выпадения высоких редкостей.
