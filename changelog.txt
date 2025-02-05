@@ -445,11 +445,8 @@ December 11th 2022
 11 декабря 2022
 	- 
 
-December 10th 2022
-	- Due to some changes in the talent tree, we've reset everyone's talents and refunded all TP.
-
 10 декабря 2022
-	- 
+	- В связи с некоторыми изменениями дерева талантов, мы сбросили таланты всех игроков и вернули все ОТ.
 
 November 30th 2022
 	- Mobile users can now tap and hold a petal on the crafting screen to add many at a time.
@@ -461,16 +458,7 @@ November 30th 2022
 	- 
 	- 
 	- 
-	- 
-
-November 29th 2022
-	- The long awaited talents update is here.
-	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
-	- Petals can now be absorbed to earn XP.
-	- Advancing levels provides TP, which can be used to upgrade talents.
-	- Talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
-	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
-	- Level cap has been raised to 200.
+	- Напоминаем, что с течением времени мы будем добавлять больше вещей, куда можно потратить ОТ.
 
 29 ноября 2022
 	- 
