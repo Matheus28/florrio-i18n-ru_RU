@@ -91,6 +91,9 @@ UI/Achievements/Track=Следить
 UI/Achievements/TrackAutomatically=Отслеживать автоматически
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} пройдено
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=Achievement unlocked
+UI/Achievements/UnlockedNotification/N=Achievements unlocked
 
 UI/MobGallery/Title=Галерея Мобов
 
@@ -269,6 +272,8 @@ UI/Settings/TouchControls=Управление пальцами
 UI/Settings/KeyboardMovement=Клавиатурное управление
 
 UI/Settings/MovementHelper=Индикатор передвижения
+
+UI/Settings/AutoSearchPetals=Search petals when opening inventory
 
 UI/Settings/FixedJoystick=Закреплённый джойстик
 
