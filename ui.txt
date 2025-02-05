@@ -223,7 +223,7 @@ UI/OracleCraft/Delay=Вы снова сможете крафтить через 
 UI/Plinko/Title=Плинко
 UI/Plinko/Auto=Авто
 
-UI/UniqueCraft/Title=Кузня
+UI/UniqueCraft/Title=Кузница
 UI/UniqueCraft/Button=Сковать
 UI/UniqueCraft/Instructions=Уникальный лепесток будет вашим, пока другой игрок не скует такой же.<n/>Когда это произойдёт, вы получите назад свои Супер лепестки.<n/>Цена увеличивается за каждый раз, когда лепесток скован.
 UI/UniqueCraft/NoSupers=У вас нету Супер лепестков, чтобы попробовать это.
