@@ -101,7 +101,7 @@ UI/Changelog/Title=Список Изменений
 UI/Changelog/Bottom=Более ранние записи недоступны
 
 UI/Inventory/Title=Инвентарь
-UI/Inventory/Stack=Сложить редкости
+UI/Inventory/Stack=Сложить
 UI/Inventory/Instructions=Перетащите лепесток, чтобы надеть его
 UI/Inventory/Speed=Ск. вр.
 
