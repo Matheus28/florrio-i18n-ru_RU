@@ -419,19 +419,12 @@ December 28th 2022
 	- 
 	- 
 
-December 26th 2022
-	- Added chat.
-	- Added damage numbers, toggleable in the settings (default on).
-	- Petal tooltips values now update correctly to match values after taking talents into account.
-	- Added more Medic talent tiers.
-	- Removed luck talent, anyone who owned it has been refunded.
-
 26 декабря 2022
-	- 
-	- 
-	- 
-	- 
-	- 
+	- Добавлен чат.
+	- Добавлен индикатор урона, его можно выключить в настройках (он включён по умолчанию).
+	- Отображаемые характеристики лепестков теперь правильно обновляются в соответствие с улучшенными талантами.
+	- Добавлено больше уровней для таланта Медик.
+	- Удалён талант Удача, улучшившие его игроки получили ОТ назад.
 
 20 декабря 2022
 	- Мы добавили текстуру в Пустыню. Другие карты скоро тоже получат свои текстуры. Присоединяйтесь к нашему Discord сообществу, чтобы участвовать в соревновании тектур!
