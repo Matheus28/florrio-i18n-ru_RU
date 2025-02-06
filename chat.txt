@@ -89,7 +89,7 @@ Chat/Squad/Left=Вы вышли из команды.
 Chat/Squad/MemberJoined=Игрок {0} зашёл в команду.
 Chat/Squad/MemberLeft=Игрок {0} вышел из команды.
 
-Chat/Channel/Local=Окружение
+Chat/Channel/Local=Окр.
 Chat/Channel/Squad=Команда
 Chat/Channel/Guild=Гильдия
 Chat/Channel/Whisper=Шёпот
