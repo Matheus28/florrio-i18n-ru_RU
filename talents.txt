@@ -107,7 +107,7 @@ Talents/luck4/Description={#Talents/luck/Description}
 Talents/luck4/Gender={#Talents/luck/Gender}
 
 Talents/medic/Name=Медик
-Talents/medic/Description=Увеличивает {#Flower/Attribute/HealingNoColon/Accusative} от вашими лепестков на {0:perc}%.<n/>Влияет на союзников, исцелённых вашими лепестками.
+Talents/medic/Description=Увеличивает {#Flower/Attribute/HealingNoColon/Accusative} от ваших лепестков на {0:perc}%.<n/>Влияет на союзников, исцелённых вашими лепестками.
 Talents/medic/Gender=Male
 
 Talents/medic1/Name={#Talents/medic/Name}
