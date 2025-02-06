@@ -32,32 +32,32 @@ Achievements/7/Description=Соберите несколько лепестко�
 Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male/Accusative/Inanimate} лепесток.<n/>Продолжайте убивать насекомых, чтобы подобрать ещё пару лепестков.
 
 Achievements/8/Name=Обучение
-Achievements/8/Description=Создайте лепесток.
+Achievements/8/Description=Скрафьте лепесток.
 Achievements/8/ExtraDescription=Теперь попробуйте скрафтить ваш первый лепесток.<n/>Вам может понадобиться снять некоторые лепестки, чтобы их хватило для крафта.<n/>Вам нужно 5 одинаковых лепестков.<n/><n/>Не волнуйтесь, мы сделали так, чтобы этот крафт точно удался.
 
 Achievements/9/Name=Обучение
 Achievements/9/Description=Завершите обучение.
 
 Achievements/10/Name=Крафтер
-Achievements/10/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/10/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/11/Name=Крафтер
-Achievements/11/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/11/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/12/Name=Крафтер
-Achievements/12/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/12/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/13/Name=Крафтер
-Achievements/13/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/13/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/14/Name=Крафтер
-Achievements/14/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/14/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/15/Name=Крафтер
-Achievements/15/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/15/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/16/Name=Крафтер
-Achievements/16/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/16/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/17/Name=Утешительный приз
 Achievements/17/Description=Провалите крафт и потеряйте {0} лепестка.
@@ -96,7 +96,7 @@ Achievements/28/Name=Бесполезный Крафт
 Achievements/28/Description=Потеряйте {0:tooltip} лепестков в попытках крафта.
 
 Achievements/29/Name=Крафтер-трудяга
-Achievements/29/Description=Создайте {0:tooltip} лепестков.
+Achievements/29/Description=Скрафьте {0:tooltip} лепестков.
 
 Achievements/30/Name=Пустыня
 Achievements/30/Description=Посетите пустыню.
@@ -309,7 +309,7 @@ Achievements/99/Name=Бесполезный
 Achievements/99/Description=Получите награду за убийство {#Rarities/{0}/Name/Male/Genitive} моба, не нанеся ему никакого урона.
 
 Achievements/100/Name=Счастливчик
-Achievements/100/Description=Успешно создайте {0} лепестков подряд.
+Achievements/100/Description=Успешно скрафьте {0} лепестков подряд.
 
 Achievements/101/Name=Невезучий
 Achievements/101/Description=Провалите крафт {0} лепестков подряд.
@@ -417,10 +417,10 @@ Achievements/135/Name=Крупный игрок
 Achievements/135/Description=Вставьте {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative}+ {#Petals/{0:base}/Name/Accusative} в Плинко.
 
 Achievements/136/Name=Всезнающий
-Achievements/136/Description=Создайте лепесток с помощью Оракула.
+Achievements/136/Description=Скрафьте лепесток с помощью Оракула.
 
 Achievements/137/Name=Это была судьба
-Achievements/137/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate}+ лепесток с помощью Оракула.
+Achievements/137/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusative/Inanimate}+ лепесток с помощью Оракула.
 
 Achievements/138/Name=Волшебник
 Achievements/138/Description=Наденьте {#Petals/{0}/Name/Accusative}.
