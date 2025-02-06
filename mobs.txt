@@ -226,7 +226,7 @@ Mobs/firefly/Spawn=На горизонте виден яркий свет...
 Mobs/firefly/Gender=Male
 
 Mobs/beetle_hel/Name=Жук
-Mobs/beetle_hel/Description=Бедствие, появляющееся в другом измерении.
+Mobs/beetle_hel/Description=Наказание, порождаемое в другом измерении.
 Mobs/beetle_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/beetle_hel/Gender=Male
 
@@ -240,22 +240,22 @@ Mobs/dummy/Description=Как это оказалось в твоей галер
 Mobs/dummy/Gender=Male
 
 Mobs/spider_hel/Name=Паук
-Mobs/spider_hel/Description=Бедствие, появляющееся в другом измерении.
+Mobs/spider_hel/Description=Наказание, порождаемое в другом измерении.
 Mobs/spider_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/spider_hel/Gender=Male
 
 Mobs/centipede_hel/Name=Многоножка
-Mobs/centipede_hel/Description=Бедствие, появляющееся в другом измерении.
+Mobs/centipede_hel/Description=Наказание, порождаемое в другом измерении.
 Mobs/centipede_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/centipede_hel/Gender=Female
 
 Mobs/centipede_hel_body/Name=Многоножка
-Mobs/centipede_hel_body/Description=Бедствие, появляющееся в другом измерении.
+Mobs/centipede_hel_body/Description=Наказание, порождаемое в другом измерении.
 Mobs/centipede_hel_body/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/centipede_hel_body/Gender=Female
 
 Mobs/wasp_hel/Name=Оса
-Mobs/wasp_hel/Description=Бедствие, появляющееся в другом измерении.
+Mobs/wasp_hel/Description=Наказание, порождаемое в другом измерении.
 Mobs/wasp_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
 Mobs/wasp_hel/Gender=Female
 
