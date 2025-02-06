@@ -231,7 +231,7 @@ Achievements/73/Name=Исчезни
 Achievements/73/Description=Отправьте {0} цветков в Ад.
 
 Achievements/74/Name=Спасение
-Achievements/74/Description=Получите возрождение.
+Achievements/74/Description=Будь возрождён.
 
 Achievements/75/Name=Спаситель
 Achievements/75/Description=Возродите другой цветок.
