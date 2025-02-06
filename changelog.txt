@@ -433,9 +433,6 @@ December 26th 2022
 	- 
 	- 
 
-December 20th 2022
-	- We've added a texture to Desert. Other maps will get their own soon. Check out the discord server for the contest!
-
 20 декабря 2022
 	- Мы добавили текстуру в Пустыню. Другие карты скоро тоже получат свои текстуры. Присоединяйтесь к нашему Discord сообществу, чтобы участвовать в соревновании тектур!
 
