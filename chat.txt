@@ -237,7 +237,7 @@ Chat/Titan/Idle/1=Я был молотом при Основании
 Chat/Titan/Idle/2=Что слабо, должно сломаться
 Chat/Titan/Idle/3=Кузница творения пылает всё жарче
 Chat/Titan/Idle/4=Мировой кузнец блуждает
-Chat/Titan/Idle/5=Сформирован из кузницы
+Chat/Titan/Idle/5=Сформирован в кузнице
 Chat/Titan/Idle/6=По воле Создателя
 Chat/Titan/Idle/7=Я ступаю по земной поверхности
 
