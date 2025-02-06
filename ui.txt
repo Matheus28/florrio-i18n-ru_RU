@@ -261,7 +261,7 @@ UI/Settings/Quality/Low=Низкое
 UI/Settings/Quality/Medium=Среднее
 UI/Settings/Quality/High=Высокое
 
-UI/Settings/ShowDamageNumbers=Показывать цифры урона
+UI/Settings/ShowDamageNumbers=Индикатор урона
 
 UI/Settings/ScreenShake=Тряска экрана
 
