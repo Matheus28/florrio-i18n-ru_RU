@@ -99,7 +99,7 @@ Chat/Channel/Global=Мир
 
 Chat/Guild/PlayerJoined=Игрок {0} вступил в гильдию.
 Chat/Guild/PlayerLeft=Игрок {0} покинул гильдию.
-Chat/Guild/NewLeader=Игрок {0} — новый лидер гильдии!
+Chat/Guild/NewLeader=Игрок {0} стал новым лидером гильдии!
 Chat/Guild/Invited=Вы были приглашены вступить в гильдию "{0}". Откройте меню гильдии, если хотите принять приглашение.
 Chat/Guild/Created=Гильдия создана.
 Chat/Guild/Left=Вы покинули гильдию.
@@ -227,7 +227,7 @@ Chat/Gambler/Idle/3=99% игроков уходят прямо перед кру
 Chat/Gambler/Idle/4=Ещё одну игру...
 Chat/Gambler/Idle/5=ИДУ ВА-БАНК
 Chat/Gambler/Idle/6=Мне повезёт
-Chat/Gambler/Idle/7=Тридцать седьмой раз — это очарование
+Chat/Gambler/Idle/7=На тридцать седьмой раз повезёт
 Chat/Gambler/Idle/8=Всё или ничего?
 Chat/Gambler/Idle/9=Победитель, победитель!
 
