@@ -1,426 +1,426 @@
 Achievements/0/Name=Обучение
-Achievements/0/Description=Немного подвигайся.
-Achievements/0/ExtraDescription=Используй мышь для перемещения. Твой цветок будет автоматически следовать за курсором.<n/>Ты можешь поменять управление на клавиатурное в меню настроек.<n/><n/>Немного подвигайся, чтобы продолжить.
+Achievements/0/Description=Немного подвигайтесь.
+Achievements/0/ExtraDescription=Используйте мышь для передвижения. Ваш цветок будет автоматически следовать за курсором.<n/>Вы можете поменять управление на клавиатурное в настройках.<n/><n/>Немного подвигайтесь, чтобы продолжить.
 
 Achievements/1/Name=Обучение
-Achievements/1/Description=Убей моба.
-Achievements/1/ExtraDescription=Эти насекомые — твои враги. Их убийство даёт шанс получить новые лепестки.<n/><n/>Найди какого-нибудь и убей его.<n/>Ты можешь попробовать удерживать левую кнопку мыши, чтобы отдалить твои лепестки.
+Achievements/1/Description=Убейте моба.
+Achievements/1/ExtraDescription=Эти насекомые — ваши враги. Их убийство даёт шанс получить новые лепестки.<n/><n/>Найдите какого-нибудь и убейте его.<n/>Вы можете попробовать удерживать левую кнопку мыши, чтобы отдалить ваши лепестки.
 
 Achievements/2/Name=Обучение
-Achievements/2/Description=Подбери лепесток.
-Achievements/2/ExtraDescription=Продолжай убивать врагов, пока из них не выпадет лепесток, затем подойди к этому лепестку, чтобы подобрать его.
+Achievements/2/Description=Подберите лепесток.
+Achievements/2/ExtraDescription=Продолжайте убивать врагов, пока из них не выпадет лепесток, затем подойдите к этому лепестку, чтобы подобрать его.
 
 Achievements/3/Name=Обучение
-Achievements/3/Description=Надень лепесток.
-Achievements/3/ExtraDescription=Когда ты подбираешь лепесток, если у тебя есть свободное место в снаряжении, он попадает туда, иначе он попадает в инвентарь.<n/>Нажми на лепесток, который ты только что подобрал, чтобы надеть его (или используй для этого цифровую горячую клавишу).
+Achievements/3/Description=Наденьте лепесток.
+Achievements/3/ExtraDescription=Когда вы подбираете лепесток и у вас есть свободное место в снаряжении, то он попадает туда, иначе - в инвентарь.<n/>Нажмите на лепесток, который вы только что подобрали, чтобы надеть его (или используйте для этого цифровую горячую клавишу).
 
 # Disabled
 Achievements/4/Name=Обучение
-Achievements/4/Description=Собери больше лепестков.
-Achievements/4/ExtraDescription=Для следующего шага нам понадобится много лепестков.<n/>Продолжай убивать врагов и собирать лепестки.
+Achievements/4/Description=Соберите больше лепестков.
+Achievements/4/ExtraDescription=Для следующего шага нам понадобится много лепестков.<n/>Продолжайте убивать врагов и собирать лепестки.
 
 Achievements/5/Name=Обучение
-Achievements/5/Description=Дойди до {0}-го уровня.
-Achievements/5/ExtraDescription=Чтобы повысить уровень, просто продолжай убивать насекомых.
+Achievements/5/Description=Дойдите до {0}-го уровня.
+Achievements/5/ExtraDescription=Чтобы повысить уровень, просто продолжайте убивать насекомых.
 
 Achievements/6/Name=Обучение
-Achievements/6/Description=Используй очко талантов.
-Achievements/6/ExtraDescription=Используй новое очко талантов, которое ты получил, чтобы открыть любой талант.<n/><n/>Помни, что нужно нажать и УДЕРЖИВАТЬ, чтобы улучшить талант.
+Achievements/6/Description=Используйте очко талантов.
+Achievements/6/ExtraDescription=Используйте новое очко талантов, которое вы получили, чтобы открыть любой талант.<n/><n/>Помните, что нужно нажать и УДЕРЖИВАТЬ, чтобы улучшить талант.
 
 Achievements/7/Name=Обучение
-Achievements/7/Description=Собери несколько лепестков.
-Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male/Accusative/Inanimate} лепесток.<n/>Продолжай убивать насекомых, чтобы подобрать ещё пару лепестков.
+Achievements/7/Description=Соберите несколько лепестков.
+Achievements/7/ExtraDescription=Теперь нам нужно {0} одинаковых {#Rarities/{1}/NameColored/Plural/Genitive} лепестков, чтобы скрафтить {#Rarities/{2}/NameColored/Male/Accusative/Inanimate} лепесток.<n/>Продолжайте убивать насекомых, чтобы подобрать ещё пару лепестков.
 
 Achievements/8/Name=Обучение
-Achievements/8/Description=Скрафти лепесток.
-Achievements/8/ExtraDescription=Теперь попробуй скрафтить свой первый лепесток.<n/>Тебе может понадобиться снять некоторые лепестки, чтобы их хватило для крафта.<n/>Тебе нужно 5 одинаковых лепестков.<n/><n/>Не волнуйся, мы сделали так, чтобы этот крафт точно удался.
+Achievements/8/Description=Создайте лепесток.
+Achievements/8/ExtraDescription=Теперь попробуйте скрафтить ваш первый лепесток.<n/>Вам может понадобиться снять некоторые лепестки, чтобы их хватило для крафта.<n/>Вам нужно 5 одинаковых лепестков.<n/><n/>Не волнуйтесь, мы сделали так, чтобы этот крафт точно удался.
 
 Achievements/9/Name=Обучение
-Achievements/9/Description=Заверши обучение.
+Achievements/9/Description=Завершите обучение.
 
 Achievements/10/Name=Крафтер
-Achievements/10/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/10/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/11/Name=Крафтер
-Achievements/11/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/11/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/12/Name=Крафтер
-Achievements/12/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/12/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/13/Name=Крафтер
-Achievements/13/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/13/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/14/Name=Крафтер
-Achievements/14/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/14/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/15/Name=Крафтер
-Achievements/15/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/15/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/16/Name=Крафтер
-Achievements/16/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
+Achievements/16/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate} лепесток.
 
 Achievements/17/Name=Утешительный приз
-Achievements/17/Description=Провали крафт и потеряй {0} лепестка.
+Achievements/17/Description=Провалите крафт и потеряйте {0} лепестка.
 
 Achievements/18/Name=Утешительный приз
-Achievements/18/Description=Провали крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряй {0} лепестка.
+Achievements/18/Description=Провалите крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряйте {0} лепестка.
 
 Achievements/19/Name=Утешительный приз
-Achievements/19/Description=Провали крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряй {0} лепестка.
+Achievements/19/Description=Провалите крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряйте {0} лепестка.
 
 Achievements/20/Name=Копатель
-Achievements/20/Description=Надень {#Petals/cutter/Name/Accusative}.
+Achievements/20/Description=Наденьте {#Petals/cutter/Name/Accusative}.
 
 Achievements/21/Name=Развитие
-Achievements/21/Description=Достигни {0}-го Уровня.
+Achievements/21/Description=Достигните {0}-го Уровня.
 
 Achievements/22/Name=Развитие
-Achievements/22/Description=Достигни {0}-го Уровня.
+Achievements/22/Description=Достигните {0}-го Уровня.
 
 Achievements/23/Name=Развитие
-Achievements/23/Description=Достигни {0}-го Уровня.
+Achievements/23/Description=Достигните {0}-го Уровня.
 
 Achievements/24/Name=Развитие
-Achievements/24/Description=Достигни {0}-го Уровня.
+Achievements/24/Description=Достигните {0}-го Уровня.
 
 Achievements/25/Name=Развитие
-Achievements/25/Description=Достигни {0}-го Уровня.
+Achievements/25/Description=Достигните {0}-го Уровня.
 
 Achievements/26/Name=Развитие
-Achievements/26/Description=Достигни {0}-го Уровня.
+Achievements/26/Description=Достигните {0}-го Уровня.
 
 Achievements/27/Name=Развитие
-Achievements/27/Description=Достигни {0}-го Уровня.
+Achievements/27/Description=Достигните {0}-го Уровня.
 
 Achievements/28/Name=Бесполезный Крафт
-Achievements/28/Description=Потеряй {0:tooltip} лепестков в попытках крафта.
+Achievements/28/Description=Потеряйте {0:tooltip} лепестков в попытках крафта.
 
 Achievements/29/Name=Крафтер-трудяга
-Achievements/29/Description=Скрафти {0:tooltip} лепестков.
+Achievements/29/Description=Создайте {0:tooltip} лепестков.
 
 Achievements/30/Name=Пустыня
-Achievements/30/Description=Посети пустыню.
+Achievements/30/Description=Посетите пустыню.
 
 Achievements/31/Name=Океан
-Achievements/31/Description=Посети океан.
+Achievements/31/Description=Посетите океан.
 
 Achievements/32/Name=Добро пожаловать в Джунгли
-Achievements/32/Description=Посети джунгли.
+Achievements/32/Description=Посетите джунгли.
 
 Achievements/33/Name=Мир Муравьёв
-Achievements/33/Description=Узнай, откуда берутся все эти надоедливые муравьи.
+Achievements/33/Description=Узнайте, откуда берутся все эти надоедливые муравьи.
 
 Achievements/34/Name=Канализация
-Achievements/34/Description=Узнай, куда ведёт та труба.
+Achievements/34/Description=Узнайте, куда ведёт та труба.
 
 Achievements/35/Name=Завоеватель
-Achievements/35/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/35/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/36/Name=Завоеватель
-Achievements/36/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/36/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/37/Name=Завоеватель
-Achievements/37/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/37/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/38/Name=Завоеватель
-Achievements/38/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/38/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/39/Name=Завоеватель
-Achievements/39/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/39/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/40/Name=Завоеватель
-Achievements/40/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/40/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/41/Name=Завоеватель
-Achievements/41/Description=Победи своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
+Achievements/41/Description=Одолейте своего первого {#Rarities/{0}/Name/Male/Accusative/Animate} моба.
 
 Achievements/42/Name=Пойти КУДА?!
-Achievements/42/Description=Посети другое измерение.
+Achievements/42/Description=Посетите другое измерение.
 
 Achievements/43/Name=Борец
-Achievements/43/Description=Пройди испытание.
+Achievements/43/Description=Пройдите испытание.
 
 Achievements/44/Name=Борец
-Achievements/44/Description=Пройди {0} испытаний.
+Achievements/44/Description=Пройдите {0} испытаний.
 
 Achievements/45/Name=Борец
-Achievements/45/Description=Пройди {0} испытаний.
+Achievements/45/Description=Пройдите {0} испытаний.
 
 Achievements/46/Name=Борец
-Achievements/46/Description=Пройди {0} испытаний.
+Achievements/46/Description=Пройдите {0} испытаний.
 
 Achievements/47/Name=Готовься
-Achievements/47/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/47/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/48/Name=Готовься
-Achievements/48/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/48/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/49/Name=Готовься
-Achievements/49/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/49/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/50/Name=Готовься
-Achievements/50/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/50/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/51/Name=Готовься
-Achievements/51/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/51/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/52/Name=Готовься
-Achievements/52/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/52/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/53/Name=Готовься
-Achievements/53/Description=Надень {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
+Achievements/53/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/54/Name=Призыватель
-Achievements/54/Description=Призови дружественного моба.
+Achievements/54/Description=Призовите дружественного моба.
 
 Achievements/55/Name=Призыватель
-Achievements/55/Description=Призови {0} дружественных мобов.
+Achievements/55/Description=Призовите {0} дружественных мобов.
 
 Achievements/56/Name=Призыватель
-Achievements/56/Description=Призови {0} дружественных мобов.
+Achievements/56/Description=Призовите {0} дружественных мобов.
 
 Achievements/57/Name=Призыватель
-Achievements/57/Description=Призови {0} дружественных мобов.
+Achievements/57/Description=Призовите {0} дружественных мобов.
 
 Achievements/58/Name=Солнечная!
-Achievements/58/Description=Убей солнечную Божью Коровку
+Achievements/58/Description=Убейте солнечную Божью Коровку
 
 Achievements/59/Name=Не та игра
-Achievements/59/Description=Убей Квадрат
+Achievements/59/Description=Убейте Квадрат
 
 Achievements/60/Name=Причинитель боли
-Achievements/60/Description=Нанеси {0:tooltip} урона.
+Achievements/60/Description=Нанесите {0:tooltip} урона.
 
 Achievements/61/Name=Причинитель боли
-Achievements/61/Description=Нанеси {0:tooltip} урона.
+Achievements/61/Description=Нанесите {0:tooltip} урона.
 
 Achievements/62/Name=Причинитель боли
-Achievements/62/Description=Нанеси {0:tooltip} урона.
+Achievements/62/Description=Нанесите {0:tooltip} урона.
 
 Achievements/63/Name=Нокаут
-Achievements/63/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
+Achievements/63/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/64/Name=Нокаут
-Achievements/64/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
+Achievements/64/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/65/Name=Нокаут
-Achievements/65/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
+Achievements/65/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/66/Name=Нокаут
-Achievements/66/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
+Achievements/66/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/67/Name=Нокаут
-Achievements/67/Description=Убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
+Achievements/67/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
 
 Achievements/68/Name=Загар
-Achievements/68/Description=Выживи {0:time:accusative} в Аду.
+Achievements/68/Description=Проживите {0:time:accusative} в Аду.
 
 Achievements/69/Name=Руки-крюки
-Achievements/69/Description=Найди мёртвый цветок разработчика.
+Achievements/69/Description=Найдите мёртвый цветок разработчика.
 
 Achievements/70/Name=Термиты...?
-Achievements/70/Description=Призови дружественного Термита.
+Achievements/70/Description=Призовите дружественного Термита.
 
 Achievements/71/Name=Пацифист
-Achievements/71/Description=Проведи {0:time:accusative}, любуясь природой и никого не убивая.
+Achievements/71/Description=Проведите {0:time:accusative}, любуясь природой и никого не убивая.
 
-Achievements/72/Name=Уйди
-Achievements/72/Description=Отправь другой цветок в Ад.
+Achievements/72/Name=Исчезни
+Achievements/72/Description=Отправьте другой цветок в Ад.
 
-Achievements/73/Name=Уйди
-Achievements/73/Description=Отправь {0} цветков в Ад.
+Achievements/73/Name=Исчезни
+Achievements/73/Description=Отправьте {0} цветков в Ад.
 
 Achievements/74/Name=Спасение
-Achievements/74/Description=Будь возрождён.
+Achievements/74/Description=Получите возрождение.
 
 Achievements/75/Name=Спаситель
-Achievements/75/Description=Возроди другой цветок.
+Achievements/75/Description=Возродите другой цветок.
 
 Achievements/76/Name=Спаситель
-Achievements/76/Description=Возроди {0} цветков.
+Achievements/76/Description=Возродите {0} цветков.
 
 Achievements/77/Name=Всевидящий
-Achievements/77/Description=Надень {#Petals/{0}/Name/Accusative}.
+Achievements/77/Description=Наденьте {#Petals/{0}/Name/Accusative}.
 
-Achievements/78/Name=Возвращение отправителю
-Achievements/78/Description=Ударь моба с помощью {#Petals/{0}/Name/Genitive}.
+Achievements/78/Name=Вернуть отправителю
+Achievements/78/Description=Ударьте моба с помощью {#Petals/{0}/Name/Genitive}.
 
 Achievements/79/Name=Разрушитель
-Achievements/79/Description=Разрушь {#Mobs/{1}/Name/Accusative}, {#Mobs/{2}/Name/Accusative} или {#Mobs/{3}/Name/Accusative}.
+Achievements/79/Description=Разрушьте {#Mobs/{1}/Name/Accusative}, {#Mobs/{2}/Name/Accusative} или {#Mobs/{3}/Name/Accusative}.
 
 Achievements/80/Name=Разрушитель
-Achievements/80/Description=Разрушь {0} {#Mobs/{1}/Name/Plural/Genitive}, {#Mobs/{2}/Name/Plural/Genitive} или {#Mobs/{3}/Name/Plural/Genitive}.
+Achievements/80/Description=Разрушьте {0} {#Mobs/{1}/Name/Plural/Genitive}, {#Mobs/{2}/Name/Plural/Genitive} или {#Mobs/{3}/Name/Plural/Genitive}.
 
 Achievements/81/Name=Плохой
-Achievements/81/Description=Умри.
+Achievements/81/Description=Умрите.
 
 Achievements/82/Name=Плохой
-Achievements/82/Description=Умри {0} раз.
+Achievements/82/Description=Умрите {0} раз.
 
 Achievements/83/Name=Плохой
-Achievements/83/Description=Умри {0} раз.
+Achievements/83/Description=Умрите {0} раз.
 
 Achievements/84/Name=Серийный убийца
-Achievements/84/Description=Убей {0} мобов с интервалом не более {1:time:genitive} между убийствами.
+Achievements/84/Description=Убейте {0} мобов с интервалом не более {1:time:genitive} между убийствами.
 
 Achievements/85/Name=Неубиваемый
-Achievements/85/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/85/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/86/Name=Неубиваемый
-Achievements/86/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/86/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/87/Name=Неубиваемый
-Achievements/87/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/87/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/88/Name=Неубиваемый
-Achievements/88/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/88/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/89/Name=Неубиваемый
-Achievements/89/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/89/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/90/Name=Неубиваемый
-Achievements/90/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/90/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/91/Name=Неубиваемый
-Achievements/91/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/91/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
-Achievements/92/Name=Ты манекен
-Achievements/92/Description=Умри от {#Mobs/{0}/Name/Genitive}.
+Achievements/92/Name=Это ты мишень
+Achievements/92/Description=Умрите от {#Mobs/{0}/Name/Genitive}.
 
 Achievements/93/Name=Геноцид
-Achievements/93/Description=Убей {0} мобов в течение {1:time:genitive}.
+Achievements/93/Description=Убейте {0} мобов в течение {1:time:genitive}.
 
 Achievements/94/Name=Как сыр в масле
-Achievements/94/Description=Подбери {0} дропов в течение {1:time:genitive}.
+Achievements/94/Description=Подберите {0} лепестков в течение {1:time:genitive}.
 
 Achievements/95/Name=Охотник за Солнечными
-Achievements/95/Description=Убей {0} солнечных Божьих Коровок в течение {1:time:genitive}.
+Achievements/95/Description=Убейте {0} солнечных Божьих Коровок в течение {1:time:genitive}.
 
 Achievements/96/Name=Охотник за Суперами
-Achievements/96/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive} мобов.
+Achievements/96/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive} мобов.
 
 Achievements/97/Name=Жертва
-Achievements/97/Description=Умри в течение {0:time:genitive} после возрождения кого-то.
+Achievements/97/Description=Умрите в течение {0:time:genitive} после возрождения кого-то.
 
 Achievements/98/Name=Бесполезный
-Achievements/98/Description=Получи награду за убийство моба, не нанеся ему никакого урона.
+Achievements/98/Description=Получите награду за убийство моба, не нанеся ему никакого урона.
 
 Achievements/99/Name=Бесполезный
-Achievements/99/Description=Получи награду за убийство {#Rarities/{0}/Name/Male/Genitive} моба, не нанеся ему никакого урона.
+Achievements/99/Description=Получите награду за убийство {#Rarities/{0}/Name/Male/Genitive} моба, не нанеся ему никакого урона.
 
 Achievements/100/Name=Счастливчик
-Achievements/100/Description=Успешно скрафти {0} лепестков подряд.
+Achievements/100/Description=Успешно создайте {0} лепестков подряд.
 
 Achievements/101/Name=Невезучий
-Achievements/101/Description=Провали крафт {0} лепестков подряд.
+Achievements/101/Description=Провалите крафт {0} лепестков подряд.
 
 Achievements/102/Name=Бумага
-Achievements/102/Description=Умри от удара, нанёсшего больше урона, чем твоё максимальное здоровье.
+Achievements/102/Description=Умрите от удара, нанёсшего больше урона, чем ваше максимальное здоровье.
 
 Achievements/103/Name=Статуя
-Achievements/103/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
+Achievements/103/Description=Появитесь и убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
 
 Achievements/104/Name=Статуя
-Achievements/104/Description=Появись и убей {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
+Achievements/104/Description=Появитесь и убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба, не двигаясь с места.
 
 Achievements/105/Name=Вдох-выдох
-Achievements/105/Description=Надень и сними {#Petals/{0}/Name/Accusative} много раз
+Achievements/105/Description=Наденьте и снимите {#Petals/{0}/Name/Accusative} много раз
 
 Achievements/106/Name=Звуковой барьер
-Achievements/106/Description=Двигайся очень быстро.
+Achievements/106/Description=Двигайтесь очень быстро.
 
 Achievements/107/Name=Звуковой барьер
-Achievements/107/Description=Двигайся ещё быстрее.
+Achievements/107/Description=Двигайтесь ещё быстрее.
 
 Achievements/108/Name=Биолог
-Achievements/108/Description=Убей {0} разных типов мобов, не умирая.
+Achievements/108/Description=Убейте {0} разных типов мобов, не умирая.
 
 Achievements/109/Name=Коллекционер
-Achievements/109/Description=Собери {0} разных типов лепестков, не умирая.
+Achievements/109/Description=Соберите {0} разных типов лепестков, не умирая.
 
-Achievements/110/Name=Потрогай траву
-Achievements/110/Description=Не играй в игру {0:time:accusative}.
+Achievements/110/Name=Потрогать траву
+Achievements/110/Description=Не играйте в игру {0:time:accusative}.
 
 Achievements/111/Name=Гоночная машина
-Achievements/111/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
+Achievements/111/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time:accusative}.
 
 Achievements/112/Name=Гоночная машина
-Achievements/112/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
+Achievements/112/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time:accusative}.
 
 Achievements/113/Name=Гоночная машина
-Achievements/113/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
+Achievements/113/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time:accusative}.
 
 Achievements/114/Name=Гоночная машина
-Achievements/114/Description=Посети Сад, Пустыню, Джунгли, Океан и вернись в Сад менее чем за {0:time:accusative}.
+Achievements/114/Description=Посетите Сад, Пустыню, Джунгли, Океан и вернитесь в Сад менее чем за {0:time:accusative}.
 
 Achievements/115/Name=Биолог
-Achievements/115/Description=Убей {0} разных типов {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
+Achievements/115/Description=Убейте {0} разных типов {#Rarities/{1}/Name/Plural/Genitive}+ мобов, не умирая.
 
 Achievements/116/Name=Плохой во всех отношениях
-Achievements/116/Description=Умри от {0} разных типов мобов.
+Achievements/116/Description=Умрите от {0} разных типов мобов.
 
 Achievements/117/Name=Плохой во всех отношениях
-Achievements/117/Description=Умри от {0} разных типов мобов.
+Achievements/117/Description=Умрите от {0} разных типов мобов.
 
 Achievements/118/Name=Плохой во всех отношениях
-Achievements/118/Description=Умри от {0} разных типов мобов.
+Achievements/118/Description=Умрите от {0} разных типов мобов.
 
 Achievements/119/Name=Коснувшийся
-Achievements/119/Description=Коснись разработчика.
+Achievements/119/Description=Коснитесь разработчика.
 
 Achievements/120/Name=Уклончивый
-Achievements/120/Description=Уклонись от {0:tooltip} единиц урона.
+Achievements/120/Description=Уклонитесь от {0:tooltip} единиц урона.
 
 Achievements/121/Name=Уклончивый
-Achievements/121/Description=Уклонись от {0:tooltip} единиц урона.
+Achievements/121/Description=Уклонитесь от {0:tooltip} единиц урона.
 
 Achievements/122/Name=Уклончивый
-Achievements/122/Description=Уклонись от {0:tooltip} единиц урона.
+Achievements/122/Description=Уклонитесь от {0:tooltip} единиц урона.
 
 Achievements/123/Name=Адвокат дьявола
-Achievements/123/Description=Убей {0} цветков в Аду, не умирая.
+Achievements/123/Description=Убейте {0} цветков в Аду, не умирая.
 
 Achievements/124/Name=Ненавистник
-Achievements/124/Description=Убей {0} мобов одного типа подряд, не умирая.
+Achievements/124/Description=Убейте {0} мобов одного типа подряд, не умирая.
 
 Achievements/125/Name=Ненавистник
-Achievements/125/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
+Achievements/125/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
 Achievements/126/Name=Ненавистник
-Achievements/126/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
+Achievements/126/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
 Achievements/127/Name=Ненавистник
-Achievements/127/Description=Убей {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
+Achievements/127/Description=Убейте {0} {#Rarities/{1}/Name/Plural/Genitive}+ мобов одного типа подряд, не умирая.
 
 Achievements/128/Name=Месть
-Achievements/128/Description=Убей моба, который убил тебя.
+Achievements/128/Description=Убейте моба, который убил вас.
 
 Achievements/129/Name=Месть
-Achievements/129/Description=Убей моба, который убил тебя, в течение {0:time:genitive} после твоей смерти.
+Achievements/129/Description=В течение {0:time:genitive} после смерти убейте моба, который убил вас.
 
 Achievements/130/Name=Торговля
-Achievements/130/Description=Приобрети {#Petals/{0:base}/Name/Accusative} с помощью торговли.
+Achievements/130/Description=Приобретите {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
 Achievements/131/Name=Торговля
-Achievements/131/Description=Приобрети {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
+Achievements/131/Description=Приобретите {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
 Achievements/132/Name=Торговля
-Achievements/132/Description=Приобрети {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
+Achievements/132/Description=Приобретите {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative} {#Petals/{0:base}/Name/Accusative} с помощью торговли.
 
 Achievements/133/Name=Азартный игрок
-Achievements/133/Description=Вставь {0} Фишек в Плинко.
+Achievements/133/Description=Вставьте {0} Фишек в Плинко.
 
 Achievements/134/Name=ДЖЕКПОТ!
-Achievements/134/Description=Сорви Джекпот в Плинко.
+Achievements/134/Description=Сорвите Джекпот в Плинко.
 
 Achievements/135/Name=Крупный игрок
-Achievements/135/Description=Вставь {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative}+ {#Petals/{0:base}/Name/Accusative} в Плинко.
+Achievements/135/Description=Вставьте {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Accusative}+ {#Petals/{0:base}/Name/Accusative} в Плинко.
 
 Achievements/136/Name=Всезнающий
-Achievements/136/Description=Скрафти лепесток с помощью Оракула.
+Achievements/136/Description=Создайте лепесток с помощью Оракула.
 
 Achievements/137/Name=Это была судьба
-Achievements/137/Description=Скрафти {#Rarities/{0}/Name/Male/Accusative/Inanimate}+ лепесток с помощью Оракула.
+Achievements/137/Description=Создайте {#Rarities/{0}/Name/Male/Accusative/Inanimate}+ лепесток с помощью Оракула.
 
 Achievements/138/Name=Волшебник
-Achievements/138/Description=Надень {#Petals/{0}/Name/Accusative}.
+Achievements/138/Description=Наденьте {#Petals/{0}/Name/Accusative}.
