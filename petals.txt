@@ -1,5 +1,3 @@
-Petals/none/Gender=Male
-
 Petals/basic/Name=Базовый
 Petals/basic/FullName=Базовый
 Petals/basic/Description=Хороший лепесток, не слишком сильный, но и не слишком слабый.
