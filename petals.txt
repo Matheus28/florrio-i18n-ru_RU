@@ -1,4 +1,4 @@
-Petals/none/Gender=Plural
+Petals/none/Gender=Male
 
 Petals/basic/Name=Базовый
 Petals/basic/FullName=Базовый
