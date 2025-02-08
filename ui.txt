@@ -276,6 +276,7 @@ UI/Settings/AutoSearchPetals=Поиск лепестков при открыти
 UI/Settings/FixedJoystick=Фиксированный джойстик
 
 UI/Settings/AutoSaveLoadout=Автосохранение снаряжения
+UI/Settings/AutoSaveLoadout/Help=Если отключено, нажмите [O] для сохранения снаряжения
 
 UI/Settings/PrivacyPolicy=Политика Конфиденциальности
 UI/Settings/TermsOfService=Условия Использования
