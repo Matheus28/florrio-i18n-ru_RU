@@ -1,4 +1,4 @@
-Maps/ant_hell/Name=Мир Муравьев
+Maps/ant_hell/Name=Мир Муравьёв
 
 Maps/ant_hole1/Name=Термитник
 Maps/ant_hole2/Name=Термитник
