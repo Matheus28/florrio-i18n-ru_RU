@@ -87,7 +87,7 @@ Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">Уклонение Цв
 Petal/Attribute/Charges=<c val="{#Colors/generic}">Заряды:</c> {0:tooltip}
 Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Конвертация Лечения:</c> +{0:perc}%
 Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Подвержен влиянию Магнитов</c>
-Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Can find mobs that do not belong</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Может найти мобов, не принадлежащих этой игре</c>
 Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">Сопротивление Урону:</c> +{0:perc}%
 Petal/Attribute/Evasion=<c val="{#Colors/generic}">Уклонение:</c> {0:perc}%
 Petal/Attribute/Health4=<c val="{#Colors/health}">Здоровье:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}

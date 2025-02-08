@@ -2,13 +2,13 @@ UI/Time/Days={#UI/Time/Days/{#UI/Time/Resolve}}
 UI/Time/Hours={#UI/Time/Hours/{#UI/Time/Resolve}}
 UI/Time/Minutes={#UI/Time/Minutes/{#UI/Time/Resolve}}
 UI/Time/Seconds={#UI/Time/Seconds/{#UI/Time/Resolve}}
-UI/Time/Now=immediately
+UI/Time/Now=сразу же
 
 UI/TooltipTime/Days={#UI/TooltipTime/Days/{#UI/Time/Resolve}}
 UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{#UI/Time/Resolve}}
 UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{#UI/Time/Resolve}}
 UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{#UI/Time/Resolve}}
-UI/TooltipTime/Now=immediately
+UI/TooltipTime/Now=сразу же
 
 UI/Time/Days/Singular/Nominative={0} день
 UI/Time/Days/Singular/Genitive={0} дня

@@ -385,8 +385,9 @@ Petals/card/Description=Игральная карта. Вероятно, меч�
 Petals/card/Gender=Female
 
 Petals/moon/Name=Луна
-Petals/moon/FullName=Лунный Камень
+Petals/moon/FullName=Луна
 Petals/moon/Description=Эта штука такая большая, что твои лепестки вращаются вокруг неё.<n/>Где ты вообще это нашёл?
+Petals/moon/Gender=Female
 
 Petals/privet/Name=Бирючина
 Petals/privet/FullName=Бирючина
