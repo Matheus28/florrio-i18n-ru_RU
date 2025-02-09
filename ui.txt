@@ -168,6 +168,16 @@ UI/DailyChallenge/TimeLeft=Испытания обновятся через {0:t
 UI/DailyChallenge/Claimed=Получено
 UI/DailyChallenge/SupportersOnly=Испытание доступно<n/>только поддержавшим.
 
+UI/Bonus/Title=Бонус
+UI/Bonus/Button=Бонус
+UI/Bonus/Instructions=Получайте бонусные выпадения лепестков раз в день
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=Вы сможете снова активировать бонус через {0:time:accusative}
+UI/Bonus/CurrentlyActive=Ваш бонус активен в течение {0:time:genitive}
+UI/Bonus/Available=Вы можете активировать свой бонус сейчас. Он будет длиться {0:time:accusative}.
+UI/Bonus/AvailableExpiration=Если вы не активируете свой бонус, он будет сброшен через {0:time:accusative}.
+UI/Bonus/Activate=Активировать
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
