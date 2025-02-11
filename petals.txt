@@ -405,9 +405,9 @@ Petals/corruption/Description=Портит душу любого, обращая
 Petals/corruption/Gender=Female
 
 Petals/orb/Name=Сфера
-Petals/orb/Name/Accusative=Сферу
 Petals/orb/FullName=Сфера Маны
 Petals/orb/FullName/Genitive=Сферы Маны
+Petals/orb/FullName/Accusative=Сферу Маны
 Petals/orb/Description=Создаёт ману.
 Petals/orb/Gender=Female
 
