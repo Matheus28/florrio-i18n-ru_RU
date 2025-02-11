@@ -424,3 +424,6 @@ Achievements/137/Description=Скрафьте {#Rarities/{0}/Name/Male/Accusativ
 
 Achievements/138/Name=Волшебник
 Achievements/138/Description=Наденьте {#Petals/{0}/Name/Accusative}.
+
+Achievements/139/Name=Мне повезёт
+Achievements/139/Description=Получите дополнительный дроп благодаря {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Dative} {#Petals/{0:base}/Name/Dative}.

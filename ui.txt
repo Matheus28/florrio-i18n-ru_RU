@@ -170,13 +170,16 @@ UI/DailyChallenge/SupportersOnly=Испытание доступно<n/>толь
 
 UI/Bonus/Title=Бонус
 UI/Bonus/Button=Бонус
-UI/Bonus/Instructions=Получайте бонусные выпадения лепестков раз в день
+UI/Bonus/Instructions=Получайте бонусные выпадения лепестков
+UI/Bonus/Instructions2=За первый час игры каждый день вы получаете дополнительные лепестки.
 UI/Bonus/Pill/Label={0}x
-UI/Bonus/Delay=Вы сможете снова активировать бонус через {0:time:accusative}
-UI/Bonus/CurrentlyActive=Ваш бонус активен в течение {0:time:genitive}
+UI/Bonus/Delay=Вы сможете снова активировать бонус через {0:time:accusative}.
+UI/Bonus/CurrentlyActive=Ваш бонус активен в течение {0:time:genitive}.
 UI/Bonus/Available=Вы можете активировать свой бонус сейчас. Он будет длиться {0:time:accusative}.
 UI/Bonus/AvailableExpiration=Если вы не активируете свой бонус, он будет сброшен через {0:time:accusative}.
+UI/Bonus/AutoDelay=Ваш бонус будет активирован снова через {0:time:accusative}.
 UI/Bonus/Activate=Активировать
+UI/Bonus/Activate/Setting=Активировать автоматически
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
@@ -197,6 +200,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#Rarities/{0:rarity}/Name/Plural}
 
 UI/Talent/Title=Таланты
 UI/Talent/Name={#Talents/{0}/Name:1-}
