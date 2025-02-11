@@ -39,7 +39,7 @@ Mobs/ant_hole/Description=Муравьи заходят и выходят. Не 
 Mobs/ant_hole/Gender=Male
 
 Mobs/beetle/Name=Жук
-Mobs/beetle/Description=Он голоден, а цветки - его любимая еда.
+Mobs/beetle/Description=Он голоден, а цветки — его любимая еда.
 Mobs/beetle/Gender=Male
 
 Mobs/hornet/Name=Шершень
