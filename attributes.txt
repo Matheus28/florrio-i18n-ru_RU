@@ -94,7 +94,7 @@ Petal/Attribute/Health4=<c val="{#Colors/health}">Здоровье:</c> {0:toolt
 Petal/Attribute/Damage4=<c val="{#Colors/damage}">Урон:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">Доп. Яд:</c> {0:tooltip} с
 Petal/Attribute/Interval=<c val="{#Colors/generic}">Интервал:</c> {0:tooltipTime:nominative}
-Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">Заражает цветки вокруг тебя.</c>
+Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">Заражает цветки вокруг вас.</c>
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">Не может быть снята.</c>
 Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">Лепесток теряется после смерти.</c>
 Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">Не может быть снята, пока цветок жив.</c>
@@ -107,4 +107,4 @@ Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">Поглощ�
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Молния:</c> {0:tooltip}/<c val="{#Colors/mana}">ед. маны</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Цена Призыва:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Цена Поддержки:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>/с
-Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Даёт {0:perc}% шанс получить дополнительный дроп с мобов.</c>
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Даёт {0:perc}% шанс выпадения дополнительного лепестка с мобов.</c>
