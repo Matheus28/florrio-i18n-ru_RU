@@ -490,3 +490,8 @@ Petals/mecha_missile/Name=Снаряд
 Petals/mecha_missile/FullName=Меха-Снаряд
 Petals/mecha_missile/Description=Зафиксирован.
 Petals/mecha_missile/Gender=Male
+
+Petals/wax/Name=Воск
+Petals/wax/FullName=Воск
+Petals/wax/Description=Не спрашивайте, откуда он взялся.
+Petals/wax/Gender=Male

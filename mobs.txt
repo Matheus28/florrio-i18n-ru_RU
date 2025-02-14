@@ -260,6 +260,7 @@ Mobs/wasp_hel/Spawn=Ты чувствуешь зловещие вибрации,
 Mobs/wasp_hel/Gender=Female
 
 Mobs/trader/Name=Торговец
+Mobs/trader/Description= 
 Mobs/trader/Gender=Male
 
 Mobs/gambler/Name=Азартник
@@ -268,6 +269,7 @@ Mobs/gambler/Spawn=Ты слышишь чей-то слабый шёпот... "�
 Mobs/gambler/Gender=Male
 
 Mobs/oracle/Name=Оракул
+Mobs/oracle/Description= 
 Mobs/oracle/Gender=Male
 
 Mobs/firefly_magic/Name=Светлячок
@@ -275,6 +277,7 @@ Mobs/firefly_magic/Description=В этом есть что-то волшебно
 Mobs/firefly_magic/Gender=Male
 
 Mobs/titan/Name=Титан
+Mobs/titan/Description= 
 Mobs/titan/Gender=Male
 
 Mobs/beetle_nazar/Name=Жук
