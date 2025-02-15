@@ -1,4 +1,4 @@
-UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} — {#Chat/Command/{0}/Description}
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
 
 Chat/Command/help/Args=[команда]
 Chat/Command/help/Description=Показать все команды или показать справку для конкретной команды
