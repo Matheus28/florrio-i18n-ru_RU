@@ -4,18 +4,18 @@ UI/Language/Credits=Max Nest<n/>IOMAN
 
 UI/Title/Loading=Загрузка...
 UI/Title/Connecting=Подключение...
-UI/Title/LoggingIn=Выполняется вход...
+UI/Title/LoggingIn=Авторизация...
 UI/Title/Ready=Играть
 UI/Title/GuestName=Гость
-UI/Title/GuestLimitation=Вы сможете выбрать никнейм после привязки аккаунта или получения {0}-го уровня.
+UI/Title/GuestLimitation=Вы сможете выбрать имя после привязки аккаунта или получения {0}-го уровня.
 UI/Title/Name/Title=Этого милого цветка зовут...
 UI/Title/Name/Rules1=Ваше имя может состоять только из английских букв, цифр, символов "{2}" и должно содержать от {0} до {1} символов.
 UI/Title/Name/Rules2=Оно должно включать как минимум {0} буквы или цифры.
 UI/Title/Name/Rules3=Оно не может содержать последовательные символы "{0}".
 UI/Title/Name/Rules4=Это имя постоянное и не может быть изменено позже.
 UI/Title/Name/Button=ОК
-UI/Title/Name/Bad=Ваш никнейм был сброшен, пожалуйста, выберите новый.
-UI/Title/Name/AlreadyTaken=Никнейм уже занят.
+UI/Title/Name/Bad=Ваше имя было сброшено, пожалуйста, выберите новое.
+UI/Title/Name/AlreadyTaken=Имя уже занято.
 UI/Title/Name/InternalError=Внутренняя ошибка, попробуйте позже.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
@@ -27,18 +27,18 @@ UI/Title/Biome/4=Ад
 
 UI/Login/Title=Аккаунт
 UI/Login/PlayAsGuest=Играть как гость
-UI/Login/SignInApple=Войти через Apple
-UI/Login/SignInDiscord=Войти через Discord
+UI/Login/SignInApple=Войти с Apple
+UI/Login/SignInDiscord=Войти с Discord
 UI/Login/Logout=Выйти
 UI/Login/AccountID=ID аккаунта:
 UI/Login/Connecting=(подключение)
 UI/Login/GuestName=Гость
 UI/Login/GuestInfo=Если у вас уже есть гостевой аккаунт на этом устройстве,<n/>вход привяжет этот аккаунт и сохранит ваш прогресс.
-UI/Login/LinkInfo=Вы можете привязать свой аккаунт, чтобы<n/>синхронизировать свой прогресс между устройствами.
-UI/Login/Linked=Привязано
+UI/Login/LinkInfo=Вы можете привязать свой аккаунт, чтобы<n/>синхронизировать прогресс между устройствами.
+UI/Login/Linked=Привязан
 UI/Login/SupportPIN=ПИН-код поддержки: {0}
 UI/Login/SupportPINHidden=ПИН-код поддержки: (нажмите, чтобы показать)
-UI/Login/SupportPINInstructions1=Сохраните это на случай, если вы потеряете доступ к своему аккаунту
+UI/Login/SupportPINInstructions1=Сохраните это на случай потери доступа к аккаунту
 UI/Login/SupportPINInstructions2=Никому не сообщайте свой ПИН-код поддержки
 UI/Login/Reminder=Привяжите аккаунт, чтобы сохранить прогресс
 
@@ -96,7 +96,7 @@ UI/Achievements/UnlockedNotification/N=Достижения получены
 UI/MobGallery/Title=Галерея Мобов
 
 UI/Changelog/Title=Список Изменений
-UI/Changelog/Bottom=Более старые записи списка изменений недоступны
+UI/Changelog/Bottom=Более ранние записи недоступны
 
 UI/Inventory/Title=Инвентарь
 UI/Inventory/Stack=Сложить
@@ -142,7 +142,7 @@ UI/Shop/StarsHelp2=также вы можете купить их, нажав н
 UI/Shop/MustLink1=Чтобы совершать покупки, вам необходимо сначала
 UI/Shop/MustLink2=привязать свой аккаунт к Discord или Apple.
 UI/Shop/MustLinkCancel=Отмена
-UI/Shop/BuyStars/Instructions=В случае каких-либо проблем с покупкой,<n/>пожалуйста, свяжитесь с нашим платёжным процессором:<n/>support@xsolla.com или чат на сайте xsolla.com.
+UI/Shop/BuyStars/Instructions=В случае каких-либо проблем с покупкой,<n/>свяжитесь с нашим платёжным процессором:<n/>support@xsolla.com или чат на сайте xsolla.com.
 UI/Shop/BuyStars/Extra=У меня слишком много денег
 UI/Shop/BuyStars/Cancel=Отмена
 UI/Shop/BuyPetal/Title=Подтверждение
@@ -155,10 +155,10 @@ UI/Shop/Loyalty/Title=Спасибо!
 UI/Shop/Loyalty/Instructions=В благодарность за вашу поддержку<n/>мы хотим подарить вам немного звёзд.<n/><n/>Это эквивалентно тому, что вы бы получили, потратив<n/>ту же сумму денег на более дорогие предложения.
 UI/Shop/Price/USD={0} $
 
-UI/Banned/Title=БАН
-UI/Banned/Instructions=Ваш аккаунт был забанен.
-UI/Banned/TimeLeft=Этот бан истечёт через {0:time:accusative}.
-UI/Banned/Permanent=Этот бан бессрочный.
+UI/Banned/Title=АККАУНТ ЗАБЛОКИРОВАН
+UI/Banned/Instructions=Ваш аккаунт был заблокирован.
+UI/Banned/TimeLeft=Блокировка будет снята через {0:time:accusative}.
+UI/Banned/Permanent=Блокировка бессрочна.
 UI/Banned/Account=ID аккаунта: {0}
 
 UI/DailyChallenge/Title=Испытания
@@ -186,8 +186,8 @@ UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
-UI/Petal/Reload1={0} с
-UI/Petal/Reload2={0} с + {1} с
+UI/Petal/Reload1={0}с
+UI/Petal/Reload2={0}с + {1}с
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
@@ -207,7 +207,7 @@ UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
 UI/Talent/Rarity={#Rarities/{1}/Name/{#Talents/{0}/Gender}}
 UI/Talent/TP=ОТ
-UI/Talent/Tooltip=Вы можете получить больше ОТ, повышая уровень
+UI/Talent/Tooltip=ОТ можно получить за повышение уровня или выполнение достижений
 UI/Talent/Reset=Сбросить
 UI/Talent/HoldToUpgrade=УДЕРЖИВАЙТЕ для улучшения
 
@@ -245,7 +245,7 @@ UI/Death/Poison=Яд
 UI/Settings/Title=Настройки
 UI/Settings/Game=Игра
 UI/Settings/Graphics=Графика
-UI/Settings/Controls=Управление
+UI/Settings/Controls=Управл.
 UI/Settings/Credits=Авторы
 
 UI/Settings/Language=Язык
@@ -290,12 +290,12 @@ UI/Settings/AutoSearchPetals=Поиск лепестков при открыти
 UI/Settings/FixedJoystick=Фиксированный джойстик
 
 UI/Settings/AutoSaveLoadout=Автосохранение снаряжения
-UI/Settings/AutoSaveLoadout/Help=Если отключено, нажмите [O] для сохранения снаряжения
+UI/Settings/AutoSaveLoadout/Help=Если выкл., нажм. [O] для сохранения снаряжения
 
 UI/Settings/PrivacyPolicy=Политика Конфиденциальности
 UI/Settings/TermsOfService=Условия Использования
 
-UI/Credits/MadeBy=Разработчик: {0}
+UI/Credits/MadeBy=Игру создал {0}
 UI/Credits/SomeIcons=Некоторые иконки с {0}
 UI/Credits/SomeTiles=Некоторые тайлы с {0}
 UI/Credits/SpecialThanks=Отдельное Спасибо
