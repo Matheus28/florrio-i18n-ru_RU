@@ -1,4 +1,4 @@
-UI/Language/Name=Русский (Россия)
+UI/Language/Name=Русский
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=Max Nest<n/>IOMAN
 
