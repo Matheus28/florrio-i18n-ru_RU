@@ -1,6 +1,6 @@
 UI/Language/Name=Русский
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=Max Nest<n/>IOMAN
+UI/Language/Credits=Max Nest<n/>Nikolai Bulygin (IOMAN)
 
 UI/Title/Loading=Загрузка...
 UI/Title/Connecting=Подключение...
