@@ -66,6 +66,9 @@ Chat/Command/unblock/Description=Удалить игрока из чёрного
 Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=Удалить всех из чёрного списка
 
+Chat/Command/rot-speed/Args=<значение>
+Chat/Command/rot-speed/Description=Установить скорость вращения лепестков, от 0.0 до 1.0
+
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=Показать ID аккаунтов игроков поблизости
 
