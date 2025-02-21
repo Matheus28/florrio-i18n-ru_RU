@@ -304,5 +304,6 @@ Mobs/spider_mecha/Name=Паук
 Mobs/spider_mecha/Description=Меха-Жуть.
 Mobs/spider_mecha/Gender=Male
 
-Mobs/leafbug_shiny/Name=Leafbug
-Mobs/leafbug_shiny/Description=This one has a special color to it...
+Mobs/leafbug_shiny/Name=Листовидка
+Mobs/leafbug_shiny/Description=У неё особенный цвет...
+Mobs/leafbug_shiny/Gender=Female
