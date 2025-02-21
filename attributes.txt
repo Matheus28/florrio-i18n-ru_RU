@@ -108,3 +108,5 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Молния:</c> 
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Цена Призыва:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Цена Поддержки:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>/с
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Даёт {0:perc}% шанс выпадения дополнительного лепестка с мобов.</c>
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Reload:</c> -{0:perc}%
+Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Victims will be stuck in Hel for {0:time}.</c>

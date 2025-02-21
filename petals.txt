@@ -495,3 +495,15 @@ Petals/wax/Name=Воск
 Petals/wax/FullName=Воск
 Petals/wax/Description=Не спрашивайте, откуда он взялся.
 Petals/wax/Gender=Male
+
+Petals/golden_leaf/Name=Leaf
+Petals/golden_leaf/FullName=Golden Leaf
+Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even more.
+
+Petals/cog/Name=Cog
+Petals/cog/FullName=Cogwheel
+Petals/cog/Description=Doesn't seem to do much...
+
+Petals/monstera/Name=Monstera
+Petals/monstera/FullName=Monstera
+Petals/monstera/Description=Heals flowers around it.<n/>Effect fades out with distance to petal.

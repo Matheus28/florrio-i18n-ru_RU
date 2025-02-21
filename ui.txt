@@ -8,6 +8,7 @@ UI/Title/LoggingIn=Авторизация...
 UI/Title/Ready=Играть
 UI/Title/GuestName=Гость
 UI/Title/GuestLimitation=Вы сможете выбрать имя после привязки аккаунта или получения {0}-го уровня.
+UI/Title/LockedInHel=You are stuck in Hel for {0:time}.
 UI/Title/Name/Title=Этого милого цветка зовут...
 UI/Title/Name/Rules1=Ваше имя может состоять только из английских букв, цифр, символов "{2}" и должно содержать от {0} до {1} символов.
 UI/Title/Name/Rules2=Оно должно включать как минимум {0} буквы или цифры.

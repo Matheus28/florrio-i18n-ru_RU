@@ -6,9 +6,9 @@ Maps/ant_hole3/Name=Термитник
 Maps/ant_hole4/Name=Термитник
 Maps/ant_hole5/Name=Термитник
 
-Maps/battle_ground/Name=Поле Боя
-
 Maps/desert/Name=Пустыня
+
+Maps/factory/Name=Factory
 
 Maps/garden/Name=Сад
 

@@ -303,3 +303,6 @@ Mobs/wasp_mecha/Gender=Female
 Mobs/spider_mecha/Name=Паук
 Mobs/spider_mecha/Description=Меха-Жуть.
 Mobs/spider_mecha/Gender=Male
+
+Mobs/leafbug_shiny/Name=Leafbug
+Mobs/leafbug_shiny/Description=This one has a special color to it...
