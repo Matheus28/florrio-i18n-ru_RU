@@ -1,6 +1,9 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+February 23rd 2025
+	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+
 February 6th 2025
 	- Eggs now only spawn mobs when they break.
 	- Sandstorm now phases through non-flower entities (still deals damage normally).

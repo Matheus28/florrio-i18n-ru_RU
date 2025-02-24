@@ -510,3 +510,11 @@ Petals/monstera/Name=Монстера
 Petals/monstera/FullName=Монстера
 Petals/monstera/Description=Лечит цветки вокруг себя.<n/>Эффект ослабевает с расстоянием до лепестка.
 Petals/monstera/Gender=Female
+
+Petals/mecha_antennae/Name=Antennae
+Petals/mecha_antennae/FullName=Mecha Antennae
+Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.<n/>And it has a blinking red light on top.
+
+Petals/laser/Name=Laser
+Petals/laser/FullName=Laser
+Petals/laser/Description=Pew pew.

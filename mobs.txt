@@ -307,3 +307,12 @@ Mobs/spider_mecha/Gender=Male
 Mobs/leafbug_shiny/Name=Листовидка
 Mobs/leafbug_shiny/Description=У неё особенный цвет...
 Mobs/leafbug_shiny/Gender=Female
+
+Mobs/crab_mecha/Name=Crab
+Mobs/crab_mecha/Description=Dr. Crab.
+
+Mobs/assembler/Name=Assembler
+Mobs/assembler/Description= 
+
+Mobs/barrel/Name=Barrel
+Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
