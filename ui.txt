@@ -241,9 +241,9 @@ UI/UniqueCraft/Button=Сковать
 UI/UniqueCraft/Instructions=Уникальные лепестки останутся у вас до тех пор, пока другой игрок не скуёт такой же лепесток.<n/>Когда это произойдёт, вы получите свои Супер лепестки обратно.<n/>Стоимость лепестка увеличивается при каждой его сковке.
 UI/UniqueCraft/NoSupers=У вас нет Супер лепестков, чтобы попробовать это.
 
-UI/AssemblerCraft/Title=Assemble
-UI/AssemblerCraft/Button=Assemble
-UI/AssemblerCraft/Instructions=Combine specific petals to assemble a new petal.
+UI/AssemblerCraft/Title=Сборка
+UI/AssemblerCraft/Button=Собрать
+UI/AssemblerCraft/Instructions=Объедините определённые лепестки для сборки нового лепестка.
 
 UI/Death/Poison=Яд
 

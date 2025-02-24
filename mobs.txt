@@ -308,11 +308,14 @@ Mobs/leafbug_shiny/Name=Листовидка
 Mobs/leafbug_shiny/Description=У неё особенный цвет...
 Mobs/leafbug_shiny/Gender=Female
 
-Mobs/crab_mecha/Name=Crab
-Mobs/crab_mecha/Description=Dr. Crab.
+Mobs/crab_mecha/Name=Краб
+Mobs/crab_mecha/Description=Доктор Краб.
+Mobs/crab_mecha/Gender=Male
 
-Mobs/assembler/Name=Assembler
+Mobs/assembler/Name=Сборщик
 Mobs/assembler/Description= 
+Mobs/assembler/Gender=Male
 
-Mobs/barrel/Name=Barrel
-Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
+Mobs/barrel/Name=Бочка
+Mobs/barrel/Description=Ни в коем случае не давайте этой штуке пролиться.<n/>Мы не можем рисковать ещё одним насекомым-мутантом в этом месяце.
+Mobs/barrel/Gender=Male

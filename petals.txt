@@ -488,6 +488,7 @@ Petals/mjolnir/unique/Gender=Male
 
 Petals/mecha_missile/Name=Снаряд
 Petals/mecha_missile/FullName=Меха-Снаряд
+Petals/mecha_missile/FullName/Instrumental=Меха-Снарядом
 Petals/mecha_missile/Description=Зафиксирован.
 Petals/mecha_missile/Gender=Male
 
@@ -511,10 +512,12 @@ Petals/monstera/FullName=Монстера
 Petals/monstera/Description=Лечит цветки вокруг себя.<n/>Эффект ослабевает с расстоянием до лепестка.
 Petals/monstera/Gender=Female
 
-Petals/mecha_antennae/Name=Antennae
-Petals/mecha_antennae/FullName=Mecha Antennae
-Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.<n/>And it has a blinking red light on top.
+Petals/mecha_antennae/Name=Усики
+Petals/mecha_antennae/FullName=Меха-Усики
+Petals/mecha_antennae/Description=Позволяют цветку чуять противников на большем расстоянии.<n/>А сверху на них мигают красные лампочки.
+Petals/mecha_antennae/Gender=Plural
 
-Petals/laser/Name=Laser
-Petals/laser/FullName=Laser
-Petals/laser/Description=Pew pew.
+Petals/laser/Name=Лазер
+Petals/laser/FullName=Лазер
+Petals/laser/Description=Пиу-пиу.
+Petals/laser/Gender=Male
