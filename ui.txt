@@ -73,9 +73,9 @@ UI/Damage/Evade=Уклонение
 # When the target evades damage
 UI/Damage/Miss=Промах
 
-UI/Dummy/Last=Last: {0:tooltip}
-UI/Dummy/Total=Total: {0:tooltip}
-UI/Dummy/DPS=DPS: {0:tooltip}
+UI/Dummy/Last=Последний: {0:tooltip}
+UI/Dummy/Total=Сумма: {0:tooltip}
+UI/Dummy/DPS=УВС: {0:tooltip}
 
 UI/Death/Title=Ваш убийца:
 UI/Death/NoSource=Таинственная сущность

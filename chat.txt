@@ -213,12 +213,12 @@ Chat/Oracle/Prediction/0=Ах да, пророчество... это должн�
 Chat/Oracle/Prediction/1=Это было предсказано, и вот время настало...
 Chat/Oracle/Prediction/2=Я ждал этого момента...
 
-Chat/Oracle/ShopPrediction/No=The future is too cloudy to tell
-Chat/Oracle/ShopPrediction/Distance0=It is imminent
-Chat/Oracle/ShopPrediction/Distance1=Soon
-Chat/Oracle/ShopPrediction/Distance2=Eventually
-Chat/Oracle/ShopPrediction/Distance3=Perhaps some futures are just indeterminate
-Chat/Oracle/ShopPrediction/Request=Oracle, oracle, make me a prediction about {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+Chat/Oracle/ShopPrediction/No=Будущее слишком туманно для предсказания
+Chat/Oracle/ShopPrediction/Distance0=Это неизбежно
+Chat/Oracle/ShopPrediction/Distance1=Скоро
+Chat/Oracle/ShopPrediction/Distance2=Со временем
+Chat/Oracle/ShopPrediction/Distance3=Возможно, некоторые варианты будущего просто не предопределены
+Chat/Oracle/ShopPrediction/Request=Оракул, оракул, сделай мне предсказание {#Rarities/{0:rarity}/About} {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Prepositional} {#Petals/{0:base}/FullName/Prepositional}
 
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=Ай
