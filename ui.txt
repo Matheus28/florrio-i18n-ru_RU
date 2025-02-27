@@ -75,7 +75,7 @@ UI/Damage/Miss=Промах
 
 UI/Dummy/Last=Последний: {0:tooltip}
 UI/Dummy/Total=Сумма: {0:tooltip}
-UI/Dummy/DPS=УВС: {0:tooltip}
+UI/Dummy/DPS=Урон/с: {0:tooltip}
 
 UI/Death/Title=Ваш убийца:
 UI/Death/NoSource=Таинственная сущность
