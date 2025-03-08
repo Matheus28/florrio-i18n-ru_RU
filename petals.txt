@@ -555,7 +555,7 @@ Petals/magic_bubble/Gender=Male
 Petals/nazar/Name=Назар
 Petals/nazar/FullName=Амулет Назар
 Petals/nazar/FullName/Prepositional=Амулете Назар
-Petals/nazar/Description=Уменьшает урон от одного удара на 98%.
+Petals/nazar/Description=Уменьшает урон от каждого удара на 98%.
 Petals/nazar/Gender=Male
 
 Petals/mimic/Name=Мимик
@@ -624,3 +624,9 @@ Petals/laser/FullName=Лазер
 Petals/laser/FullName/Prepositional=Лазере
 Petals/laser/Description=Пиу-пиу.
 Petals/laser/Gender=Male
+
+Petals/domino/Name=Домино
+Petals/domino/FullName=Домино
+Petals/domino/FullName/Prepositional=Домино
+Petals/domino/Description=Урон зависит от того, сколько на нём точек.
+Petals/domino/Gender=Neuter
