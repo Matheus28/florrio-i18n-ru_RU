@@ -41,6 +41,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Молния:</c> {0:toolti
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Отскоки:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Уклонение:</c> {0:perc}%
 
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Перезарядка:</c> {0}
+Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Количество Копий:</c> {0:tooltip}
 Petal/Attribute/Health=<c val="{#Colors/health}">Здоровье:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Урон:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Урон:</c> {0:tooltip} <c val="{#Colors/lightning}">(молния)</c>
@@ -112,7 +114,7 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Молния:</c> 
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Цена Призыва:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Цена Поддержки:</c> {0:tooltip} <c val="{#Colors/mana}">ед. маны</c>/с
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Даёт {0:perc}% шанс выпадения дополнительного лепестка с мобов.</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">Перезарядка:</c> -{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Перезарядка:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Жертвы застрянут в Аду на {0:time:accusative}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Управляют:</c> {#Petals/{0:base}/FullName/Instrumental} ({#Rarities/{0:rarity}/NameColored/{#Petals/{0:base}/Gender}/Instrumental})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Сломан.</c>
