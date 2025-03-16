@@ -318,7 +318,7 @@ Mobs/assembler/Gender=Male
 
 Mobs/barrel/Name=Бочка
 Mobs/barrel/Description=Ни в коем случае не давайте этой штуке пролиться.<n/>Мы не можем рисковать ещё одним насекомым-мутантом в этом месяце.
-Mobs/barrel/Gender=Male
+Mobs/barrel/Gender=Female
 
 Mobs/beetle_mummy/Name=Жук
 Mobs/beetle_mummy/Description=Кажется, этот не должен быть живым...
