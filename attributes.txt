@@ -40,6 +40,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Вампиризм:</c> {0:toolt
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Молния:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Отскоки:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Уклонение:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Перезарядка:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Количество Копий:</c> {0:tooltip}
@@ -60,6 +61,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Сопротивле�
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Здоровье Цветка:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Здоровье Цветка:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative} + {1:tooltipTime:nominative}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">Содержимое:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Содержимое:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
@@ -118,3 +120,5 @@ Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Перезарядка:</c
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Жертвы застрянут в Аду на {0:time:accusative}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Управляют:</c> {#Petals/{0:base}/FullName/Instrumental} ({#Rarities/{0:rarity}/NameColored/{#Petals/{0:base}/Gender}/Instrumental})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Сломан.</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Невозрождаемость:</c> {0:tooltipTime:nominative}

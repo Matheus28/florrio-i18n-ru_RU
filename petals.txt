@@ -630,3 +630,9 @@ Petals/domino/FullName=Домино
 Petals/domino/FullName/Prepositional=Домино
 Petals/domino/Description=Урон зависит от того, сколько на нём точек.
 Petals/domino/Gender=Neuter
+
+Petals/bandage/Name=Бинт
+Petals/bandage/FullName=Бинт
+Petals/bandage/FullName/Prepositional=Бинте
+Petals/bandage/Description=Превращает цветок в <c val="{#Colors/undead}">Нежить</c> на ограниченное время после смерти.<n/>Предотвращает возрождение на некоторое время после этого.
+Petals/bandage/Gender=Male
