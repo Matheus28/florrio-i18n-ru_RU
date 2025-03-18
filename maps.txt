@@ -18,6 +18,8 @@ Maps/jungle/Name=Джунгли
 
 Maps/ocean/Name=Океан
 
+Maps/pyramid/Name=Пирамида
+
 Maps/sewers/Name=Канализация
 
 Maps/worm/Name=Червь
