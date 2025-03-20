@@ -634,5 +634,11 @@ Petals/domino/Gender=Neuter
 Petals/bandage/Name=Бинт
 Petals/bandage/FullName=Бинт
 Petals/bandage/FullName/Prepositional=Бинте
-Petals/bandage/Description=Превращает цветок в <c val="{#Colors/undead}">Нежить</c> на ограниченное время после смерти.<n/>Предотвращает возрождение на некоторое время после этого.
+Petals/bandage/Description=Превращает цветок в <c val="{#Colors/undead}">Нежить</c> на ограниченное время при смерти.<n/>Откладывает смерть до истечения срока.<n/>Предотвращает возрождение на некоторое время после этого.
 Petals/bandage/Gender=Male
+
+Petals/crown/Name=Корона
+Petals/crown/FullName=Корона Фараона
+Petals/crown/FullName/Prepositional=Короне Фараона
+Petals/crown/Description=Порождает Жуков-<c val="{#Colors/undead}">Нежить</c> для сражения на вашей стороне.
+Petals/crown/Gender=Female

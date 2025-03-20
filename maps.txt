@@ -19,6 +19,7 @@ Maps/jungle/Name=Джунгли
 Maps/ocean/Name=Океан
 
 Maps/pyramid/Name=Пирамида
+Maps/pyramid/Changing=Пески под вами начинают сдвигаться...
 
 Maps/sewers/Name=Канализация
 
