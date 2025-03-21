@@ -642,3 +642,9 @@ Petals/crown/FullName=Корона Фараона
 Petals/crown/FullName/Prepositional=Короне Фараона
 Petals/crown/Description=Порождает Жуков-<c val="{#Colors/undead}">Нежить</c> для сражения на вашей стороне.
 Petals/crown/Gender=Female
+
+Petals/totem/Name=Тотем
+Petals/totem/FullName=Тотем
+Petals/totem/FullName/Prepositional=Тотеме
+Petals/totem/Description=Даёт регенерацию здоровья на определённое время после убийства моба.
+Petals/totem/Gender=Male

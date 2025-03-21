@@ -323,3 +323,11 @@ Mobs/barrel/Gender=Female
 Mobs/beetle_mummy/Name=Жук
 Mobs/beetle_mummy/Description=Кажется, этот не должен быть живым...
 Mobs/beetle_mummy/Gender=Male
+
+Mobs/beetle_pharaoh/Name=Жук
+Mobs/beetle_pharaoh/Description=Эта штука на его голове выглядит ценной... Мы должны украсть её.
+Mobs/beetle_pharaoh/Gender=Male
+
+Mobs/tomb/Name=Гробница
+Mobs/tomb/Description=Хмм, что здесь может быть?
+Mobs/tomb/Gender=Female
