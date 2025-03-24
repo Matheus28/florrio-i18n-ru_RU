@@ -122,3 +122,4 @@ Petal/Attribute/Controls=<c val="{#Colors/generic}">Управляют:</c> {#Pe
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Сломан.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Невозрождаемость:</c> {0:tooltipTime:nominative}
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Урон Тела:</c> -{0:perc}%
