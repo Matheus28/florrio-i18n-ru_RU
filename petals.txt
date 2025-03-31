@@ -648,3 +648,9 @@ Petals/totem/FullName=Тотем
 Petals/totem/FullName/Prepositional=Тотеме
 Petals/totem/Description=Даёт регенерацию здоровья на определённое время после убийства моба.
 Petals/totem/Gender=Male
+
+Petals/triangle/Name=Треугольник
+Petals/triangle/FullName=Треугольник
+Petals/triangle/FullName/Prepositional=Треугольнике
+Petals/triangle/Description=Каждая надетая копия этого лепестка даёт ему дополнительный урон.
+Petals/triangle/Gender=Male

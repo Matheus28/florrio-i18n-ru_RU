@@ -50,6 +50,7 @@ Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Урон:</c> {0:tool
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Урон:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Урон:</c> {0:tooltip}/с
 Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Урон:</c> {0:tooltip}/с <c val="{#Colors/lightning}">(молния)</c>
+Petal/Attribute/DamagePlusPerPetal=<c val="{#Colors/damage}">Урон:</c> {0:tooltip} + {1:tooltip} за каждый {#Petals/{2:base}/FullName} ({#Rarities/{2:rarity}/NameColored/{#Petals/{2:base}/Gender}})
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Броня:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Скорость Вращения:</c> +{0:tooltip} рад/с
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Лечение:</c> {0:tooltip}
