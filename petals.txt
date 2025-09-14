@@ -429,3 +429,7 @@ Petals/totem/Description=Grants health regen for a certain duration after killin
 Petals/triangle/Name=Triangle
 Petals/triangle/FullName=Triangle
 Petals/triangle/Description=Each copy of this petal equipped grants additional damage to it.
+
+Petals/electric_web/Name=Web
+Petals/electric_web/FullName=Electric Web
+Petals/electric_web/Description=It's a little less sticky, but a bit more shocking.
