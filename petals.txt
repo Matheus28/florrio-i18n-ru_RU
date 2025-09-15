@@ -654,3 +654,9 @@ Petals/triangle/FullName=Треугольник
 Petals/triangle/FullName/Prepositional=Треугольнике
 Petals/triangle/Description=Каждая надетая копия этого лепестка даёт ему дополнительный урон.
 Petals/triangle/Gender=Male
+
+Petals/electric_web/Name=Паутина
+Petals/electric_web/FullName=Электрическая Паутина
+Petals/electric_web/FullName/Prepositional=Электрической Паутине
+Petals/electric_web/Description=Она немного менее липкая, но чуть более шокирующая.
+Petals/electric_web/Gender=Female

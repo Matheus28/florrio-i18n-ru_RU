@@ -7,7 +7,7 @@ UI/Title/Connecting=Подключение...
 UI/Title/LoggingIn=Авторизация...
 UI/Title/Ready=Играть
 UI/Title/GuestName=Гость
-UI/Title/GuestLimitation=Вы сможете выбрать имя после привязки аккаунта или получения {0}-го уровня.
+UI/Title/GuestLimitation=Вы сможете выбрать имя после привязки аккаунта или достижения {0}-го уровня.
 UI/Title/LockedInHel=Вы застряли в Аду на {0:time:accusative}.
 UI/Title/Name/Title=Этого милого цветка зовут...
 UI/Title/Name/Rules1=Ваше имя может состоять только из английских букв, цифр, символов "{2}" и должно содержать от {0} до {1} символов.
@@ -305,6 +305,8 @@ UI/Settings/InvertDefend=Инвертировать кнопку защиты
 
 UI/Settings/AutoSaveLoadout=Автосохранение снаряжения
 UI/Settings/AutoSaveLoadout/Help=Если выкл., нажм. [O] для сохранения снаряжения
+
+UI/Settings/Fullscreen=Полный экран
 
 UI/Settings/PrivacyPolicy=Политика Конфиденциальности
 UI/Settings/TermsOfService=Условия Использования
