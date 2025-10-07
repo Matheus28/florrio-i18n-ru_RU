@@ -83,6 +83,9 @@ Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Attack Range:</c> +{0:too
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnRarity={#Petal/Attribute/SpawnRarity{0:1orN}}
+Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">Spawn Rarity:</c> {#Rarities/{1}/NameColored}
+Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">Spawn Rarity:</c> {0}x {#Rarities/{1}/NameColored}
 Petal/Attribute/Luck=<c val="{#Colors/generic}">Luck:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Movement Speed:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Heal Bonus:</c> +{0:perc}%
@@ -123,3 +126,4 @@ Petal/Attribute/Broken=<c val="{#Colors/danger}">Broken.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Undead:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Unrevivable:</c> {0:tooltipTime}
 Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Body Damage:</c> -{0:perc}%
+Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">Petal is consumed when used.</c>

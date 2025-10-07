@@ -433,3 +433,7 @@ Petals/triangle/Description=Each copy of this petal equipped grants additional d
 Petals/electric_web/Name=Web
 Petals/electric_web/FullName=Electric Web
 Petals/electric_web/Description=It's a little less sticky, but a bit more shocking.
+
+Petals/sacrifice/Name=Sacrifice
+Petals/sacrifice/FullName=Blood Sacrifice
+Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.
