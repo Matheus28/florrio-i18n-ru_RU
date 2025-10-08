@@ -660,3 +660,7 @@ Petals/electric_web/FullName=Электрическая Паутина
 Petals/electric_web/FullName/Prepositional=Электрической Паутине
 Petals/electric_web/Description=Она немного менее липкая, но чуть более шокирующая.
 Petals/electric_web/Gender=Female
+
+Petals/sacrifice/Name=Sacrifice
+Petals/sacrifice/FullName=Blood Sacrifice
+Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.

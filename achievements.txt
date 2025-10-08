@@ -427,3 +427,6 @@ Achievements/138/Description=Наденьте {#Petals/{0}/FullName/Accusative}.
 
 Achievements/139/Name=Мне повезёт
 Achievements/139/Description=Получите дополнительный лепесток благодаря {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Dative} {#Petals/{0:base}/Name/Dative}.
+
+Achievements/140/Name=Blood Sacrifice
+Achievements/140/Description=Perform a Blood Sacrifice.
