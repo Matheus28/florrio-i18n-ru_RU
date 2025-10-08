@@ -661,6 +661,8 @@ Petals/electric_web/FullName/Prepositional=Электрической Паути
 Petals/electric_web/Description=Она немного менее липкая, но чуть более шокирующая.
 Petals/electric_web/Gender=Female
 
-Petals/sacrifice/Name=Sacrifice
-Petals/sacrifice/FullName=Blood Sacrifice
-Petals/sacrifice/Description=On death, summons a mob to fight again.<n/>Mob type depends on where the sacrifice happens.<n/>Cannot be used in low mob rarity areas.
+Petals/sacrifice/Name=Жертва
+Petals/sacrifice/FullName=Жертва Крови
+Petals/sacrifice/FullName/Prepositional=Жертве Крови
+Petals/sacrifice/Description=При смерти призывает моба для новой битвы.<n/>Тип моба зависит от места совершения жертвы.<n/>Нельзя использовать в зонах с низкой редкостью мобов.
+Petals/sacrifice/Gender=Female

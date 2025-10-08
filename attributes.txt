@@ -85,8 +85,8 @@ Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Призывает:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
 Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Призывает:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
 Petal/Attribute/SpawnRarity={#Petal/Attribute/SpawnRarity{0:1orN}}
-Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">Spawn Rarity:</c> {#Rarities/{1}/NameColored}
-Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">Spawn Rarity:</c> {0}x {#Rarities/{1}/NameColored}
+Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">Призываемая Редкость:</c> {#Rarities/{1}/NameColored/Female}
+Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">Призываемая Редкость:</c> {0}x {#Rarities/{1}/NameColored/Female}
 Petal/Attribute/Luck=<c val="{#Colors/generic}">Удача:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Скорость Передвижения:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Бонусное Лечение:</c> +{0:perc}%
@@ -127,4 +127,4 @@ Petal/Attribute/Broken=<c val="{#Colors/danger}">Сломан.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Невозрождаемость:</c> {0:tooltipTime:nominative}
 Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Урон Тела:</c> -{0:perc}%
-Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">Petal is consumed when used.</c>
+Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">Лепесток теряется при использовании.</c>

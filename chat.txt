@@ -40,8 +40,8 @@ Chat/PetalFoundNamed/generic/Plural={#Petals/AnnouncementPrefix:0} были на
 Chat/PetalFoundUnnamed/crown={#Petals/{0:base}/FullName} была украдена!
 Chat/PetalFoundNamed/crown={#Petals/{0:base}/FullName} была украдена игроком {1}!
 
-Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/{#Mobs/{0:base}/Gender}}
-Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/{#Mobs/{0:base}/Gender}}
+Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/{#Mobs/{0:base}/Gender}}
+Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/{#Mobs/{0:base}/Gender}}
 
 Chat/MobSpawnedHere/Male=Появился {#Mobs/AnnouncementPrefix:0}!
 Chat/MobSpawnedHere/Female=Появилась {#Mobs/AnnouncementPrefix:0}!
@@ -53,8 +53,15 @@ Chat/MobSpawnedSomewhere/Female=Где-то появилась {#Mobs/Announceme
 Chat/MobSpawnedSomewhere/Neuter=Где-то появилось {#Mobs/AnnouncementPrefix:0}!
 Chat/MobSpawnedSomewhere/Plural=Где-то появились {#Mobs/AnnouncementPrefix:0}!
 
-Chat/MobSpawnedHere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} has been summoned!
-Chat/MobSpawnedSomewhere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} has been summoned somewhere!
+Chat/MobSpawnedHere/Special/sacrifice/Male=Был призван {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Female=Была призвана {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Neuter=Было призвано {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Plural=Были призваны {#Mobs/AnnouncementPrefix:0}!
+
+Chat/MobSpawnedSomewhere/Special/sacrifice/Male=Где-то был призван {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Female=Где-то была призвана {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Neuter=Где-то было призвано {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Plural=Где-то были призваны {#Mobs/AnnouncementPrefix:0}!
 
 Chat/MobDefeated={#Chat/MobDefeated/{1}/{#Mobs/{0:base}/Gender}}
 
