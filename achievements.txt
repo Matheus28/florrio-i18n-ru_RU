@@ -149,25 +149,25 @@ Achievements/45/Description=Пройдите {0} испытаний.
 Achievements/46/Name=Борец
 Achievements/46/Description=Пройдите {0} испытаний.
 
-Achievements/47/Name=Готовьтесь
+Achievements/47/Name=Экипировка
 Achievements/47/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/48/Name=Готовьтесь
+Achievements/48/Name=Экипировка
 Achievements/48/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/49/Name=Готовьтесь
+Achievements/49/Name=Экипировка
 Achievements/49/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/50/Name=Готовьтесь
+Achievements/50/Name=Экипировка
 Achievements/50/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/51/Name=Готовьтесь
+Achievements/51/Name=Экипировка
 Achievements/51/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/52/Name=Готовьтесь
+Achievements/52/Name=Экипировка
 Achievements/52/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
-Achievements/53/Name=Готовьтесь
+Achievements/53/Name=Экипировка
 Achievements/53/Description=Наденьте {1} {#Rarities/{0}/Name/Plural/Genitive} лепестков.
 
 Achievements/54/Name=Призыватель
@@ -311,7 +311,7 @@ Achievements/99/Description=Получите награду за убийств�
 Achievements/100/Name=Счастливчик
 Achievements/100/Description=Успешно скрафтьте {0} лепестков подряд.
 
-Achievements/101/Name=Невезучий
+Achievements/101/Name=Неудачник
 Achievements/101/Description=Провалите крафт {0} лепестков подряд.
 
 Achievements/102/Name=Бумага
@@ -365,8 +365,8 @@ Achievements/117/Description=Умрите от {0} разных типов мо�
 Achievements/118/Name=Плохой как ни крути
 Achievements/118/Description=Умрите от {0} разных типов мобов.
 
-Achievements/119/Name=Коснувшийся
-Achievements/119/Description=Коснитесь разработчика.
+Achievements/119/Name=Тронутый
+Achievements/119/Description=Дотроньтесь до разработчика.
 
 Achievements/120/Name=Неуловимый
 Achievements/120/Description=Уклонитесь от {0:tooltip} единиц урона.
