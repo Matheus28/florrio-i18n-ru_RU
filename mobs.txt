@@ -25,6 +25,8 @@ Mobs/ant_worker/Description=Он слегка темпераментный, на
 Mobs/ant_worker/Gender=Male
 
 Mobs/ant_soldier/Name=Муравей-Солдат
+Mobs/ant_soldier/Name/4=Муравья-Солдата
+Mobs/ant_soldier/Name/5=Муравьёв-Солдат
 Mobs/ant_soldier/Description=У него есть крылья, и он готов их использовать.
 Mobs/ant_soldier/Gender=Male
 
@@ -102,6 +104,8 @@ Mobs/fire_ant_burrow/Description=Что здесь может быть?
 Mobs/fire_ant_burrow/Gender=Male
 
 Mobs/sandstorm/Name=Песчаная Буря
+Mobs/sandstorm/Name/Accusative=Песчаную Бурю
+Mobs/sandstorm/Name/Accusative/2=Песчаные Бури
 Mobs/sandstorm/Description=Даруд (1999)
 Mobs/sandstorm/Gender=Female
 
@@ -321,6 +325,7 @@ Mobs/barrel/Description=Ни в коем случае не давайте это
 Mobs/barrel/Gender=Female
 
 Mobs/beetle_mummy/Name=Жук
+Mobs/beetle_mummy/Name/Accusative=Жука
 Mobs/beetle_mummy/Description=Кажется, этот не должен быть живым...
 Mobs/beetle_mummy/Gender=Male
 

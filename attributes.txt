@@ -63,9 +63,10 @@ Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Здоровье Цвет
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Здоровье Цветка:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative}
 Petal/Attribute/Duration2=<c val="{#Colors/duration}">Длительность:</c> {0:tooltipTime:nominative} + {1:tooltipTime:nominative}
-Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
-Petal/Attribute/Contents1=<c val="{#Colors/generic}">Содержимое:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
-Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Содержимое:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
+Petal/Attribute/Contents={#Petal/Attribute/Contents/{1:base}/{0}}
+Petal/Attribute/Contents/beetle/1=<c val="{#Colors/generic}">Содержимое:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
+Petal/Attribute/Contents/ant_soldier/4=<c val="{#Colors/generic}">Содержимое:</c> {0} {#Mobs/{1:base}/Name/{0}} ({#Rarities/{1:rarity}/NameColored/Plural/Genitive})
+Petal/Attribute/Contents/ant_soldier/5=<c val="{#Colors/generic}">Содержимое:</c> {0} {#Mobs/{1:base}/Name/{0}} ({#Rarities/{1:rarity}/NameColored/Plural/Genitive})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Доп. Зрение:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Радиус:</c> {0:tooltip}
 Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Макс. Редкость Мобов:</c> {#Rarities/{0}/NameColored/Female}
@@ -73,7 +74,7 @@ Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Отражени�
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Дальность Подбора:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Молния:</c> {0:tooltip}
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">Отскоки:</c> {0:tooltip}
-Petal/Attribute/Knockback=<c val="{#Colors/generic}">Отбрасывание:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="{#Colors/generic}">Отталкивание:</c> {0:tooltip}
 Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">Доп. Урон:</c> {0:tooltip}
 Petal/Attribute/Shield=<c val="{#Colors/generic}">Щит:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">Урон Тела:</c> {0:tooltip}
@@ -81,9 +82,10 @@ Petal/Attribute/Period=<c val="{#Colors/generic}">Период:</c> {0:tooltipTi
 Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">Радиус Цветка:</c> +{0:tooltip}
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Вампиризм:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Дальность Атаки:</c> +{0:tooltip}
-Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Призывает:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
-Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Призывает:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}})
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn/{1:base}/{0}}
+Petal/Attribute/Spawn/beetle_mummy/1=<c val="{#Colors/generic}">Призывает:</c> {#Mobs/{1:base}/Name/Accusative} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}/Accusative/Animate})
+Petal/Attribute/Spawn/sandstorm/1=<c val="{#Colors/generic}">Призывает:</c> {#Mobs/{1:base}/Name/Accusative} ({#Rarities/{1:rarity}/NameColored/{#Mobs/{1:base}/Gender}/Accusative})
+Petal/Attribute/Spawn/sandstorm/2=<c val="{#Colors/generic}">Призывает:</c> {0} {#Mobs/{1:base}/Name/Accusative/{0}} ({#Rarities/{1:rarity}/NameColored/Plural})
 Petal/Attribute/SpawnRarity={#Petal/Attribute/SpawnRarity{0:1orN}}
 Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">Призываемая Редкость:</c> {#Rarities/{1}/NameColored/Female}
 Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">Призываемая Редкость:</c> {0}x {#Rarities/{1}/NameColored/Female}
@@ -91,7 +93,7 @@ Petal/Attribute/Luck=<c val="{#Colors/generic}">Удача:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Скорость Передвижения:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Бонусное Лечение:</c> +{0:perc}%
 Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">Дальность Привлечения Мобов:</c> -{0:perc}%
-Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">Отбрасывание Цветка:</c> +{0:tooltip}
+Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">Отталкивание Цветка:</c> +{0:tooltip}
 Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">Урон Себе:</c> {0:tooltip}
 Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Ослабление Брони:</c> {0:tooltip}
 Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">Броня Цветка:</c> {0:tooltip}
@@ -127,4 +129,4 @@ Petal/Attribute/Broken=<c val="{#Colors/danger}">Сломан.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Невозрождаемость:</c> {0:tooltipTime:nominative}
 Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Урон Тела:</c> -{0:perc}%
-Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">Лепесток теряется при использовании.</c>
+Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">Лепесток тратится при использовании.</c>
