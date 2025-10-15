@@ -1,65 +1,38 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
-February 23rd 2025
-	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+14 октября 2025
+	- Удача теперь снова увеличивает редкость мобов в зоне появления.
 
 23 февраля 2025
-	- 
-
-February 6th 2025
-	- Eggs now only spawn mobs when they break.
-	- Sandstorm now phases through non-flower entities (still deals damage normally).
+	- Добавлена Фабрика. Позже мы добавим туда больше контента, но играть на ней можно уже сейчас.
 
 6 февраля 2025
-	- 
-	- 
-
-January 16th 2025
-	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
-	- Loading a loadout on a keyboard is done by holding L+number, or K+number for the second set of loadouts.
-	- Changed default behavior of when loadouts are saved. With auto-save enabled, they'll be saved whenever switching loadouts. If disabled, you'll need to press O to save the current loadout.
+	- Яйца теперь вылупляют мобов только когда они ломаются.
+	- Песчаные бури теперь могут проходить сквозь сущностей кроме игроков (это не меняет их урон).
 
 16 января 2025
-	- 
-	- 
-	- 
-
-January 9th 2025
-	- Slows have been reworked. Now their effectiveness will depend on mob vs petal rarity.
-	- Yggdrasil now applies a 30s cooldown on the revived flower, preventing it from being revived again during that time.
-	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
-	- Some death ui improvements.
+	- На телефонах теперь можно сохранять снаряжение. Для смены зажмите X и нажмите на слот из второй группы лепестков. Каждое снаряжение отображает свой первый лепесток в качестве иконки. 
+	- Для загрузки снаряжения на клавиатуре теперь нужно зажать L+число, или K+число для второй группы снаряжений.
+	- Изменено сохранение снаряжений по умолчанию. С включённым автосохранением снаряжения, они будут сохраняться при смене снаряжения. С выключенным автосохранением снаряжения для его сохранения вам нужно нажать O.
 
 9 января 2025
-	- 
-	- 
-	- 
-	- 
-
-December 25th 2024
-	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
+	- Переработано замедление. Его эффективность теперь будет зависить от редкости цели против редкости лепестка.
+	- Игроки, воскрешённые Иггдрасилем, теперь не могут быть воскрешены снова в течение 30 секунд.
+	- Аггресивные и полуаггресивные мобы теперь будут отступать, если их атакует сущность, которую они не могут атаковать (за стеной, под землёй и т.д.)
+	- Немного улучшен интерфейс смерти.
 
 25 декабря 2024
-	- 
-
-December 16th 2024
-	- Mana gain & cost have been reworked to scale at higher rarities.
+	- В знак ностальгии, на несколько дней карта Сада будет чем-то, что может показаться немного знакомым.
 
 16 декабря 2024
-	- 
-
-December 5th 2024
-	- A few more petals got added and stuff.
+	- Прирост и стоимость маны теперь растут с редкостями.
 
 5 декабря 2024
-	- 
-
-June 2nd 2024
-	- Talents can now be reset for free an unlimited amount of times without delay.
+	- Добавлено несколько новых лепестков и всё такое.
 
 2 июня 2024
-	- 
+	- Таланты теперь можно сбрасывать бесплатно неограниченное количество раз без задержки.
 
 May 30th 2024
 	- You can now precisely control how fast/slow you want petals to rotate. Slowest is 30% of maximum speed.
@@ -449,16 +422,10 @@ December 28th 2022
 10 декабря 2022
 	- В связи с некоторыми изменениями дерева талантов, мы сбросили таланты всех игроков и вернули все ОТ.
 
-November 30th 2022
-	- Mobile users can now tap and hold a petal on the crafting screen to add many at a time.
-	- To make the game a little bit easier, petals now move towards enemies within a certain range of them, which should make it easier to hit enemies.
-	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP allocation once per year.
-	- As a reminder, we'll be adding more things to spend TP on as time goes on.
-
 30 ноября 2022
-	- 
-	- 
-	- 
+	- Игроки на телефонах теперь могут зажать на лепесток в меню крафта, чтобы положить в крафт несколько сразу.
+	- Для небольшого облегчения игры, лепести теперь двигаются к врагам на определённом расстоянии от них, что должно сделать атаку врагов немного проще.
+	- В связи с тем, что при трате ОТ много игроков не осознавали, что таланты нельзя сбросить, в конце Декабря мы выпустим обновление, которое позволит сбрасывать свои таланты раз в год.
 	- Напоминаем, что с течением времени мы будем добавлять больше вещей, куда можно потратить ОТ.
 
 29 ноября 2022
